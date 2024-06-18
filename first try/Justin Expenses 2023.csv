@@ -1,0 +1,4202 @@
+﻿Category,Day,Amount,Date,Month
+Rent,1,,01/01/2023,JAN
+Rent,2,,02/01/2023,JAN
+Rent,3,,03/01/2023,JAN
+Rent,4,,04/01/2023,JAN
+Rent,5,,05/01/2023,JAN
+Rent,6,,06/01/2023,JAN
+Rent,7,,07/01/2023,JAN
+Rent,8,,08/01/2023,JAN
+Rent,9,,09/01/2023,JAN
+Rent,10,,10/01/2023,JAN
+Rent,11,,11/01/2023,JAN
+Rent,12,,12/01/2023,JAN
+Rent,13,,13/01/2023,JAN
+Rent,14,,14/01/2023,JAN
+Rent,15,,15/01/2023,JAN
+Rent,16,,16/01/2023,JAN
+Rent,17,,17/01/2023,JAN
+Rent,18,,18/01/2023,JAN
+Rent,19,,19/01/2023,JAN
+Rent,20,,20/01/2023,JAN
+Rent,21,,21/01/2023,JAN
+Rent,22,,22/01/2023,JAN
+Rent,23,1205,23/01/2023,JAN
+Rent,24,,24/01/2023,JAN
+Rent,25,,25/01/2023,JAN
+Rent,26,,26/01/2023,JAN
+Rent,27,,27/01/2023,JAN
+Rent,28,,28/01/2023,JAN
+Rent,29,,29/01/2023,JAN
+Rent,30,,30/01/2023,JAN
+Rent,31,,31/01/2023,JAN
+Tithe,1,,01/01/2023,JAN
+Tithe,2,,02/01/2023,JAN
+Tithe,3,,03/01/2023,JAN
+Tithe,4,,04/01/2023,JAN
+Tithe,5,,05/01/2023,JAN
+Tithe,6,,06/01/2023,JAN
+Tithe,7,,07/01/2023,JAN
+Tithe,8,,08/01/2023,JAN
+Tithe,9,,09/01/2023,JAN
+Tithe,10,,10/01/2023,JAN
+Tithe,11,,11/01/2023,JAN
+Tithe,12,,12/01/2023,JAN
+Tithe,13,,13/01/2023,JAN
+Tithe,14,,14/01/2023,JAN
+Tithe,15,,15/01/2023,JAN
+Tithe,16,,16/01/2023,JAN
+Tithe,17,,17/01/2023,JAN
+Tithe,18,,18/01/2023,JAN
+Tithe,19,,19/01/2023,JAN
+Tithe,20,,20/01/2023,JAN
+Tithe,21,,21/01/2023,JAN
+Tithe,22,,22/01/2023,JAN
+Tithe,23,,23/01/2023,JAN
+Tithe,24,,24/01/2023,JAN
+Tithe,25,,25/01/2023,JAN
+Tithe,26,,26/01/2023,JAN
+Tithe,27,,27/01/2023,JAN
+Tithe,28,,28/01/2023,JAN
+Tithe,29,,29/01/2023,JAN
+Tithe,30,,30/01/2023,JAN
+Tithe,31,,31/01/2023,JAN
+Data,1,,01/01/2023,JAN
+Data,2,,02/01/2023,JAN
+Data,3,,03/01/2023,JAN
+Data,4,,04/01/2023,JAN
+Data,5,,05/01/2023,JAN
+Data,6,,06/01/2023,JAN
+Data,7,,07/01/2023,JAN
+Data,8,,08/01/2023,JAN
+Data,9,,09/01/2023,JAN
+Data,10,,10/01/2023,JAN
+Data,11,,11/01/2023,JAN
+Data,12,,12/01/2023,JAN
+Data,13,,13/01/2023,JAN
+Data,14,,14/01/2023,JAN
+Data,15,,15/01/2023,JAN
+Data,16,,16/01/2023,JAN
+Data,17,,17/01/2023,JAN
+Data,18,,18/01/2023,JAN
+Data,19,,19/01/2023,JAN
+Data,20,,20/01/2023,JAN
+Data,21,,21/01/2023,JAN
+Data,22,,22/01/2023,JAN
+Data,23,,23/01/2023,JAN
+Data,24,,24/01/2023,JAN
+Data,25,,25/01/2023,JAN
+Data,26,,26/01/2023,JAN
+Data,27,,27/01/2023,JAN
+Data,28,,28/01/2023,JAN
+Data,29,,29/01/2023,JAN
+Data,30,,30/01/2023,JAN
+Data,31,,31/01/2023,JAN
+Savings/ Investment ,1,,01/01/2023,JAN
+Savings/ Investment ,2,,02/01/2023,JAN
+Savings/ Investment ,3,,03/01/2023,JAN
+Savings/ Investment ,4,,04/01/2023,JAN
+Savings/ Investment ,5,,05/01/2023,JAN
+Savings/ Investment ,6,,06/01/2023,JAN
+Savings/ Investment ,7,,07/01/2023,JAN
+Savings/ Investment ,8,,08/01/2023,JAN
+Savings/ Investment ,9,,09/01/2023,JAN
+Savings/ Investment ,10,,10/01/2023,JAN
+Savings/ Investment ,11,,11/01/2023,JAN
+Savings/ Investment ,12,,12/01/2023,JAN
+Savings/ Investment ,13,,13/01/2023,JAN
+Savings/ Investment ,14,,14/01/2023,JAN
+Savings/ Investment ,15,,15/01/2023,JAN
+Savings/ Investment ,16,,16/01/2023,JAN
+Savings/ Investment ,17,,17/01/2023,JAN
+Savings/ Investment ,18,,18/01/2023,JAN
+Savings/ Investment ,19,,19/01/2023,JAN
+Savings/ Investment ,20,,20/01/2023,JAN
+Savings/ Investment ,21,,21/01/2023,JAN
+Savings/ Investment ,22,,22/01/2023,JAN
+Savings/ Investment ,23,,23/01/2023,JAN
+Savings/ Investment ,24,,24/01/2023,JAN
+Savings/ Investment ,25,,25/01/2023,JAN
+Savings/ Investment ,26,,26/01/2023,JAN
+Savings/ Investment ,27,,27/01/2023,JAN
+Savings/ Investment ,28,,28/01/2023,JAN
+Savings/ Investment ,29,,29/01/2023,JAN
+Savings/ Investment ,30,,30/01/2023,JAN
+Savings/ Investment ,31,,31/01/2023,JAN
+Hair / Gym,1,,01/01/2023,JAN
+Hair / Gym,2,,02/01/2023,JAN
+Hair / Gym,3,,03/01/2023,JAN
+Hair / Gym,4,,04/01/2023,JAN
+Hair / Gym,5,,05/01/2023,JAN
+Hair / Gym,6,,06/01/2023,JAN
+Hair / Gym,7,,07/01/2023,JAN
+Hair / Gym,8,,08/01/2023,JAN
+Hair / Gym,9,,09/01/2023,JAN
+Hair / Gym,10,,10/01/2023,JAN
+Hair / Gym,11,,11/01/2023,JAN
+Hair / Gym,12,,12/01/2023,JAN
+Hair / Gym,13,,13/01/2023,JAN
+Hair / Gym,14,,14/01/2023,JAN
+Hair / Gym,15,,15/01/2023,JAN
+Hair / Gym,16,,16/01/2023,JAN
+Hair / Gym,17,,17/01/2023,JAN
+Hair / Gym,18,,18/01/2023,JAN
+Hair / Gym,19,,19/01/2023,JAN
+Hair / Gym,20,,20/01/2023,JAN
+Hair / Gym,21,,21/01/2023,JAN
+Hair / Gym,22,,22/01/2023,JAN
+Hair / Gym,23,,23/01/2023,JAN
+Hair / Gym,24,,24/01/2023,JAN
+Hair / Gym,25,,25/01/2023,JAN
+Hair / Gym,26,,26/01/2023,JAN
+Hair / Gym,27,,27/01/2023,JAN
+Hair / Gym,28,,28/01/2023,JAN
+Hair / Gym,29,,29/01/2023,JAN
+Hair / Gym,30,,30/01/2023,JAN
+Hair / Gym,31,,31/01/2023,JAN
+Food,1,,01/01/2023,JAN
+Food,2,,02/01/2023,JAN
+Food,3,,03/01/2023,JAN
+Food,4,,04/01/2023,JAN
+Food,5,,05/01/2023,JAN
+Food,6,,06/01/2023,JAN
+Food,7,,07/01/2023,JAN
+Food,8,,08/01/2023,JAN
+Food,9,,09/01/2023,JAN
+Food,10,,10/01/2023,JAN
+Food,11,,11/01/2023,JAN
+Food,12,,12/01/2023,JAN
+Food,13,,13/01/2023,JAN
+Food,14,,14/01/2023,JAN
+Food,15,,15/01/2023,JAN
+Food,16,5,16/01/2023,JAN
+Food,17,,17/01/2023,JAN
+Food,18,48,18/01/2023,JAN
+Food,19,15,19/01/2023,JAN
+Food,20,104.31,20/01/2023,JAN
+Food,21,76,21/01/2023,JAN
+Food,22,46,22/01/2023,JAN
+Food,23,16,23/01/2023,JAN
+Food,24,15,24/01/2023,JAN
+Food,25,66.21,25/01/2023,JAN
+Food,26,8,26/01/2023,JAN
+Food,27,35.5,27/01/2023,JAN
+Food,28,,28/01/2023,JAN
+Food,29,35,29/01/2023,JAN
+Food,30,,30/01/2023,JAN
+Food,31,,31/01/2023,JAN
+Healthcare,1,,01/01/2023,JAN
+Healthcare,2,,02/01/2023,JAN
+Healthcare,3,,03/01/2023,JAN
+Healthcare,4,,04/01/2023,JAN
+Healthcare,5,,05/01/2023,JAN
+Healthcare,6,,06/01/2023,JAN
+Healthcare,7,,07/01/2023,JAN
+Healthcare,8,,08/01/2023,JAN
+Healthcare,9,,09/01/2023,JAN
+Healthcare,10,,10/01/2023,JAN
+Healthcare,11,,11/01/2023,JAN
+Healthcare,12,,12/01/2023,JAN
+Healthcare,13,,13/01/2023,JAN
+Healthcare,14,,14/01/2023,JAN
+Healthcare,15,,15/01/2023,JAN
+Healthcare,16,25,16/01/2023,JAN
+Healthcare,17,,17/01/2023,JAN
+Healthcare,18,,18/01/2023,JAN
+Healthcare,19,,19/01/2023,JAN
+Healthcare,20,,20/01/2023,JAN
+Healthcare,21,,21/01/2023,JAN
+Healthcare,22,,22/01/2023,JAN
+Healthcare,23,,23/01/2023,JAN
+Healthcare,24,,24/01/2023,JAN
+Healthcare,25,,25/01/2023,JAN
+Healthcare,26,,26/01/2023,JAN
+Healthcare,27,,27/01/2023,JAN
+Healthcare,28,,28/01/2023,JAN
+Healthcare,29,,29/01/2023,JAN
+Healthcare,30,,30/01/2023,JAN
+Healthcare,31,,31/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,1,,01/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,2,,02/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,3,,03/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,4,,04/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,5,,05/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,6,,06/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,7,,07/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,8,,08/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,9,,09/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,10,,10/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,11,,11/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,12,,12/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,13,,13/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,14,,14/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,15,,15/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,16,,16/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,17,,17/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,18,,18/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,19,,19/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,20,,20/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,21,,21/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,22,,22/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,23,,23/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,24,,24/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,25,,25/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,26,,26/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,27,,27/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,28,230,28/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,29,,29/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,30,,30/01/2023,JAN
+Clothes/ Shoes/ Jewelry ,31,,31/01/2023,JAN
+shoes,1,,01/01/2023,JAN
+shoes,2,,02/01/2023,JAN
+shoes,3,,03/01/2023,JAN
+shoes,4,,04/01/2023,JAN
+shoes,5,,05/01/2023,JAN
+shoes,6,,06/01/2023,JAN
+shoes,7,,07/01/2023,JAN
+shoes,8,,08/01/2023,JAN
+shoes,9,,09/01/2023,JAN
+shoes,10,,10/01/2023,JAN
+shoes,11,,11/01/2023,JAN
+shoes,12,,12/01/2023,JAN
+shoes,13,,13/01/2023,JAN
+shoes,14,,14/01/2023,JAN
+shoes,15,,15/01/2023,JAN
+shoes,16,,16/01/2023,JAN
+shoes,17,,17/01/2023,JAN
+shoes,18,,18/01/2023,JAN
+shoes,19,,19/01/2023,JAN
+shoes,20,,20/01/2023,JAN
+shoes,21,,21/01/2023,JAN
+shoes,22,,22/01/2023,JAN
+shoes,23,,23/01/2023,JAN
+shoes,24,,24/01/2023,JAN
+shoes,25,,25/01/2023,JAN
+shoes,26,,26/01/2023,JAN
+shoes,27,,27/01/2023,JAN
+shoes,28,,28/01/2023,JAN
+shoes,29,,29/01/2023,JAN
+shoes,30,,30/01/2023,JAN
+shoes,31,,31/01/2023,JAN
+Travel/ Vacations ,1,,01/01/2023,JAN
+Travel/ Vacations ,2,,02/01/2023,JAN
+Travel/ Vacations ,3,,03/01/2023,JAN
+Travel/ Vacations ,4,,04/01/2023,JAN
+Travel/ Vacations ,5,,05/01/2023,JAN
+Travel/ Vacations ,6,,06/01/2023,JAN
+Travel/ Vacations ,7,,07/01/2023,JAN
+Travel/ Vacations ,8,,08/01/2023,JAN
+Travel/ Vacations ,9,,09/01/2023,JAN
+Travel/ Vacations ,10,,10/01/2023,JAN
+Travel/ Vacations ,11,,11/01/2023,JAN
+Travel/ Vacations ,12,,12/01/2023,JAN
+Travel/ Vacations ,13,,13/01/2023,JAN
+Travel/ Vacations ,14,,14/01/2023,JAN
+Travel/ Vacations ,15,,15/01/2023,JAN
+Travel/ Vacations ,16,,16/01/2023,JAN
+Travel/ Vacations ,17,,17/01/2023,JAN
+Travel/ Vacations ,18,,18/01/2023,JAN
+Travel/ Vacations ,19,,19/01/2023,JAN
+Travel/ Vacations ,20,,20/01/2023,JAN
+Travel/ Vacations ,21,,21/01/2023,JAN
+Travel/ Vacations ,22,,22/01/2023,JAN
+Travel/ Vacations ,23,,23/01/2023,JAN
+Travel/ Vacations ,24,,24/01/2023,JAN
+Travel/ Vacations ,25,,25/01/2023,JAN
+Travel/ Vacations ,26,,26/01/2023,JAN
+Travel/ Vacations ,27,,27/01/2023,JAN
+Travel/ Vacations ,28,,28/01/2023,JAN
+Travel/ Vacations ,29,,29/01/2023,JAN
+Travel/ Vacations ,30,,30/01/2023,JAN
+Travel/ Vacations ,31,,31/01/2023,JAN
+Outings,1,,01/01/2023,JAN
+Outings,2,,02/01/2023,JAN
+Outings,3,,03/01/2023,JAN
+Outings,4,,04/01/2023,JAN
+Outings,5,,05/01/2023,JAN
+Outings,6,,06/01/2023,JAN
+Outings,7,,07/01/2023,JAN
+Outings,8,,08/01/2023,JAN
+Outings,9,,09/01/2023,JAN
+Outings,10,,10/01/2023,JAN
+Outings,11,,11/01/2023,JAN
+Outings,12,,12/01/2023,JAN
+Outings,13,,13/01/2023,JAN
+Outings,14,,14/01/2023,JAN
+Outings,15,,15/01/2023,JAN
+Outings,16,,16/01/2023,JAN
+Outings,17,50,17/01/2023,JAN
+Outings,18,7,18/01/2023,JAN
+Outings,19,,19/01/2023,JAN
+Outings,20,,20/01/2023,JAN
+Outings,21,,21/01/2023,JAN
+Outings,22,,22/01/2023,JAN
+Outings,23,,23/01/2023,JAN
+Outings,24,,24/01/2023,JAN
+Outings,25,,25/01/2023,JAN
+Outings,26,,26/01/2023,JAN
+Outings,27,,27/01/2023,JAN
+Outings,28,,28/01/2023,JAN
+Outings,29,,29/01/2023,JAN
+Outings,30,,30/01/2023,JAN
+Outings,31,,31/01/2023,JAN
+Toiletries/Groceries,1,,01/01/2023,JAN
+Toiletries/Groceries,2,,02/01/2023,JAN
+Toiletries/Groceries,3,,03/01/2023,JAN
+Toiletries/Groceries,4,,04/01/2023,JAN
+Toiletries/Groceries,5,,05/01/2023,JAN
+Toiletries/Groceries,6,,06/01/2023,JAN
+Toiletries/Groceries,7,,07/01/2023,JAN
+Toiletries/Groceries,8,,08/01/2023,JAN
+Toiletries/Groceries,9,,09/01/2023,JAN
+Toiletries/Groceries,10,,10/01/2023,JAN
+Toiletries/Groceries,11,,11/01/2023,JAN
+Toiletries/Groceries,12,,12/01/2023,JAN
+Toiletries/Groceries,13,,13/01/2023,JAN
+Toiletries/Groceries,14,,14/01/2023,JAN
+Toiletries/Groceries,15,,15/01/2023,JAN
+Toiletries/Groceries,16,,16/01/2023,JAN
+Toiletries/Groceries,17,,17/01/2023,JAN
+Toiletries/Groceries,18,,18/01/2023,JAN
+Toiletries/Groceries,19,,19/01/2023,JAN
+Toiletries/Groceries,20,5,20/01/2023,JAN
+Toiletries/Groceries,21,,21/01/2023,JAN
+Toiletries/Groceries,22,,22/01/2023,JAN
+Toiletries/Groceries,23,,23/01/2023,JAN
+Toiletries/Groceries,24,,24/01/2023,JAN
+Toiletries/Groceries,25,,25/01/2023,JAN
+Toiletries/Groceries,26,24,26/01/2023,JAN
+Toiletries/Groceries,27,,27/01/2023,JAN
+Toiletries/Groceries,28,733,28/01/2023,JAN
+Toiletries/Groceries,29,,29/01/2023,JAN
+Toiletries/Groceries,30,,30/01/2023,JAN
+Toiletries/Groceries,31,,31/01/2023,JAN
+Transportation ,1,,01/01/2023,JAN
+Transportation ,2,,02/01/2023,JAN
+Transportation ,3,,03/01/2023,JAN
+Transportation ,4,,04/01/2023,JAN
+Transportation ,5,,05/01/2023,JAN
+Transportation ,6,,06/01/2023,JAN
+Transportation ,7,23,07/01/2023,JAN
+Transportation ,8,,08/01/2023,JAN
+Transportation ,9,,09/01/2023,JAN
+Transportation ,10,63,10/01/2023,JAN
+Transportation ,11,,11/01/2023,JAN
+Transportation ,12,,12/01/2023,JAN
+Transportation ,13,,13/01/2023,JAN
+Transportation ,14,,14/01/2023,JAN
+Transportation ,15,,15/01/2023,JAN
+Transportation ,16,,16/01/2023,JAN
+Transportation ,17,,17/01/2023,JAN
+Transportation ,18,,18/01/2023,JAN
+Transportation ,19,63,19/01/2023,JAN
+Transportation ,20,73,20/01/2023,JAN
+Transportation ,21,,21/01/2023,JAN
+Transportation ,22,,22/01/2023,JAN
+Transportation ,23,48,23/01/2023,JAN
+Transportation ,24,7,24/01/2023,JAN
+Transportation ,25,12.5,25/01/2023,JAN
+Transportation ,26,15,26/01/2023,JAN
+Transportation ,27,40,27/01/2023,JAN
+Transportation ,28,22,28/01/2023,JAN
+Transportation ,29,86,29/01/2023,JAN
+Transportation ,30,,30/01/2023,JAN
+Transportation ,31,39,31/01/2023,JAN
+Miscellaneous,1,55,01/01/2023,JAN
+Miscellaneous,2,,02/01/2023,JAN
+Miscellaneous,3,600,03/01/2023,JAN
+Miscellaneous,4,,04/01/2023,JAN
+Miscellaneous,5,,05/01/2023,JAN
+Miscellaneous,6,,06/01/2023,JAN
+Miscellaneous,7,,07/01/2023,JAN
+Miscellaneous,8,61,08/01/2023,JAN
+Miscellaneous,9,,09/01/2023,JAN
+Miscellaneous,10,,10/01/2023,JAN
+Miscellaneous,11,,11/01/2023,JAN
+Miscellaneous,12,,12/01/2023,JAN
+Miscellaneous,13,100,13/01/2023,JAN
+Miscellaneous,14,51,14/01/2023,JAN
+Miscellaneous,15,,15/01/2023,JAN
+Miscellaneous,16,,16/01/2023,JAN
+Miscellaneous,17,,17/01/2023,JAN
+Miscellaneous,18,,18/01/2023,JAN
+Miscellaneous,19,,19/01/2023,JAN
+Miscellaneous,20,,20/01/2023,JAN
+Miscellaneous,21,,21/01/2023,JAN
+Miscellaneous,22,,22/01/2023,JAN
+Miscellaneous,23,,23/01/2023,JAN
+Miscellaneous,24,,24/01/2023,JAN
+Miscellaneous,25,,25/01/2023,JAN
+Miscellaneous,26,,26/01/2023,JAN
+Miscellaneous,27,,27/01/2023,JAN
+Miscellaneous,28,128.25,28/01/2023,JAN
+Miscellaneous,29,,29/01/2023,JAN
+Miscellaneous,30,,30/01/2023,JAN
+Miscellaneous,31,,31/01/2023,JAN
+Apple Subscriptions,1,,01/01/2023,JAN
+Apple Subscriptions,2,,02/01/2023,JAN
+Apple Subscriptions,3,,03/01/2023,JAN
+Apple Subscriptions,4,,04/01/2023,JAN
+Apple Subscriptions,5,,05/01/2023,JAN
+Apple Subscriptions,6,,06/01/2023,JAN
+Apple Subscriptions,7,,07/01/2023,JAN
+Apple Subscriptions,8,,08/01/2023,JAN
+Apple Subscriptions,9,,09/01/2023,JAN
+Apple Subscriptions,10,,10/01/2023,JAN
+Apple Subscriptions,11,,11/01/2023,JAN
+Apple Subscriptions,12,,12/01/2023,JAN
+Apple Subscriptions,13,,13/01/2023,JAN
+Apple Subscriptions,14,,14/01/2023,JAN
+Apple Subscriptions,15,,15/01/2023,JAN
+Apple Subscriptions,16,,16/01/2023,JAN
+Apple Subscriptions,17,,17/01/2023,JAN
+Apple Subscriptions,18,,18/01/2023,JAN
+Apple Subscriptions,19,45.06,19/01/2023,JAN
+Apple Subscriptions,20,,20/01/2023,JAN
+Apple Subscriptions,21,,21/01/2023,JAN
+Apple Subscriptions,22,,22/01/2023,JAN
+Apple Subscriptions,23,,23/01/2023,JAN
+Apple Subscriptions,24,,24/01/2023,JAN
+Apple Subscriptions,25,,25/01/2023,JAN
+Apple Subscriptions,26,,26/01/2023,JAN
+Apple Subscriptions,27,13.56,27/01/2023,JAN
+Apple Subscriptions,28,,28/01/2023,JAN
+Apple Subscriptions,29,,29/01/2023,JAN
+Apple Subscriptions,30,,30/01/2023,JAN
+Apple Subscriptions,31,,31/01/2023,JAN
+Google 1,1,,01/01/2023,JAN
+Google 1,2,,02/01/2023,JAN
+Google 1,3,,03/01/2023,JAN
+Google 1,4,,04/01/2023,JAN
+Google 1,5,,05/01/2023,JAN
+Google 1,6,,06/01/2023,JAN
+Google 1,7,,07/01/2023,JAN
+Google 1,8,,08/01/2023,JAN
+Google 1,9,,09/01/2023,JAN
+Google 1,10,9,10/01/2023,JAN
+Google 1,11,,11/01/2023,JAN
+Google 1,12,,12/01/2023,JAN
+Google 1,13,,13/01/2023,JAN
+Google 1,14,,14/01/2023,JAN
+Google 1,15,,15/01/2023,JAN
+Google 1,16,,16/01/2023,JAN
+Google 1,17,,17/01/2023,JAN
+Google 1,18,,18/01/2023,JAN
+Google 1,19,,19/01/2023,JAN
+Google 1,20,,20/01/2023,JAN
+Google 1,21,,21/01/2023,JAN
+Google 1,22,,22/01/2023,JAN
+Google 1,23,,23/01/2023,JAN
+Google 1,24,,24/01/2023,JAN
+Google 1,25,,25/01/2023,JAN
+Google 1,26,,26/01/2023,JAN
+Google 1,27,,27/01/2023,JAN
+Google 1,28,,28/01/2023,JAN
+Google 1,29,,29/01/2023,JAN
+Google 1,30,,30/01/2023,JAN
+Google 1,31,,31/01/2023,JAN
+Netflix,1,,01/01/2023,JAN
+Netflix,2,,02/01/2023,JAN
+Netflix,3,,03/01/2023,JAN
+Netflix,4,,04/01/2023,JAN
+Netflix,5,,05/01/2023,JAN
+Netflix,6,,06/01/2023,JAN
+Netflix,7,,07/01/2023,JAN
+Netflix,8,,08/01/2023,JAN
+Netflix,9,,09/01/2023,JAN
+Netflix,10,,10/01/2023,JAN
+Netflix,11,,11/01/2023,JAN
+Netflix,12,,12/01/2023,JAN
+Netflix,13,,13/01/2023,JAN
+Netflix,14,,14/01/2023,JAN
+Netflix,15,,15/01/2023,JAN
+Netflix,16,,16/01/2023,JAN
+Netflix,17,,17/01/2023,JAN
+Netflix,18,,18/01/2023,JAN
+Netflix,19,133.62,19/01/2023,JAN
+Netflix,20,,20/01/2023,JAN
+Netflix,21,,21/01/2023,JAN
+Netflix,22,,22/01/2023,JAN
+Netflix,23,,23/01/2023,JAN
+Netflix,24,,24/01/2023,JAN
+Netflix,25,,25/01/2023,JAN
+Netflix,26,,26/01/2023,JAN
+Netflix,27,,27/01/2023,JAN
+Netflix,28,,28/01/2023,JAN
+Netflix,29,,29/01/2023,JAN
+Netflix,30,,30/01/2023,JAN
+Netflix,31,,31/01/2023,JAN
+Amuse,1,,01/01/2023,JAN
+Amuse,2,,02/01/2023,JAN
+Amuse,3,,03/01/2023,JAN
+Amuse,4,,04/01/2023,JAN
+Amuse,5,,05/01/2023,JAN
+Amuse,6,,06/01/2023,JAN
+Amuse,7,,07/01/2023,JAN
+Amuse,8,,08/01/2023,JAN
+Amuse,9,,09/01/2023,JAN
+Amuse,10,,10/01/2023,JAN
+Amuse,11,,11/01/2023,JAN
+Amuse,12,,12/01/2023,JAN
+Amuse,13,,13/01/2023,JAN
+Amuse,14,,14/01/2023,JAN
+Amuse,15,,15/01/2023,JAN
+Amuse,16,,16/01/2023,JAN
+Amuse,17,,17/01/2023,JAN
+Amuse,18,,18/01/2023,JAN
+Amuse,19,,19/01/2023,JAN
+Amuse,20,,20/01/2023,JAN
+Amuse,21,,21/01/2023,JAN
+Amuse,22,,22/01/2023,JAN
+Amuse,23,,23/01/2023,JAN
+Amuse,24,,24/01/2023,JAN
+Amuse,25,,25/01/2023,JAN
+Amuse,26,,26/01/2023,JAN
+Amuse,27,,27/01/2023,JAN
+Amuse,28,,28/01/2023,JAN
+Amuse,29,,29/01/2023,JAN
+Amuse,30,,30/01/2023,JAN
+Amuse,31,,31/01/2023,JAN
+electricity,1,,01/01/2023,JAN
+electricity,2,,02/01/2023,JAN
+electricity,3,,03/01/2023,JAN
+electricity,4,,04/01/2023,JAN
+electricity,5,,05/01/2023,JAN
+electricity,6,,06/01/2023,JAN
+electricity,7,,07/01/2023,JAN
+electricity,8,,08/01/2023,JAN
+electricity,9,,09/01/2023,JAN
+electricity,10,,10/01/2023,JAN
+electricity,11,,11/01/2023,JAN
+electricity,12,,12/01/2023,JAN
+electricity,13,,13/01/2023,JAN
+electricity,14,,14/01/2023,JAN
+electricity,15,,15/01/2023,JAN
+electricity,16,,16/01/2023,JAN
+electricity,17,,17/01/2023,JAN
+electricity,18,,18/01/2023,JAN
+electricity,19,,19/01/2023,JAN
+electricity,20,101,20/01/2023,JAN
+electricity,21,,21/01/2023,JAN
+electricity,22,,22/01/2023,JAN
+electricity,23,,23/01/2023,JAN
+electricity,24,,24/01/2023,JAN
+electricity,25,,25/01/2023,JAN
+electricity,26,,26/01/2023,JAN
+electricity,27,,27/01/2023,JAN
+electricity,28,,28/01/2023,JAN
+electricity,29,,29/01/2023,JAN
+electricity,30,,30/01/2023,JAN
+electricity,31,,31/01/2023,JAN
+Account Charges,1,,01/01/2023,JAN
+Account Charges,2,,02/01/2023,JAN
+Account Charges,3,,03/01/2023,JAN
+Account Charges,4,,04/01/2023,JAN
+Account Charges,5,,05/01/2023,JAN
+Account Charges,6,,06/01/2023,JAN
+Account Charges,7,,07/01/2023,JAN
+Account Charges,8,,08/01/2023,JAN
+Account Charges,9,,09/01/2023,JAN
+Account Charges,10,,10/01/2023,JAN
+Account Charges,11,,11/01/2023,JAN
+Account Charges,12,,12/01/2023,JAN
+Account Charges,13,,13/01/2023,JAN
+Account Charges,14,,14/01/2023,JAN
+Account Charges,15,,15/01/2023,JAN
+Account Charges,16,,16/01/2023,JAN
+Account Charges,17,,17/01/2023,JAN
+Account Charges,18,,18/01/2023,JAN
+Account Charges,19,,19/01/2023,JAN
+Account Charges,20,,20/01/2023,JAN
+Account Charges,21,10,21/01/2023,JAN
+Account Charges,22,,22/01/2023,JAN
+Account Charges,23,,23/01/2023,JAN
+Account Charges,24,,24/01/2023,JAN
+Account Charges,25,,25/01/2023,JAN
+Account Charges,26,,26/01/2023,JAN
+Account Charges,27,,27/01/2023,JAN
+Account Charges,28,,28/01/2023,JAN
+Account Charges,29,,29/01/2023,JAN
+Account Charges,30,,30/01/2023,JAN
+Account Charges,31,,31/01/2023,JAN
+Rent,1,,01/02/2023,FEB
+Rent,2,,02/02/2023,FEB
+Rent,3,,03/02/2023,FEB
+Rent,4,,04/02/2023,FEB
+Rent,5,,05/02/2023,FEB
+Rent,6,,06/02/2023,FEB
+Rent,7,,07/02/2023,FEB
+Rent,8,,08/02/2023,FEB
+Rent,9,,09/02/2023,FEB
+Rent,10,,10/02/2023,FEB
+Rent,11,,11/02/2023,FEB
+Rent,12,,12/02/2023,FEB
+Rent,13,,13/02/2023,FEB
+Rent,14,,14/02/2023,FEB
+Rent,15,,15/02/2023,FEB
+Rent,16,,16/02/2023,FEB
+Rent,17,,17/02/2023,FEB
+Rent,18,,18/02/2023,FEB
+Rent,19,,19/02/2023,FEB
+Rent,20,,20/02/2023,FEB
+Rent,21,,21/02/2023,FEB
+Rent,22,,22/02/2023,FEB
+Rent,23,,23/02/2023,FEB
+Rent,24,,24/02/2023,FEB
+Rent,25,,25/02/2023,FEB
+Rent,26,,26/02/2023,FEB
+Rent,27,,27/02/2023,FEB
+Rent,28,,28/02/2023,FEB
+Data,1,300,01/02/2023,FEB
+Data,2,,02/02/2023,FEB
+Data,3,,03/02/2023,FEB
+Data,4,,04/02/2023,FEB
+Data,5,,05/02/2023,FEB
+Data,6,,06/02/2023,FEB
+Data,7,,07/02/2023,FEB
+Data,8,,08/02/2023,FEB
+Data,9,,09/02/2023,FEB
+Data,10,,10/02/2023,FEB
+Data,11,,11/02/2023,FEB
+Data,12,,12/02/2023,FEB
+Data,13,,13/02/2023,FEB
+Data,14,,14/02/2023,FEB
+Data,15,,15/02/2023,FEB
+Data,16,,16/02/2023,FEB
+Data,17,,17/02/2023,FEB
+Data,18,,18/02/2023,FEB
+Data,19,,19/02/2023,FEB
+Data,20,,20/02/2023,FEB
+Data,21,,21/02/2023,FEB
+Data,22,,22/02/2023,FEB
+Data,23,,23/02/2023,FEB
+Data,24,,24/02/2023,FEB
+Data,25,,25/02/2023,FEB
+Data,26,,26/02/2023,FEB
+Data,27,,27/02/2023,FEB
+Data,28,,28/02/2023,FEB
+Savings/ Investment ,1,,01/02/2023,FEB
+Savings/ Investment ,2,,02/02/2023,FEB
+Savings/ Investment ,3,,03/02/2023,FEB
+Savings/ Investment ,4,,04/02/2023,FEB
+Savings/ Investment ,5,,05/02/2023,FEB
+Savings/ Investment ,6,,06/02/2023,FEB
+Savings/ Investment ,7,,07/02/2023,FEB
+Savings/ Investment ,8,,08/02/2023,FEB
+Savings/ Investment ,9,,09/02/2023,FEB
+Savings/ Investment ,10,,10/02/2023,FEB
+Savings/ Investment ,11,,11/02/2023,FEB
+Savings/ Investment ,12,,12/02/2023,FEB
+Savings/ Investment ,13,,13/02/2023,FEB
+Savings/ Investment ,14,,14/02/2023,FEB
+Savings/ Investment ,15,,15/02/2023,FEB
+Savings/ Investment ,16,,16/02/2023,FEB
+Savings/ Investment ,17,,17/02/2023,FEB
+Savings/ Investment ,18,,18/02/2023,FEB
+Savings/ Investment ,19,,19/02/2023,FEB
+Savings/ Investment ,20,,20/02/2023,FEB
+Savings/ Investment ,21,,21/02/2023,FEB
+Savings/ Investment ,22,,22/02/2023,FEB
+Savings/ Investment ,23,200,23/02/2023,FEB
+Savings/ Investment ,24,,24/02/2023,FEB
+Savings/ Investment ,25,,25/02/2023,FEB
+Savings/ Investment ,26,,26/02/2023,FEB
+Savings/ Investment ,27,,27/02/2023,FEB
+Savings/ Investment ,28,,28/02/2023,FEB
+Hair / Gym,1,,01/02/2023,FEB
+Hair / Gym,2,,02/02/2023,FEB
+Hair / Gym,3,,03/02/2023,FEB
+Hair / Gym,4,,04/02/2023,FEB
+Hair / Gym,5,,05/02/2023,FEB
+Hair / Gym,6,,06/02/2023,FEB
+Hair / Gym,7,,07/02/2023,FEB
+Hair / Gym,8,,08/02/2023,FEB
+Hair / Gym,9,,09/02/2023,FEB
+Hair / Gym,10,,10/02/2023,FEB
+Hair / Gym,11,,11/02/2023,FEB
+Hair / Gym,12,,12/02/2023,FEB
+Hair / Gym,13,,13/02/2023,FEB
+Hair / Gym,14,,14/02/2023,FEB
+Hair / Gym,15,,15/02/2023,FEB
+Hair / Gym,16,,16/02/2023,FEB
+Hair / Gym,17,,17/02/2023,FEB
+Hair / Gym,18,,18/02/2023,FEB
+Hair / Gym,19,,19/02/2023,FEB
+Hair / Gym,20,,20/02/2023,FEB
+Hair / Gym,21,,21/02/2023,FEB
+Hair / Gym,22,,22/02/2023,FEB
+Hair / Gym,23,,23/02/2023,FEB
+Hair / Gym,24,,24/02/2023,FEB
+Hair / Gym,25,,25/02/2023,FEB
+Hair / Gym,26,,26/02/2023,FEB
+Hair / Gym,27,,27/02/2023,FEB
+Hair / Gym,28,20,28/02/2023,FEB
+Food,1,10,01/02/2023,FEB
+Food,2,15,02/02/2023,FEB
+Food,3,,03/02/2023,FEB
+Food,4,112,04/02/2023,FEB
+Food,5,,05/02/2023,FEB
+Food,6,10,06/02/2023,FEB
+Food,7,60,07/02/2023,FEB
+Food,8,10,08/02/2023,FEB
+Food,9,36.5,09/02/2023,FEB
+Food,10,,10/02/2023,FEB
+Food,11,,11/02/2023,FEB
+Food,12,10,12/02/2023,FEB
+Food,13,,13/02/2023,FEB
+Food,14,128,14/02/2023,FEB
+Food,15,15,15/02/2023,FEB
+Food,16,,16/02/2023,FEB
+Food,17,,17/02/2023,FEB
+Food,18,10,18/02/2023,FEB
+Food,19,,19/02/2023,FEB
+Food,20,,20/02/2023,FEB
+Food,21,40,21/02/2023,FEB
+Food,22,38,22/02/2023,FEB
+Food,23,10,23/02/2023,FEB
+Food,24,75,24/02/2023,FEB
+Food,25,,25/02/2023,FEB
+Food,26,,26/02/2023,FEB
+Food,27,,27/02/2023,FEB
+Food,28,30,28/02/2023,FEB
+Healthcare,1,,01/02/2023,FEB
+Healthcare,2,,02/02/2023,FEB
+Healthcare,3,,03/02/2023,FEB
+Healthcare,4,52,04/02/2023,FEB
+Healthcare,5,,05/02/2023,FEB
+Healthcare,6,,06/02/2023,FEB
+Healthcare,7,,07/02/2023,FEB
+Healthcare,8,,08/02/2023,FEB
+Healthcare,10,,10/02/2023,FEB
+Healthcare,11,,11/02/2023,FEB
+Healthcare,12,,12/02/2023,FEB
+Healthcare,13,,13/02/2023,FEB
+Healthcare,14,,14/02/2023,FEB
+Healthcare,15,,15/02/2023,FEB
+Healthcare,16,13.5,16/02/2023,FEB
+Healthcare,17,,17/02/2023,FEB
+Healthcare,18,,18/02/2023,FEB
+Healthcare,19,,19/02/2023,FEB
+Healthcare,20,,20/02/2023,FEB
+Healthcare,21,,21/02/2023,FEB
+Healthcare,22,,22/02/2023,FEB
+Healthcare,23,13.5,23/02/2023,FEB
+Healthcare,24,,24/02/2023,FEB
+Healthcare,25,,25/02/2023,FEB
+Healthcare,26,,26/02/2023,FEB
+Healthcare,27,17,27/02/2023,FEB
+Healthcare,28,,28/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,1,,01/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,2,,02/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,3,,03/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,4,,04/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,5,,05/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,6,,06/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,7,,07/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,8,,08/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,9,,09/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,10,,10/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,11,,11/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,12,,12/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,13,,13/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,14,,14/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,15,,15/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,16,,16/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,17,,17/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,18,,18/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,19,,19/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,20,,20/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,21,,21/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,22,100,22/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,23,,23/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,24,,24/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,25,,25/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,26,,26/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,27,,27/02/2023,FEB
+Clothes/ Shoes/ Jewelry ,28,,28/02/2023,FEB
+Outings,1,,01/02/2023,FEB
+Outings,2,,02/02/2023,FEB
+Outings,3,,03/02/2023,FEB
+Outings,4,,04/02/2023,FEB
+Outings,5,,05/02/2023,FEB
+Outings,6,,06/02/2023,FEB
+Outings,7,,07/02/2023,FEB
+Outings,8,,08/02/2023,FEB
+Outings,9,,09/02/2023,FEB
+Outings,10,,10/02/2023,FEB
+Outings,11,,11/02/2023,FEB
+Outings,12,,12/02/2023,FEB
+Outings,13,,13/02/2023,FEB
+Outings,14,,14/02/2023,FEB
+Outings,15,,15/02/2023,FEB
+Outings,16,,16/02/2023,FEB
+Outings,17,,17/02/2023,FEB
+Outings,18,,18/02/2023,FEB
+Outings,19,,19/02/2023,FEB
+Outings,20,,20/02/2023,FEB
+Outings,21,,21/02/2023,FEB
+Outings,22,,22/02/2023,FEB
+Outings,23,,23/02/2023,FEB
+Outings,24,,24/02/2023,FEB
+Outings,25,,25/02/2023,FEB
+Outings,26,,26/02/2023,FEB
+Outings,27,,27/02/2023,FEB
+Outings,28,,28/02/2023,FEB
+Toiletries/Groceries,1,,01/02/2023,FEB
+Toiletries/Groceries,2,,02/02/2023,FEB
+Toiletries/Groceries,3,,03/02/2023,FEB
+Toiletries/Groceries,4,,04/02/2023,FEB
+Toiletries/Groceries,5,,05/02/2023,FEB
+Toiletries/Groceries,6,,06/02/2023,FEB
+Toiletries/Groceries,7,,07/02/2023,FEB
+Toiletries/Groceries,8,,08/02/2023,FEB
+Toiletries/Groceries,9,150,09/02/2023,FEB
+Toiletries/Groceries,10,,10/02/2023,FEB
+Toiletries/Groceries,11,,11/02/2023,FEB
+Toiletries/Groceries,12,,12/02/2023,FEB
+Toiletries/Groceries,13,,13/02/2023,FEB
+Toiletries/Groceries,14,,14/02/2023,FEB
+Toiletries/Groceries,15,,15/02/2023,FEB
+Toiletries/Groceries,16,,16/02/2023,FEB
+Toiletries/Groceries,17,,17/02/2023,FEB
+Toiletries/Groceries,18,,18/02/2023,FEB
+Toiletries/Groceries,19,,19/02/2023,FEB
+Toiletries/Groceries,20,,20/02/2023,FEB
+Toiletries/Groceries,21,,21/02/2023,FEB
+Toiletries/Groceries,22,,22/02/2023,FEB
+Toiletries/Groceries,23,,23/02/2023,FEB
+Toiletries/Groceries,24,,24/02/2023,FEB
+Toiletries/Groceries,25,,25/02/2023,FEB
+Toiletries/Groceries,26,,26/02/2023,FEB
+Toiletries/Groceries,27,,27/02/2023,FEB
+Toiletries/Groceries,28,122,28/02/2023,FEB
+Transportation ,1,19,01/02/2023,FEB
+Transportation ,2,,02/02/2023,FEB
+Transportation ,3,2.5,03/02/2023,FEB
+Transportation ,4,38,04/02/2023,FEB
+Transportation ,5,,05/02/2023,FEB
+Transportation ,6,,06/02/2023,FEB
+Transportation ,7,,07/02/2023,FEB
+Transportation ,8,,08/02/2023,FEB
+Transportation ,9,,09/02/2023,FEB
+Transportation ,10,9.5,10/02/2023,FEB
+Transportation ,11,,11/02/2023,FEB
+Transportation ,12,58,12/02/2023,FEB
+Transportation ,13,,13/02/2023,FEB
+Transportation ,14,113,14/02/2023,FEB
+Transportation ,15,12,15/02/2023,FEB
+Transportation ,16,,16/02/2023,FEB
+Transportation ,17,,17/02/2023,FEB
+Transportation ,18,,18/02/2023,FEB
+Transportation ,19,,19/02/2023,FEB
+Transportation ,20,,20/02/2023,FEB
+Transportation ,21,98,21/02/2023,FEB
+Transportation ,22,50,22/02/2023,FEB
+Transportation ,23,14,23/02/2023,FEB
+Transportation ,24,1,24/02/2023,FEB
+Transportation ,25,55,25/02/2023,FEB
+Transportation ,26,50,26/02/2023,FEB
+Transportation ,27,,27/02/2023,FEB
+Transportation ,28,20,28/02/2023,FEB
+Miscellaneous,1,,01/02/2023,FEB
+Miscellaneous,2,,02/02/2023,FEB
+Miscellaneous,3,,03/02/2023,FEB
+Miscellaneous,4,,04/02/2023,FEB
+Miscellaneous,5,,05/02/2023,FEB
+Miscellaneous,6,,06/02/2023,FEB
+Miscellaneous,7,,07/02/2023,FEB
+Miscellaneous,8,,08/02/2023,FEB
+Miscellaneous,9,63,09/02/2023,FEB
+Miscellaneous,10,,10/02/2023,FEB
+Miscellaneous,11,,11/02/2023,FEB
+Miscellaneous,12,50,12/02/2023,FEB
+Miscellaneous,13,,13/02/2023,FEB
+Miscellaneous,14,,14/02/2023,FEB
+Miscellaneous,15,,15/02/2023,FEB
+Miscellaneous,16,,16/02/2023,FEB
+Miscellaneous,17,,17/02/2023,FEB
+Miscellaneous,18,,18/02/2023,FEB
+Miscellaneous,19,,19/02/2023,FEB
+Miscellaneous,20,,20/02/2023,FEB
+Miscellaneous,21,,21/02/2023,FEB
+Miscellaneous,22,,22/02/2023,FEB
+Miscellaneous,23,,23/02/2023,FEB
+Miscellaneous,24,,24/02/2023,FEB
+Miscellaneous,25,,25/02/2023,FEB
+Miscellaneous,26,,26/02/2023,FEB
+Miscellaneous,27,,27/02/2023,FEB
+Miscellaneous,28,,28/02/2023,FEB
+Apple Subscriptions,1,,01/02/2023,FEB
+Apple Subscriptions,2,,02/02/2023,FEB
+Apple Subscriptions,3,,03/02/2023,FEB
+Apple Subscriptions,4,,04/02/2023,FEB
+Apple Subscriptions,5,,05/02/2023,FEB
+Apple Subscriptions,6,,06/02/2023,FEB
+Apple Subscriptions,7,,07/02/2023,FEB
+Apple Subscriptions,8,,08/02/2023,FEB
+Apple Subscriptions,9,,09/02/2023,FEB
+Apple Subscriptions,10,,10/02/2023,FEB
+Apple Subscriptions,11,,11/02/2023,FEB
+Apple Subscriptions,12,,12/02/2023,FEB
+Apple Subscriptions,13,,13/02/2023,FEB
+Apple Subscriptions,14,,14/02/2023,FEB
+Apple Subscriptions,15,,15/02/2023,FEB
+Apple Subscriptions,16,,16/02/2023,FEB
+Apple Subscriptions,17,,17/02/2023,FEB
+Apple Subscriptions,18,,18/02/2023,FEB
+Apple Subscriptions,19,,19/02/2023,FEB
+Apple Subscriptions,20,,20/02/2023,FEB
+Apple Subscriptions,21,,21/02/2023,FEB
+Apple Subscriptions,22,,22/02/2023,FEB
+Apple Subscriptions,23,,23/02/2023,FEB
+Apple Subscriptions,24,,24/02/2023,FEB
+Apple Subscriptions,25,,25/02/2023,FEB
+Apple Subscriptions,26,14,26/02/2023,FEB
+Apple Subscriptions,27,,27/02/2023,FEB
+Apple Subscriptions,28,,28/02/2023,FEB
+Netflix,1,,01/02/2023,FEB
+Netflix,2,,02/02/2023,FEB
+Netflix,3,,03/02/2023,FEB
+Netflix,4,,04/02/2023,FEB
+Netflix,5,,05/02/2023,FEB
+Netflix,6,,06/02/2023,FEB
+Netflix,7,,07/02/2023,FEB
+Netflix,8,,08/02/2023,FEB
+Netflix,9,,09/02/2023,FEB
+Netflix,10,,10/02/2023,FEB
+Netflix,11,,11/02/2023,FEB
+Netflix,12,,12/02/2023,FEB
+Netflix,13,,13/02/2023,FEB
+Netflix,14,,14/02/2023,FEB
+Netflix,15,,15/02/2023,FEB
+Netflix,16,,16/02/2023,FEB
+Netflix,17,,17/02/2023,FEB
+Netflix,18,,18/02/2023,FEB
+Netflix,19,,19/02/2023,FEB
+Netflix,20,,20/02/2023,FEB
+Netflix,21,,21/02/2023,FEB
+Netflix,22,140,22/02/2023,FEB
+Netflix,23,,23/02/2023,FEB
+Netflix,24,,24/02/2023,FEB
+Netflix,25,,25/02/2023,FEB
+Netflix,26,,26/02/2023,FEB
+Netflix,27,,27/02/2023,FEB
+Netflix,28,,28/02/2023,FEB
+electricity,1,,01/02/2023,FEB
+electricity,2,,02/02/2023,FEB
+electricity,3,,03/02/2023,FEB
+electricity,4,,04/02/2023,FEB
+electricity,5,,05/02/2023,FEB
+electricity,6,,06/02/2023,FEB
+electricity,7,,07/02/2023,FEB
+electricity,8,,08/02/2023,FEB
+electricity,9,,09/02/2023,FEB
+electricity,10,,10/02/2023,FEB
+electricity,11,,11/02/2023,FEB
+electricity,12,,12/02/2023,FEB
+electricity,13,,13/02/2023,FEB
+electricity,14,,14/02/2023,FEB
+electricity,15,,15/02/2023,FEB
+electricity,16,,16/02/2023,FEB
+electricity,17,,17/02/2023,FEB
+electricity,18,,18/02/2023,FEB
+electricity,19,,19/02/2023,FEB
+electricity,20,,20/02/2023,FEB
+electricity,21,,21/02/2023,FEB
+electricity,22,,22/02/2023,FEB
+electricity,23,,23/02/2023,FEB
+electricity,24,,24/02/2023,FEB
+electricity,25,,25/02/2023,FEB
+electricity,26,,26/02/2023,FEB
+electricity,27,,27/02/2023,FEB
+electricity,28,,28/02/2023,FEB
+Account Charges,1,,01/02/2023,FEB
+Account Charges,2,,02/02/2023,FEB
+Account Charges,3,,03/02/2023,FEB
+Account Charges,4,,04/02/2023,FEB
+Account Charges,5,,05/02/2023,FEB
+Account Charges,6,,06/02/2023,FEB
+Account Charges,7,,07/02/2023,FEB
+Account Charges,8,,08/02/2023,FEB
+Account Charges,9,,09/02/2023,FEB
+Account Charges,10,,10/02/2023,FEB
+Account Charges,11,,11/02/2023,FEB
+Account Charges,12,,12/02/2023,FEB
+Account Charges,13,,13/02/2023,FEB
+Account Charges,14,,14/02/2023,FEB
+Account Charges,15,,15/02/2023,FEB
+Account Charges,16,,16/02/2023,FEB
+Account Charges,17,,17/02/2023,FEB
+Account Charges,18,,18/02/2023,FEB
+Account Charges,19,,19/02/2023,FEB
+Account Charges,20,,20/02/2023,FEB
+Account Charges,21,,21/02/2023,FEB
+Account Charges,22,,22/02/2023,FEB
+Account Charges,23,10,23/02/2023,FEB
+Account Charges,24,,24/02/2023,FEB
+Account Charges,25,,25/02/2023,FEB
+Account Charges,26,,26/02/2023,FEB
+Account Charges,27,,27/02/2023,FEB
+Account Charges,28,,28/02/2023,FEB
+,1,,01/02/2023,FEB
+,2,,02/02/2023,FEB
+,3,,03/02/2023,FEB
+,4,,04/02/2023,FEB
+,5,,05/02/2023,FEB
+,6,,06/02/2023,FEB
+,7,,07/02/2023,FEB
+,8,,08/02/2023,FEB
+,9,,09/02/2023,FEB
+,10,,10/02/2023,FEB
+,11,,11/02/2023,FEB
+,12,,12/02/2023,FEB
+,13,,13/02/2023,FEB
+,14,,14/02/2023,FEB
+,15,,15/02/2023,FEB
+,16,,16/02/2023,FEB
+,17,,17/02/2023,FEB
+,18,,18/02/2023,FEB
+,19,,19/02/2023,FEB
+,20,,20/02/2023,FEB
+,21,,21/02/2023,FEB
+,22,,22/02/2023,FEB
+,23,,23/02/2023,FEB
+,24,,24/02/2023,FEB
+,25,,25/02/2023,FEB
+,26,,26/02/2023,FEB
+,27,,27/02/2023,FEB
+,28,,28/02/2023,FEB
+Rent,3,,03/03/2023,MARCH
+Rent,4,,04/03/2023,MARCH
+Rent,5,,05/03/2023,MARCH
+Rent,6,,06/03/2023,MARCH
+Rent,7,,07/03/2023,MARCH
+Rent,8,,08/03/2023,MARCH
+Rent,9,,09/03/2023,MARCH
+Rent,10,,10/03/2023,MARCH
+Rent,11,,11/03/2023,MARCH
+Rent,12,,12/03/2023,MARCH
+Rent,13,,13/03/2023,MARCH
+Rent,14,,14/03/2023,MARCH
+Rent,15,,15/03/2023,MARCH
+Rent,16,,16/03/2023,MARCH
+Rent,17,,17/03/2023,MARCH
+Rent,18,,18/03/2023,MARCH
+Rent,19,,19/03/2023,MARCH
+Rent,20,,20/03/2023,MARCH
+Rent,21,,21/03/2023,MARCH
+Rent,22,1400,22/03/2023,MARCH
+Rent,23,,23/03/2023,MARCH
+Rent,24,,24/03/2023,MARCH
+Rent,25,,25/03/2023,MARCH
+Rent,26,,26/03/2023,MARCH
+Rent,27,,27/03/2023,MARCH
+Rent,28,,28/03/2023,MARCH
+Rent,29,,29/03/2023,MARCH
+Rent,30,,30/03/2023,MARCH
+Rent,31,,31/03/2023,MARCH
+Tithe,2,,02/03/2023,MARCH
+Tithe,3,,03/03/2023,MARCH
+Tithe,4,,04/03/2023,MARCH
+Tithe,5,,05/03/2023,MARCH
+Tithe,6,,06/03/2023,MARCH
+Tithe,7,,07/03/2023,MARCH
+Tithe,8,,08/03/2023,MARCH
+Tithe,9,,09/03/2023,MARCH
+Tithe,10,,10/03/2023,MARCH
+Tithe,11,,11/03/2023,MARCH
+Tithe,12,,12/03/2023,MARCH
+Tithe,13,,13/03/2023,MARCH
+Tithe,14,,14/03/2023,MARCH
+Tithe,15,,15/03/2023,MARCH
+Tithe,16,,16/03/2023,MARCH
+Tithe,17,,17/03/2023,MARCH
+Tithe,18,,18/03/2023,MARCH
+Tithe,19,,19/03/2023,MARCH
+Tithe,20,,20/03/2023,MARCH
+Tithe,21,,21/03/2023,MARCH
+Tithe,22,,22/03/2023,MARCH
+Tithe,23,,23/03/2023,MARCH
+Tithe,24,,24/03/2023,MARCH
+Tithe,25,,25/03/2023,MARCH
+Tithe,26,,26/03/2023,MARCH
+Tithe,27,,27/03/2023,MARCH
+Tithe,28,,28/03/2023,MARCH
+Tithe,29,,29/03/2023,MARCH
+Tithe,30,,30/03/2023,MARCH
+Tithe,31,,31/03/2023,MARCH
+Data,3,,03/03/2023,MARCH
+Data,4,300,04/03/2023,MARCH
+Data,5,,05/03/2023,MARCH
+Data,6,,06/03/2023,MARCH
+Data,7,,07/03/2023,MARCH
+Data,8,6,08/03/2023,MARCH
+Data,9,,09/03/2023,MARCH
+Data,10,,10/03/2023,MARCH
+Data,11,,11/03/2023,MARCH
+Data,12,,12/03/2023,MARCH
+Data,13,,13/03/2023,MARCH
+Data,14,,14/03/2023,MARCH
+Data,15,,15/03/2023,MARCH
+Data,16,,16/03/2023,MARCH
+Data,17,,17/03/2023,MARCH
+Data,18,,18/03/2023,MARCH
+Data,19,,19/03/2023,MARCH
+Data,20,,20/03/2023,MARCH
+Data,21,,21/03/2023,MARCH
+Data,22,,22/03/2023,MARCH
+Data,23,,23/03/2023,MARCH
+Data,24,,24/03/2023,MARCH
+Data,25,,25/03/2023,MARCH
+Data,26,,26/03/2023,MARCH
+Data,27,,27/03/2023,MARCH
+Data,28,,28/03/2023,MARCH
+Data,29,,29/03/2023,MARCH
+Data,30,,30/03/2023,MARCH
+Data,31,,31/03/2023,MARCH
+Savings/ Investment ,2,,02/03/2023,MARCH
+Savings/ Investment ,3,,03/03/2023,MARCH
+Savings/ Investment ,4,,04/03/2023,MARCH
+Savings/ Investment ,5,,05/03/2023,MARCH
+Savings/ Investment ,6,,06/03/2023,MARCH
+Savings/ Investment ,7,,07/03/2023,MARCH
+Savings/ Investment ,8,,08/03/2023,MARCH
+Savings/ Investment ,9,,09/03/2023,MARCH
+Savings/ Investment ,10,,10/03/2023,MARCH
+Savings/ Investment ,11,,11/03/2023,MARCH
+Savings/ Investment ,12,,12/03/2023,MARCH
+Savings/ Investment ,13,,13/03/2023,MARCH
+Savings/ Investment ,14,,14/03/2023,MARCH
+Savings/ Investment ,15,,15/03/2023,MARCH
+Savings/ Investment ,16,,16/03/2023,MARCH
+Savings/ Investment ,17,,17/03/2023,MARCH
+Savings/ Investment ,18,,18/03/2023,MARCH
+Savings/ Investment ,19,,19/03/2023,MARCH
+Savings/ Investment ,20,,20/03/2023,MARCH
+Savings/ Investment ,21,,21/03/2023,MARCH
+Savings/ Investment ,22,,22/03/2023,MARCH
+Savings/ Investment ,23,350,23/03/2023,MARCH
+Savings/ Investment ,24,,24/03/2023,MARCH
+Savings/ Investment ,25,,25/03/2023,MARCH
+Savings/ Investment ,26,,26/03/2023,MARCH
+Savings/ Investment ,27,,27/03/2023,MARCH
+Savings/ Investment ,28,,28/03/2023,MARCH
+Savings/ Investment ,29,,29/03/2023,MARCH
+Savings/ Investment ,30,,30/03/2023,MARCH
+Savings/ Investment ,31,,31/03/2023,MARCH
+Hair / Gym,3,,03/03/2023,MARCH
+Hair / Gym,4,,04/03/2023,MARCH
+Hair / Gym,5,,05/03/2023,MARCH
+Hair / Gym,6,,06/03/2023,MARCH
+Hair / Gym,7,,07/03/2023,MARCH
+Hair / Gym,8,,08/03/2023,MARCH
+Hair / Gym,9,,09/03/2023,MARCH
+Hair / Gym,10,,10/03/2023,MARCH
+Hair / Gym,11,,11/03/2023,MARCH
+Hair / Gym,12,,12/03/2023,MARCH
+Hair / Gym,13,,13/03/2023,MARCH
+Hair / Gym,14,,14/03/2023,MARCH
+Hair / Gym,15,,15/03/2023,MARCH
+Hair / Gym,16,,16/03/2023,MARCH
+Hair / Gym,17,,17/03/2023,MARCH
+Hair / Gym,18,,18/03/2023,MARCH
+Hair / Gym,19,,19/03/2023,MARCH
+Hair / Gym,20,,20/03/2023,MARCH
+Hair / Gym,21,,21/03/2023,MARCH
+Hair / Gym,22,,22/03/2023,MARCH
+Hair / Gym,23,,23/03/2023,MARCH
+Hair / Gym,24,,24/03/2023,MARCH
+Hair / Gym,25,,25/03/2023,MARCH
+Hair / Gym,26,,26/03/2023,MARCH
+Hair / Gym,27,500,27/03/2023,MARCH
+Hair / Gym,28,,28/03/2023,MARCH
+Hair / Gym,29,,29/03/2023,MARCH
+Hair / Gym,30,,30/03/2023,MARCH
+Hair / Gym,31,,31/03/2023,MARCH
+Food,1,10,01/03/2023,MARCH
+Food,2,11,02/03/2023,MARCH
+Food,3,106,03/03/2023,MARCH
+Food,4,124,04/03/2023,MARCH
+Food,5,146.9,05/03/2023,MARCH
+Food,6,40,06/03/2023,MARCH
+Food,7,41,07/03/2023,MARCH
+Food,8,,08/03/2023,MARCH
+Food,9,9,09/03/2023,MARCH
+Food,10,163,10/03/2023,MARCH
+Food,11,10,11/03/2023,MARCH
+Food,12,10,12/03/2023,MARCH
+Food,13,2,13/03/2023,MARCH
+Food,14,19,14/03/2023,MARCH
+Food,15,5.5,15/03/2023,MARCH
+Food,16,10,16/03/2023,MARCH
+Food,17,120.5,17/03/2023,MARCH
+Food,18,72.4,18/03/2023,MARCH
+Food,19,115,19/03/2023,MARCH
+Food,20,4,20/03/2023,MARCH
+Food,21,85,21/03/2023,MARCH
+Food,22,7,22/03/2023,MARCH
+Food,23,6,23/03/2023,MARCH
+Food,24,4,24/03/2023,MARCH
+Food,25,56,25/03/2023,MARCH
+Food,26,10,26/03/2023,MARCH
+Food,27,8,27/03/2023,MARCH
+Food,28,4.5,28/03/2023,MARCH
+Food,29,21,29/03/2023,MARCH
+Food,30,11.5,30/03/2023,MARCH
+Food,31,20.5,31/03/2023,MARCH
+Healthcare,1,,01/03/2023,MARCH
+Healthcare,2,,02/03/2023,MARCH
+Healthcare,3,,03/03/2023,MARCH
+Healthcare,4,,04/03/2023,MARCH
+Healthcare,5,,05/03/2023,MARCH
+Healthcare,6,,06/03/2023,MARCH
+Healthcare,7,,07/03/2023,MARCH
+Healthcare,8,,08/03/2023,MARCH
+Healthcare,9,,09/03/2023,MARCH
+Healthcare,10,,10/03/2023,MARCH
+Healthcare,11,,11/03/2023,MARCH
+Healthcare,12,,12/03/2023,MARCH
+Healthcare,13,,13/03/2023,MARCH
+Healthcare,14,,14/03/2023,MARCH
+Healthcare,15,245,15/03/2023,MARCH
+Healthcare,16,,16/03/2023,MARCH
+Healthcare,17,,17/03/2023,MARCH
+Healthcare,18,,18/03/2023,MARCH
+Healthcare,19,,19/03/2023,MARCH
+Healthcare,20,,20/03/2023,MARCH
+Healthcare,21,,21/03/2023,MARCH
+Healthcare,22,,22/03/2023,MARCH
+Healthcare,23,,23/03/2023,MARCH
+Healthcare,24,,24/03/2023,MARCH
+Healthcare,25,,25/03/2023,MARCH
+Healthcare,26,,26/03/2023,MARCH
+Healthcare,27,,27/03/2023,MARCH
+Healthcare,28,,28/03/2023,MARCH
+Healthcare,29,,29/03/2023,MARCH
+Healthcare,30,,30/03/2023,MARCH
+Healthcare,31,,31/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,2,,02/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,3,,03/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,4,,04/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,5,,05/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,6,,06/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,7,,07/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,8,,08/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,9,14,09/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,10,,10/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,11,,11/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,12,,12/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,13,,13/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,14,,14/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,15,,15/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,16,,16/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,17,,17/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,18,,18/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,19,,19/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,20,,20/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,21,,21/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,22,40,22/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,23,200,23/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,24,,24/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,25,,25/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,26,,26/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,27,10,27/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,28,,28/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,29,,29/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,30,,30/03/2023,MARCH
+Clothes/ Shoes/ Jewelry ,31,,31/03/2023,MARCH
+shoes,3,,03/03/2023,MARCH
+shoes,4,,04/03/2023,MARCH
+shoes,5,,05/03/2023,MARCH
+shoes,6,,06/03/2023,MARCH
+shoes,7,,07/03/2023,MARCH
+shoes,8,,08/03/2023,MARCH
+shoes,9,,09/03/2023,MARCH
+shoes,10,,10/03/2023,MARCH
+shoes,11,,11/03/2023,MARCH
+shoes,12,,12/03/2023,MARCH
+shoes,13,,13/03/2023,MARCH
+shoes,14,,14/03/2023,MARCH
+shoes,15,,15/03/2023,MARCH
+shoes,16,,16/03/2023,MARCH
+shoes,17,,17/03/2023,MARCH
+shoes,18,,18/03/2023,MARCH
+shoes,19,,19/03/2023,MARCH
+shoes,20,,20/03/2023,MARCH
+shoes,21,,21/03/2023,MARCH
+shoes,22,,22/03/2023,MARCH
+shoes,23,,23/03/2023,MARCH
+shoes,24,,24/03/2023,MARCH
+shoes,25,,25/03/2023,MARCH
+shoes,26,,26/03/2023,MARCH
+shoes,27,,27/03/2023,MARCH
+shoes,28,,28/03/2023,MARCH
+shoes,29,,29/03/2023,MARCH
+shoes,30,,30/03/2023,MARCH
+shoes,31,,31/03/2023,MARCH
+Travel/ Vacations ,2,,02/03/2023,MARCH
+Travel/ Vacations ,3,,03/03/2023,MARCH
+Travel/ Vacations ,4,,04/03/2023,MARCH
+Travel/ Vacations ,5,,05/03/2023,MARCH
+Travel/ Vacations ,6,,06/03/2023,MARCH
+Travel/ Vacations ,7,,07/03/2023,MARCH
+Travel/ Vacations ,8,,08/03/2023,MARCH
+Travel/ Vacations ,9,,09/03/2023,MARCH
+Travel/ Vacations ,10,,10/03/2023,MARCH
+Travel/ Vacations ,11,,11/03/2023,MARCH
+Travel/ Vacations ,12,,12/03/2023,MARCH
+Travel/ Vacations ,13,,13/03/2023,MARCH
+Travel/ Vacations ,14,,14/03/2023,MARCH
+Travel/ Vacations ,15,,15/03/2023,MARCH
+Travel/ Vacations ,16,,16/03/2023,MARCH
+Travel/ Vacations ,17,,17/03/2023,MARCH
+Travel/ Vacations ,18,,18/03/2023,MARCH
+Travel/ Vacations ,19,,19/03/2023,MARCH
+Travel/ Vacations ,20,,20/03/2023,MARCH
+Travel/ Vacations ,21,,21/03/2023,MARCH
+Travel/ Vacations ,22,,22/03/2023,MARCH
+Travel/ Vacations ,23,,23/03/2023,MARCH
+Travel/ Vacations ,24,,24/03/2023,MARCH
+Travel/ Vacations ,25,,25/03/2023,MARCH
+Travel/ Vacations ,26,,26/03/2023,MARCH
+Travel/ Vacations ,27,,27/03/2023,MARCH
+Travel/ Vacations ,28,,28/03/2023,MARCH
+Travel/ Vacations ,29,,29/03/2023,MARCH
+Travel/ Vacations ,30,,30/03/2023,MARCH
+Travel/ Vacations ,31,,31/03/2023,MARCH
+Outings,2,,02/03/2023,MARCH
+Outings,3,,03/03/2023,MARCH
+Outings,4,,04/03/2023,MARCH
+Outings,5,,05/03/2023,MARCH
+Outings,6,,06/03/2023,MARCH
+Outings,7,,07/03/2023,MARCH
+Outings,8,,08/03/2023,MARCH
+Outings,9,,09/03/2023,MARCH
+Outings,10,,10/03/2023,MARCH
+Outings,11,,11/03/2023,MARCH
+Outings,12,,12/03/2023,MARCH
+Outings,13,,13/03/2023,MARCH
+Outings,14,,14/03/2023,MARCH
+Outings,15,,15/03/2023,MARCH
+Outings,16,200,16/03/2023,MARCH
+Outings,17,,17/03/2023,MARCH
+Outings,18,,18/03/2023,MARCH
+Outings,19,,19/03/2023,MARCH
+Outings,20,,20/03/2023,MARCH
+Outings,21,,21/03/2023,MARCH
+Outings,22,,22/03/2023,MARCH
+Outings,23,,23/03/2023,MARCH
+Outings,24,,24/03/2023,MARCH
+Outings,25,,25/03/2023,MARCH
+Outings,26,,26/03/2023,MARCH
+Outings,27,,27/03/2023,MARCH
+Outings,28,,28/03/2023,MARCH
+Outings,29,,29/03/2023,MARCH
+Outings,30,,30/03/2023,MARCH
+Outings,31,,31/03/2023,MARCH
+Toiletries/Groceries,2,,02/03/2023,MARCH
+Toiletries/Groceries,3,30,03/03/2023,MARCH
+Toiletries/Groceries,4,,04/03/2023,MARCH
+Toiletries/Groceries,5,,05/03/2023,MARCH
+Toiletries/Groceries,6,39,06/03/2023,MARCH
+Toiletries/Groceries,7,,07/03/2023,MARCH
+Toiletries/Groceries,8,,08/03/2023,MARCH
+Toiletries/Groceries,9,,09/03/2023,MARCH
+Toiletries/Groceries,10,,10/03/2023,MARCH
+Toiletries/Groceries,11,,11/03/2023,MARCH
+Toiletries/Groceries,12,,12/03/2023,MARCH
+Toiletries/Groceries,13,,13/03/2023,MARCH
+Toiletries/Groceries,14,,14/03/2023,MARCH
+Toiletries/Groceries,15,,15/03/2023,MARCH
+Toiletries/Groceries,16,,16/03/2023,MARCH
+Toiletries/Groceries,17,,17/03/2023,MARCH
+Toiletries/Groceries,18,,18/03/2023,MARCH
+Toiletries/Groceries,19,,19/03/2023,MARCH
+Toiletries/Groceries,20,,20/03/2023,MARCH
+Toiletries/Groceries,21,,21/03/2023,MARCH
+Toiletries/Groceries,22,,22/03/2023,MARCH
+Toiletries/Groceries,23,,23/03/2023,MARCH
+Toiletries/Groceries,24,48.48,24/03/2023,MARCH
+Toiletries/Groceries,25,,25/03/2023,MARCH
+Toiletries/Groceries,26,,26/03/2023,MARCH
+Toiletries/Groceries,27,,27/03/2023,MARCH
+Toiletries/Groceries,28,,28/03/2023,MARCH
+Toiletries/Groceries,29,,29/03/2023,MARCH
+Toiletries/Groceries,30,,30/03/2023,MARCH
+Toiletries/Groceries,31,,31/03/2023,MARCH
+Transportation ,1,38,01/03/2023,MARCH
+Transportation ,2,38,02/03/2023,MARCH
+Transportation ,3,29,03/03/2023,MARCH
+Transportation ,4,8,04/03/2023,MARCH
+Transportation ,5,,05/03/2023,MARCH
+Transportation ,6,,06/03/2023,MARCH
+Transportation ,7,14,07/03/2023,MARCH
+Transportation ,8,,08/03/2023,MARCH
+Transportation ,9,4.5,09/03/2023,MARCH
+Transportation ,10,56,10/03/2023,MARCH
+Transportation ,11,,11/03/2023,MARCH
+Transportation ,12,,12/03/2023,MARCH
+Transportation ,13,,13/03/2023,MARCH
+Transportation ,14,21,14/03/2023,MARCH
+Transportation ,15,13,15/03/2023,MARCH
+Transportation ,16,,16/03/2023,MARCH
+Transportation ,17,10,17/03/2023,MARCH
+Transportation ,18,,18/03/2023,MARCH
+Transportation ,19,,19/03/2023,MARCH
+Transportation ,20,22.5,20/03/2023,MARCH
+Transportation ,21,33,21/03/2023,MARCH
+Transportation ,22,25.5,22/03/2023,MARCH
+Transportation ,23,5.5,23/03/2023,MARCH
+Transportation ,24,62,24/03/2023,MARCH
+Transportation ,25,89,25/03/2023,MARCH
+Transportation ,26,,26/03/2023,MARCH
+Transportation ,27,25.5,27/03/2023,MARCH
+Transportation ,28,26,28/03/2023,MARCH
+Transportation ,29,27,29/03/2023,MARCH
+Transportation ,30,26,30/03/2023,MARCH
+Transportation ,31,70.5,31/03/2023,MARCH
+Miscellaneous,2,,02/03/2023,MARCH
+Miscellaneous,3,,03/03/2023,MARCH
+Miscellaneous,4,,04/03/2023,MARCH
+Miscellaneous,5,,05/03/2023,MARCH
+Miscellaneous,6,,06/03/2023,MARCH
+Miscellaneous,7,95,07/03/2023,MARCH
+Miscellaneous,8,,08/03/2023,MARCH
+Miscellaneous,9,,09/03/2023,MARCH
+Miscellaneous,10,50,10/03/2023,MARCH
+Miscellaneous,11,65,11/03/2023,MARCH
+Miscellaneous,12,,12/03/2023,MARCH
+Miscellaneous,13,,13/03/2023,MARCH
+Miscellaneous,14,2,14/03/2023,MARCH
+Miscellaneous,15,,15/03/2023,MARCH
+Miscellaneous,16,,16/03/2023,MARCH
+Miscellaneous,17,,17/03/2023,MARCH
+Miscellaneous,18,,18/03/2023,MARCH
+Miscellaneous,19,,19/03/2023,MARCH
+Miscellaneous,20,,20/03/2023,MARCH
+Miscellaneous,21,,21/03/2023,MARCH
+Miscellaneous,22,,22/03/2023,MARCH
+Miscellaneous,23,,23/03/2023,MARCH
+Miscellaneous,24,,24/03/2023,MARCH
+Miscellaneous,25,,25/03/2023,MARCH
+Miscellaneous,26,,26/03/2023,MARCH
+Miscellaneous,27,,27/03/2023,MARCH
+Miscellaneous,28,,28/03/2023,MARCH
+Miscellaneous,29,,29/03/2023,MARCH
+Miscellaneous,30,,30/03/2023,MARCH
+Miscellaneous,31,,31/03/2023,MARCH
+Apple Subscriptions,2,,02/03/2023,MARCH
+Apple Subscriptions,3,,03/03/2023,MARCH
+Apple Subscriptions,4,,04/03/2023,MARCH
+Apple Subscriptions,5,,05/03/2023,MARCH
+Apple Subscriptions,6,,06/03/2023,MARCH
+Apple Subscriptions,7,,07/03/2023,MARCH
+Apple Subscriptions,8,,08/03/2023,MARCH
+Apple Subscriptions,9,,09/03/2023,MARCH
+Apple Subscriptions,10,,10/03/2023,MARCH
+Apple Subscriptions,11,,11/03/2023,MARCH
+Apple Subscriptions,12,,12/03/2023,MARCH
+Apple Subscriptions,13,,13/03/2023,MARCH
+Apple Subscriptions,14,,14/03/2023,MARCH
+Apple Subscriptions,15,,15/03/2023,MARCH
+Apple Subscriptions,16,,16/03/2023,MARCH
+Apple Subscriptions,17,,17/03/2023,MARCH
+Apple Subscriptions,18,,18/03/2023,MARCH
+Apple Subscriptions,19,,19/03/2023,MARCH
+Apple Subscriptions,20,,20/03/2023,MARCH
+Apple Subscriptions,21,,21/03/2023,MARCH
+Apple Subscriptions,22,,22/03/2023,MARCH
+Apple Subscriptions,23,,23/03/2023,MARCH
+Apple Subscriptions,24,,24/03/2023,MARCH
+Apple Subscriptions,25,,25/03/2023,MARCH
+Apple Subscriptions,26,13.25,26/03/2023,MARCH
+Apple Subscriptions,27,,27/03/2023,MARCH
+Apple Subscriptions,28,,28/03/2023,MARCH
+Apple Subscriptions,29,,29/03/2023,MARCH
+Apple Subscriptions,30,,30/03/2023,MARCH
+Apple Subscriptions,31,,31/03/2023,MARCH
+Google 1,2,,02/03/2023,MARCH
+Google 1,3,,03/03/2023,MARCH
+Google 1,4,,04/03/2023,MARCH
+Google 1,5,,05/03/2023,MARCH
+Google 1,6,,06/03/2023,MARCH
+Google 1,7,,07/03/2023,MARCH
+Google 1,8,,08/03/2023,MARCH
+Google 1,9,,09/03/2023,MARCH
+Google 1,10,9,10/03/2023,MARCH
+Google 1,11,,11/03/2023,MARCH
+Google 1,12,,12/03/2023,MARCH
+Google 1,13,,13/03/2023,MARCH
+Google 1,14,,14/03/2023,MARCH
+Google 1,15,,15/03/2023,MARCH
+Google 1,16,,16/03/2023,MARCH
+Google 1,17,,17/03/2023,MARCH
+Google 1,18,,18/03/2023,MARCH
+Google 1,19,,19/03/2023,MARCH
+Google 1,20,,20/03/2023,MARCH
+Google 1,21,,21/03/2023,MARCH
+Google 1,22,,22/03/2023,MARCH
+Google 1,23,,23/03/2023,MARCH
+Google 1,24,,24/03/2023,MARCH
+Google 1,25,,25/03/2023,MARCH
+Google 1,26,,26/03/2023,MARCH
+Google 1,27,,27/03/2023,MARCH
+Google 1,28,,28/03/2023,MARCH
+Google 1,29,,29/03/2023,MARCH
+Google 1,30,,30/03/2023,MARCH
+Google 1,31,,31/03/2023,MARCH
+Netflix,2,,02/03/2023,MARCH
+Netflix,3,,03/03/2023,MARCH
+Netflix,4,,04/03/2023,MARCH
+Netflix,5,,05/03/2023,MARCH
+Netflix,6,,06/03/2023,MARCH
+Netflix,7,,07/03/2023,MARCH
+Netflix,8,,08/03/2023,MARCH
+Netflix,9,,09/03/2023,MARCH
+Netflix,10,,10/03/2023,MARCH
+Netflix,11,,11/03/2023,MARCH
+Netflix,12,,12/03/2023,MARCH
+Netflix,13,,13/03/2023,MARCH
+Netflix,14,,14/03/2023,MARCH
+Netflix,15,,15/03/2023,MARCH
+Netflix,16,,16/03/2023,MARCH
+Netflix,17,,17/03/2023,MARCH
+Netflix,18,,18/03/2023,MARCH
+Netflix,19,108.57,19/03/2023,MARCH
+Netflix,20,,20/03/2023,MARCH
+Netflix,21,,21/03/2023,MARCH
+Netflix,22,,22/03/2023,MARCH
+Netflix,23,,23/03/2023,MARCH
+Netflix,24,,24/03/2023,MARCH
+Netflix,25,,25/03/2023,MARCH
+Netflix,26,,26/03/2023,MARCH
+Netflix,27,,27/03/2023,MARCH
+Netflix,28,,28/03/2023,MARCH
+Netflix,29,,29/03/2023,MARCH
+Netflix,30,,30/03/2023,MARCH
+Netflix,31,,31/03/2023,MARCH
+Amuse,2,,02/03/2023,MARCH
+Amuse,3,,03/03/2023,MARCH
+Amuse,4,,04/03/2023,MARCH
+Amuse,5,,05/03/2023,MARCH
+Amuse,6,,06/03/2023,MARCH
+Amuse,7,,07/03/2023,MARCH
+Amuse,8,,08/03/2023,MARCH
+Amuse,9,,09/03/2023,MARCH
+Amuse,10,,10/03/2023,MARCH
+Amuse,11,,11/03/2023,MARCH
+Amuse,12,,12/03/2023,MARCH
+Amuse,13,,13/03/2023,MARCH
+Amuse,14,,14/03/2023,MARCH
+Amuse,15,,15/03/2023,MARCH
+Amuse,16,,16/03/2023,MARCH
+Amuse,17,,17/03/2023,MARCH
+Amuse,18,,18/03/2023,MARCH
+Amuse,19,,19/03/2023,MARCH
+Amuse,20,,20/03/2023,MARCH
+Amuse,21,,21/03/2023,MARCH
+Amuse,22,,22/03/2023,MARCH
+Amuse,23,,23/03/2023,MARCH
+Amuse,24,,24/03/2023,MARCH
+Amuse,25,,25/03/2023,MARCH
+Amuse,26,,26/03/2023,MARCH
+Amuse,27,,27/03/2023,MARCH
+Amuse,28,,28/03/2023,MARCH
+Amuse,29,,29/03/2023,MARCH
+Amuse,30,,30/03/2023,MARCH
+Amuse,31,,31/03/2023,MARCH
+electricity,2,,02/03/2023,MARCH
+electricity,3,,03/03/2023,MARCH
+electricity,4,,04/03/2023,MARCH
+electricity,5,,05/03/2023,MARCH
+electricity,6,,06/03/2023,MARCH
+electricity,7,,07/03/2023,MARCH
+electricity,8,,08/03/2023,MARCH
+electricity,9,,09/03/2023,MARCH
+electricity,10,,10/03/2023,MARCH
+electricity,11,,11/03/2023,MARCH
+electricity,12,,12/03/2023,MARCH
+electricity,13,,13/03/2023,MARCH
+electricity,14,,14/03/2023,MARCH
+electricity,15,,15/03/2023,MARCH
+electricity,16,,16/03/2023,MARCH
+electricity,17,,17/03/2023,MARCH
+electricity,18,,18/03/2023,MARCH
+electricity,19,,19/03/2023,MARCH
+electricity,20,,20/03/2023,MARCH
+electricity,21,,21/03/2023,MARCH
+electricity,22,,22/03/2023,MARCH
+electricity,23,,23/03/2023,MARCH
+electricity,24,,24/03/2023,MARCH
+electricity,25,,25/03/2023,MARCH
+electricity,26,,26/03/2023,MARCH
+electricity,27,,27/03/2023,MARCH
+electricity,28,,28/03/2023,MARCH
+electricity,29,,29/03/2023,MARCH
+electricity,30,,30/03/2023,MARCH
+electricity,31,,31/03/2023,MARCH
+Account Charges,2,,02/03/2023,MARCH
+Account Charges,3,,03/03/2023,MARCH
+Account Charges,4,,04/03/2023,MARCH
+Account Charges,5,,05/03/2023,MARCH
+Account Charges,6,,06/03/2023,MARCH
+Account Charges,7,,07/03/2023,MARCH
+Account Charges,8,,08/03/2023,MARCH
+Account Charges,9,,09/03/2023,MARCH
+Account Charges,10,,10/03/2023,MARCH
+Account Charges,11,,11/03/2023,MARCH
+Account Charges,12,,12/03/2023,MARCH
+Account Charges,13,,13/03/2023,MARCH
+Account Charges,14,,14/03/2023,MARCH
+Account Charges,15,,15/03/2023,MARCH
+Account Charges,16,,16/03/2023,MARCH
+Account Charges,17,,17/03/2023,MARCH
+Account Charges,18,,18/03/2023,MARCH
+Account Charges,19,,19/03/2023,MARCH
+Account Charges,20,,20/03/2023,MARCH
+Account Charges,21,10,21/03/2023,MARCH
+Account Charges,22,14,22/03/2023,MARCH
+Account Charges,23,4,23/03/2023,MARCH
+Account Charges,24,,24/03/2023,MARCH
+Account Charges,25,,25/03/2023,MARCH
+Account Charges,26,,26/03/2023,MARCH
+Account Charges,27,,27/03/2023,MARCH
+Account Charges,28,,28/03/2023,MARCH
+Account Charges,29,,29/03/2023,MARCH
+Account Charges,30,,30/03/2023,MARCH
+Account Charges,31,,31/03/2023,MARCH
+Tithe,1,,01/04/2023,APRIL
+Tithe,23,385,23/04/2023,APRIL
+Data,6,300,06/04/2023,APRIL
+Savings/ Investment ,1,,01/04/2023,APRIL
+Savings/ Investment ,20,500,20/04/2023,APRIL
+Hair / Gym,20,20,20/04/2023,APRIL
+Food,1,108.35,01/04/2023,APRIL
+Food,3,21,03/04/2023,APRIL
+Food,4,7.5,04/04/2023,APRIL
+Food,5,20,05/04/2023,APRIL
+Food,7,17,07/04/2023,APRIL
+Food,10,20,10/04/2023,APRIL
+Food,12,20,12/04/2023,APRIL
+Food,13,8,13/04/2023,APRIL
+Food,14,15,14/04/2023,APRIL
+Food,16,32.5,16/04/2023,APRIL
+Food,19,40,19/04/2023,APRIL
+Food,20,13,20/04/2023,APRIL
+Food,21,101,21/04/2023,APRIL
+Food,22,231,22/04/2023,APRIL
+Food,23,12,23/04/2023,APRIL
+Food,24,48,24/04/2023,APRIL
+Food,25,14,25/04/2023,APRIL
+Food,26,5,26/04/2023,APRIL
+Food,27,20,27/04/2023,APRIL
+Food,28,97,28/04/2023,APRIL
+Healthcare,18,17,18/04/2023,APRIL
+Healthcare,22,,22/04/2023,APRIL
+Clothes/ Shoes/ Jewelry ,1,,01/04/2023,APRIL
+Clothes/ Shoes/ Jewelry ,20,470,20/04/2023,APRIL
+Travel/ Vacations ,1,,01/04/2023,APRIL
+Outings,1,,01/04/2023,APRIL
+Outings,4,100,04/04/2023,APRIL
+Toiletries/Groceries,1,,01/04/2023,APRIL
+Toiletries/Groceries,2,136.92,02/04/2023,APRIL
+Toiletries/Groceries,3,39,03/04/2023,APRIL
+Toiletries/Groceries,9,4,09/04/2023,APRIL
+Toiletries/Groceries,10,4.5,10/04/2023,APRIL
+Toiletries/Groceries,22,95.97,22/04/2023,APRIL
+Toiletries/Groceries,24,72.5,24/04/2023,APRIL
+Transportation ,1,,01/04/2023,APRIL
+Transportation ,2,62,02/04/2023,APRIL
+Transportation ,4,17,04/04/2023,APRIL
+Transportation ,5,20,05/04/2023,APRIL
+Transportation ,6,13,06/04/2023,APRIL
+Transportation ,7,13,07/04/2023,APRIL
+Transportation ,9,45,09/04/2023,APRIL
+Transportation ,10,32,10/04/2023,APRIL
+Transportation ,14,14,14/04/2023,APRIL
+Transportation ,15,50,15/04/2023,APRIL
+Transportation ,16,49,16/04/2023,APRIL
+Transportation ,19,30,19/04/2023,APRIL
+Transportation ,21,53,21/04/2023,APRIL
+Transportation ,22,16,22/04/2023,APRIL
+Transportation ,23,40,23/04/2023,APRIL
+Transportation ,28,6,28/04/2023,APRIL
+Miscellaneous,1,,01/04/2023,APRIL
+Miscellaneous,5,5,05/04/2023,APRIL
+Miscellaneous,7,208,07/04/2023,APRIL
+Miscellaneous,9,100,09/04/2023,APRIL
+Miscellaneous,10,35,10/04/2023,APRIL
+Miscellaneous,17,50,17/04/2023,APRIL
+Miscellaneous,20,15,20/04/2023,APRIL
+Miscellaneous,28,150,28/04/2023,APRIL
+Apple Subscriptions,1,,01/04/2023,APRIL
+Apple Subscriptions,26,12.82,26/04/2023,APRIL
+Google 1,1,,01/04/2023,APRIL
+Google 1,10,9,10/04/2023,APRIL
+Netflix,1,,01/04/2023,APRIL
+Netflix,22,101.74,22/04/2023,APRIL
+Amuse,1,,01/04/2023,APRIL
+electricity,1,,01/04/2023,APRIL
+Account Charges,1,,01/04/2023,APRIL
+Account Charges,20,5,20/04/2023,APRIL
+Account Charges,23,3,23/04/2023,APRIL
+Account Charges,28,6,28/04/2023,APRIL
+Rent,3,,03/05/2023,MAY
+Rent,4,,04/05/2023,MAY
+Rent,5,,05/05/2023,MAY
+Rent,6,,06/05/2023,MAY
+Rent,7,,07/05/2023,MAY
+Rent,8,,08/05/2023,MAY
+Rent,9,,09/05/2023,MAY
+Rent,10,,10/05/2023,MAY
+Rent,11,,11/05/2023,MAY
+Rent,12,,12/05/2023,MAY
+Rent,13,,13/05/2023,MAY
+Rent,14,,14/05/2023,MAY
+Rent,15,,15/05/2023,MAY
+Rent,16,,16/05/2023,MAY
+Rent,17,,17/05/2023,MAY
+Rent,18,,18/05/2023,MAY
+Rent,19,,19/05/2023,MAY
+Rent,20,,20/05/2023,MAY
+Rent,21,,21/05/2023,MAY
+Rent,22,,22/05/2023,MAY
+Rent,23,,23/05/2023,MAY
+Rent,24,,24/05/2023,MAY
+Rent,25,,25/05/2023,MAY
+Rent,26,,26/05/2023,MAY
+Rent,27,,27/05/2023,MAY
+Rent,28,,28/05/2023,MAY
+Rent,29,,29/05/2023,MAY
+Rent,30,,30/05/2023,MAY
+Rent,31,,31/05/2023,MAY
+Data,3,,03/05/2023,MAY
+Data,4,,04/05/2023,MAY
+Data,5,,05/05/2023,MAY
+Data,6,300,06/05/2023,MAY
+Data,7,,07/05/2023,MAY
+Data,8,,08/05/2023,MAY
+Data,9,,09/05/2023,MAY
+Data,10,,10/05/2023,MAY
+Data,11,,11/05/2023,MAY
+Data,12,,12/05/2023,MAY
+Data,13,,13/05/2023,MAY
+Data,14,,14/05/2023,MAY
+Data,15,,15/05/2023,MAY
+Data,16,,16/05/2023,MAY
+Data,17,,17/05/2023,MAY
+Data,18,,18/05/2023,MAY
+Data,19,,19/05/2023,MAY
+Data,20,,20/05/2023,MAY
+Data,21,,21/05/2023,MAY
+Data,22,,22/05/2023,MAY
+Data,23,,23/05/2023,MAY
+Data,24,,24/05/2023,MAY
+Data,25,,25/05/2023,MAY
+Data,26,,26/05/2023,MAY
+Data,27,,27/05/2023,MAY
+Data,28,,28/05/2023,MAY
+Data,29,,29/05/2023,MAY
+Data,30,,30/05/2023,MAY
+Data,31,,31/05/2023,MAY
+Hair / Gym,3,,03/05/2023,MAY
+Hair / Gym,4,,04/05/2023,MAY
+Hair / Gym,5,,05/05/2023,MAY
+Hair / Gym,6,,06/05/2023,MAY
+Hair / Gym,7,,07/05/2023,MAY
+Hair / Gym,8,,08/05/2023,MAY
+Hair / Gym,9,,09/05/2023,MAY
+Hair / Gym,10,,10/05/2023,MAY
+Hair / Gym,11,,11/05/2023,MAY
+Hair / Gym,12,,12/05/2023,MAY
+Hair / Gym,13,,13/05/2023,MAY
+Hair / Gym,14,,14/05/2023,MAY
+Hair / Gym,15,,15/05/2023,MAY
+Hair / Gym,16,,16/05/2023,MAY
+Hair / Gym,17,,17/05/2023,MAY
+Hair / Gym,18,,18/05/2023,MAY
+Hair / Gym,19,,19/05/2023,MAY
+Hair / Gym,20,,20/05/2023,MAY
+Hair / Gym,21,,21/05/2023,MAY
+Hair / Gym,22,,22/05/2023,MAY
+Hair / Gym,23,,23/05/2023,MAY
+Hair / Gym,24,,24/05/2023,MAY
+Hair / Gym,25,,25/05/2023,MAY
+Hair / Gym,26,,26/05/2023,MAY
+Hair / Gym,27,,27/05/2023,MAY
+Hair / Gym,28,,28/05/2023,MAY
+Hair / Gym,29,,29/05/2023,MAY
+Hair / Gym,30,,30/05/2023,MAY
+Hair / Gym,31,,31/05/2023,MAY
+Food,1,40,01/05/2023,MAY
+Food,2,8,02/05/2023,MAY
+Food,3,100,03/05/2023,MAY
+Food,4,5,04/05/2023,MAY
+Food,5,5,05/05/2023,MAY
+Food,6,141,06/05/2023,MAY
+Food,7,10,07/05/2023,MAY
+Food,8,5,08/05/2023,MAY
+Food,9,22,09/05/2023,MAY
+Food,10,7,10/05/2023,MAY
+Food,11,7,11/05/2023,MAY
+Food,12,8.5,12/05/2023,MAY
+Food,13,34,13/05/2023,MAY
+Food,14,16,14/05/2023,MAY
+Food,15,7,15/05/2023,MAY
+Food,16,8,16/05/2023,MAY
+Food,17,18,17/05/2023,MAY
+Food,18,7,18/05/2023,MAY
+Food,19,140,19/05/2023,MAY
+Food,20,50,20/05/2023,MAY
+Food,21,125,21/05/2023,MAY
+Food,22,165,22/05/2023,MAY
+Food,23,9,23/05/2023,MAY
+Food,24,16,24/05/2023,MAY
+Food,25,17,25/05/2023,MAY
+Food,26,20,26/05/2023,MAY
+Food,27,89,27/05/2023,MAY
+Food,28,10,28/05/2023,MAY
+Food,29,5,29/05/2023,MAY
+Food,30,10,30/05/2023,MAY
+Food,31,8,31/05/2023,MAY
+Healthcare,3,,03/05/2023,MAY
+Healthcare,4,,04/05/2023,MAY
+Healthcare,5,,05/05/2023,MAY
+Healthcare,6,52,06/05/2023,MAY
+Healthcare,7,,07/05/2023,MAY
+Healthcare,8,,08/05/2023,MAY
+Healthcare,9,,09/05/2023,MAY
+Healthcare,10,,10/05/2023,MAY
+Healthcare,11,,11/05/2023,MAY
+Healthcare,12,,12/05/2023,MAY
+Healthcare,13,,13/05/2023,MAY
+Healthcare,14,,14/05/2023,MAY
+Healthcare,15,,15/05/2023,MAY
+Healthcare,16,,16/05/2023,MAY
+Healthcare,17,,17/05/2023,MAY
+Healthcare,19,,19/05/2023,MAY
+Healthcare,20,,20/05/2023,MAY
+Healthcare,21,,21/05/2023,MAY
+Healthcare,22,,22/05/2023,MAY
+Healthcare,23,,23/05/2023,MAY
+Healthcare,24,,24/05/2023,MAY
+Healthcare,25,,25/05/2023,MAY
+Healthcare,26,,26/05/2023,MAY
+Healthcare,27,,27/05/2023,MAY
+Healthcare,28,,28/05/2023,MAY
+Healthcare,29,,29/05/2023,MAY
+Healthcare,30,,30/05/2023,MAY
+Healthcare,31,,31/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,1,,01/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,2,,02/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,3,,03/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,4,,04/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,5,,05/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,6,,06/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,7,,07/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,8,,08/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,9,,09/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,10,,10/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,11,,11/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,12,,12/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,13,,13/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,14,,14/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,15,,15/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,16,,16/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,17,,17/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,18,,18/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,19,,19/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,20,,20/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,21,,21/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,22,,22/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,23,,23/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,24,,24/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,25,,25/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,26,,26/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,27,,27/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,28,,28/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,29,290,29/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,30,,30/05/2023,MAY
+Clothes/ Shoes/ Jewelry ,31,,31/05/2023,MAY
+Outings,1,,01/05/2023,MAY
+Outings,2,,02/05/2023,MAY
+Outings,3,,03/05/2023,MAY
+Outings,4,,04/05/2023,MAY
+Outings,5,,05/05/2023,MAY
+Outings,6,,06/05/2023,MAY
+Outings,7,,07/05/2023,MAY
+Outings,8,,08/05/2023,MAY
+Outings,9,,09/05/2023,MAY
+Outings,10,,10/05/2023,MAY
+Outings,11,,11/05/2023,MAY
+Outings,12,,12/05/2023,MAY
+Outings,13,,13/05/2023,MAY
+Outings,14,,14/05/2023,MAY
+Outings,15,,15/05/2023,MAY
+Outings,16,,16/05/2023,MAY
+Outings,17,,17/05/2023,MAY
+Outings,18,,18/05/2023,MAY
+Outings,19,,19/05/2023,MAY
+Outings,20,,20/05/2023,MAY
+Outings,21,,21/05/2023,MAY
+Outings,22,,22/05/2023,MAY
+Outings,23,,23/05/2023,MAY
+Outings,24,,24/05/2023,MAY
+Outings,25,,25/05/2023,MAY
+Outings,26,,26/05/2023,MAY
+Outings,27,100,27/05/2023,MAY
+Outings,28,,28/05/2023,MAY
+Outings,29,,29/05/2023,MAY
+Outings,30,,30/05/2023,MAY
+Outings,31,,31/05/2023,MAY
+Toiletries/Groceries,1,,01/05/2023,MAY
+Toiletries/Groceries,2,39,02/05/2023,MAY
+Toiletries/Groceries,3,,03/05/2023,MAY
+Toiletries/Groceries,4,137.95,04/05/2023,MAY
+Toiletries/Groceries,5,,05/05/2023,MAY
+Toiletries/Groceries,6,50.49,06/05/2023,MAY
+Toiletries/Groceries,7,23,07/05/2023,MAY
+Toiletries/Groceries,8,,08/05/2023,MAY
+Toiletries/Groceries,9,,09/05/2023,MAY
+Toiletries/Groceries,10,,10/05/2023,MAY
+Toiletries/Groceries,11,,11/05/2023,MAY
+Toiletries/Groceries,12,,12/05/2023,MAY
+Toiletries/Groceries,13,,13/05/2023,MAY
+Toiletries/Groceries,14,,14/05/2023,MAY
+Toiletries/Groceries,15,16,15/05/2023,MAY
+Toiletries/Groceries,16,91,16/05/2023,MAY
+Toiletries/Groceries,17,13,17/05/2023,MAY
+Toiletries/Groceries,18,36,18/05/2023,MAY
+Toiletries/Groceries,19,57,19/05/2023,MAY
+Toiletries/Groceries,20,,20/05/2023,MAY
+Toiletries/Groceries,21,,21/05/2023,MAY
+Toiletries/Groceries,22,250,22/05/2023,MAY
+Toiletries/Groceries,23,,23/05/2023,MAY
+Toiletries/Groceries,24,,24/05/2023,MAY
+Toiletries/Groceries,25,,25/05/2023,MAY
+Toiletries/Groceries,26,,26/05/2023,MAY
+Toiletries/Groceries,27,,27/05/2023,MAY
+Toiletries/Groceries,28,,28/05/2023,MAY
+Toiletries/Groceries,29,,29/05/2023,MAY
+Toiletries/Groceries,30,,30/05/2023,MAY
+Toiletries/Groceries,31,,31/05/2023,MAY
+Transportation ,1,,01/05/2023,MAY
+Transportation ,2,70,02/05/2023,MAY
+Transportation ,3,,03/05/2023,MAY
+Transportation ,4,63,04/05/2023,MAY
+Transportation ,5,209,05/05/2023,MAY
+Transportation ,6,4.5,06/05/2023,MAY
+Transportation ,7,34,07/05/2023,MAY
+Transportation ,8,,08/05/2023,MAY
+Transportation ,9,52,09/05/2023,MAY
+Transportation ,10,,10/05/2023,MAY
+Transportation ,11,,11/05/2023,MAY
+Transportation ,12,44,12/05/2023,MAY
+Transportation ,13,24.5,13/05/2023,MAY
+Transportation ,14,,14/05/2023,MAY
+Transportation ,15,56,15/05/2023,MAY
+Transportation ,16,12.5,16/05/2023,MAY
+Transportation ,17,3,17/05/2023,MAY
+Transportation ,18,55,18/05/2023,MAY
+Transportation ,19,27,19/05/2023,MAY
+Transportation ,20,,20/05/2023,MAY
+Transportation ,21,47,21/05/2023,MAY
+Transportation ,22,54,22/05/2023,MAY
+Transportation ,23,107,23/05/2023,MAY
+Transportation ,24,,24/05/2023,MAY
+Transportation ,25,5,25/05/2023,MAY
+Transportation ,26,40,26/05/2023,MAY
+Transportation ,27,22,27/05/2023,MAY
+Transportation ,28,,28/05/2023,MAY
+Transportation ,29,123,29/05/2023,MAY
+Transportation ,30,,30/05/2023,MAY
+Transportation ,31,54,31/05/2023,MAY
+Miscellaneous,1,,01/05/2023,MAY
+Miscellaneous,2,260,02/05/2023,MAY
+Miscellaneous,3,,03/05/2023,MAY
+Miscellaneous,4,,04/05/2023,MAY
+Miscellaneous,5,,05/05/2023,MAY
+Miscellaneous,6,20,06/05/2023,MAY
+Miscellaneous,7,,07/05/2023,MAY
+Miscellaneous,8,,08/05/2023,MAY
+Miscellaneous,9,,09/05/2023,MAY
+Miscellaneous,10,,10/05/2023,MAY
+Miscellaneous,11,,11/05/2023,MAY
+Miscellaneous,12,,12/05/2023,MAY
+Miscellaneous,13,,13/05/2023,MAY
+Miscellaneous,14,,14/05/2023,MAY
+Miscellaneous,15,,15/05/2023,MAY
+Miscellaneous,16,,16/05/2023,MAY
+Miscellaneous,17,,17/05/2023,MAY
+Miscellaneous,18,,18/05/2023,MAY
+Miscellaneous,19,,19/05/2023,MAY
+Miscellaneous,20,,20/05/2023,MAY
+Miscellaneous,21,,21/05/2023,MAY
+Miscellaneous,22,,22/05/2023,MAY
+Miscellaneous,23,,23/05/2023,MAY
+Miscellaneous,24,20,24/05/2023,MAY
+Miscellaneous,25,,25/05/2023,MAY
+Miscellaneous,26,,26/05/2023,MAY
+Miscellaneous,27,20,27/05/2023,MAY
+Miscellaneous,28,,28/05/2023,MAY
+Miscellaneous,29,,29/05/2023,MAY
+Miscellaneous,30,,30/05/2023,MAY
+Miscellaneous,31,750,31/05/2023,MAY
+Apple Subscriptions,1,,01/05/2023,MAY
+Apple Subscriptions,2,,02/05/2023,MAY
+Apple Subscriptions,3,,03/05/2023,MAY
+Apple Subscriptions,4,,04/05/2023,MAY
+Apple Subscriptions,5,,05/05/2023,MAY
+Apple Subscriptions,6,,06/05/2023,MAY
+Apple Subscriptions,7,,07/05/2023,MAY
+Apple Subscriptions,8,,08/05/2023,MAY
+Apple Subscriptions,9,,09/05/2023,MAY
+Apple Subscriptions,10,,10/05/2023,MAY
+Apple Subscriptions,11,,11/05/2023,MAY
+Apple Subscriptions,12,,12/05/2023,MAY
+Apple Subscriptions,13,,13/05/2023,MAY
+Apple Subscriptions,14,,14/05/2023,MAY
+Apple Subscriptions,15,,15/05/2023,MAY
+Apple Subscriptions,16,,16/05/2023,MAY
+Apple Subscriptions,17,,17/05/2023,MAY
+Apple Subscriptions,18,,18/05/2023,MAY
+Apple Subscriptions,19,,19/05/2023,MAY
+Apple Subscriptions,20,,20/05/2023,MAY
+Apple Subscriptions,21,,21/05/2023,MAY
+Apple Subscriptions,22,,22/05/2023,MAY
+Apple Subscriptions,23,,23/05/2023,MAY
+Apple Subscriptions,24,,24/05/2023,MAY
+Apple Subscriptions,25,,25/05/2023,MAY
+Apple Subscriptions,26,12.19,26/05/2023,MAY
+Apple Subscriptions,27,,27/05/2023,MAY
+Apple Subscriptions,28,,28/05/2023,MAY
+Apple Subscriptions,29,,29/05/2023,MAY
+Apple Subscriptions,30,,30/05/2023,MAY
+Apple Subscriptions,31,,31/05/2023,MAY
+Netflix,1,,01/05/2023,MAY
+Netflix,2,,02/05/2023,MAY
+Netflix,3,,03/05/2023,MAY
+Netflix,4,,04/05/2023,MAY
+Netflix,5,,05/05/2023,MAY
+Netflix,6,,06/05/2023,MAY
+Netflix,7,,07/05/2023,MAY
+Netflix,8,,08/05/2023,MAY
+Netflix,9,,09/05/2023,MAY
+Netflix,10,,10/05/2023,MAY
+Netflix,11,,11/05/2023,MAY
+Netflix,12,,12/05/2023,MAY
+Netflix,13,,13/05/2023,MAY
+Netflix,14,,14/05/2023,MAY
+Netflix,15,,15/05/2023,MAY
+Netflix,16,,16/05/2023,MAY
+Netflix,17,,17/05/2023,MAY
+Netflix,18,,18/05/2023,MAY
+Netflix,19,,19/05/2023,MAY
+Netflix,20,,20/05/2023,MAY
+Netflix,21,,21/05/2023,MAY
+Netflix,22,,22/05/2023,MAY
+Netflix,23,93.61,23/05/2023,MAY
+Netflix,24,,24/05/2023,MAY
+Netflix,25,,25/05/2023,MAY
+Netflix,26,,26/05/2023,MAY
+Netflix,27,,27/05/2023,MAY
+Netflix,28,,28/05/2023,MAY
+Netflix,29,,29/05/2023,MAY
+Netflix,30,,30/05/2023,MAY
+Netflix,31,,31/05/2023,MAY
+Account Charges,1,,01/05/2023,MAY
+Account Charges,2,3.55,02/05/2023,MAY
+Account Charges,3,1,03/05/2023,MAY
+Account Charges,4,,04/05/2023,MAY
+Account Charges,5,,05/05/2023,MAY
+Account Charges,6,5,06/05/2023,MAY
+Account Charges,7,,07/05/2023,MAY
+Account Charges,8,,08/05/2023,MAY
+Account Charges,9,1,09/05/2023,MAY
+Account Charges,10,,10/05/2023,MAY
+Account Charges,11,,11/05/2023,MAY
+Account Charges,12,,12/05/2023,MAY
+Account Charges,13,,13/05/2023,MAY
+Account Charges,14,,14/05/2023,MAY
+Account Charges,15,,15/05/2023,MAY
+Account Charges,16,,16/05/2023,MAY
+Account Charges,17,,17/05/2023,MAY
+Account Charges,18,,18/05/2023,MAY
+Account Charges,19,,19/05/2023,MAY
+Account Charges,20,,20/05/2023,MAY
+Account Charges,21,,21/05/2023,MAY
+Account Charges,22,,22/05/2023,MAY
+Account Charges,23,,23/05/2023,MAY
+Account Charges,24,,24/05/2023,MAY
+Account Charges,25,,25/05/2023,MAY
+Account Charges,26,,26/05/2023,MAY
+Account Charges,27,,27/05/2023,MAY
+Account Charges,28,,28/05/2023,MAY
+Account Charges,29,1,29/05/2023,MAY
+Account Charges,30,,30/05/2023,MAY
+Account Charges,31,5,31/05/2023,MAY
+Rent,3,,03/06/2023,JUNE
+Rent,4,,04/06/2023,JUNE
+Rent,5,,05/06/2023,JUNE
+Rent,6,,06/06/2023,JUNE
+Rent,7,,07/06/2023,JUNE
+Rent,8,,08/06/2023,JUNE
+Rent,9,,09/06/2023,JUNE
+Rent,10,,10/06/2023,JUNE
+Rent,11,,11/06/2023,JUNE
+Rent,12,,12/06/2023,JUNE
+Rent,13,,13/06/2023,JUNE
+Rent,14,,14/06/2023,JUNE
+Rent,15,,15/06/2023,JUNE
+Rent,16,,16/06/2023,JUNE
+Rent,17,,17/06/2023,JUNE
+Rent,18,,18/06/2023,JUNE
+Rent,19,,19/06/2023,JUNE
+Rent,20,,20/06/2023,JUNE
+Rent,21,,21/06/2023,JUNE
+Rent,22,,22/06/2023,JUNE
+Rent,23,,23/06/2023,JUNE
+Rent,24,,24/06/2023,JUNE
+Rent,25,,25/06/2023,JUNE
+Rent,26,,26/06/2023,JUNE
+Rent,27,500,27/06/2023,JUNE
+Rent,28,,28/06/2023,JUNE
+Rent,29,,29/06/2023,JUNE
+Rent,30,,30/06/2023,JUNE
+Data,3,,03/06/2023,JUNE
+Data,4,,04/06/2023,JUNE
+Data,5,300,05/06/2023,JUNE
+Data,6,,06/06/2023,JUNE
+Data,7,,07/06/2023,JUNE
+Data,8,,08/06/2023,JUNE
+Data,9,,09/06/2023,JUNE
+Data,10,,10/06/2023,JUNE
+Data,11,,11/06/2023,JUNE
+Data,12,,12/06/2023,JUNE
+Data,13,,13/06/2023,JUNE
+Data,14,,14/06/2023,JUNE
+Data,15,,15/06/2023,JUNE
+Data,16,,16/06/2023,JUNE
+Data,17,,17/06/2023,JUNE
+Data,18,,18/06/2023,JUNE
+Data,19,,19/06/2023,JUNE
+Data,20,,20/06/2023,JUNE
+Data,21,,21/06/2023,JUNE
+Data,22,,22/06/2023,JUNE
+Data,23,,23/06/2023,JUNE
+Data,24,,24/06/2023,JUNE
+Data,25,,25/06/2023,JUNE
+Data,26,,26/06/2023,JUNE
+Data,27,,27/06/2023,JUNE
+Data,28,,28/06/2023,JUNE
+Data,29,,29/06/2023,JUNE
+Data,30,,30/06/2023,JUNE
+Savings/ Investment ,1,,01/06/2023,JUNE
+Savings/ Investment ,2,,02/06/2023,JUNE
+Savings/ Investment ,3,,03/06/2023,JUNE
+Savings/ Investment ,4,,04/06/2023,JUNE
+Savings/ Investment ,5,,05/06/2023,JUNE
+Savings/ Investment ,6,,06/06/2023,JUNE
+Savings/ Investment ,7,,07/06/2023,JUNE
+Savings/ Investment ,8,,08/06/2023,JUNE
+Savings/ Investment ,9,,09/06/2023,JUNE
+Savings/ Investment ,10,,10/06/2023,JUNE
+Savings/ Investment ,11,,11/06/2023,JUNE
+Savings/ Investment ,12,,12/06/2023,JUNE
+Savings/ Investment ,13,,13/06/2023,JUNE
+Savings/ Investment ,14,,14/06/2023,JUNE
+Savings/ Investment ,15,,15/06/2023,JUNE
+Savings/ Investment ,16,,16/06/2023,JUNE
+Savings/ Investment ,17,,17/06/2023,JUNE
+Savings/ Investment ,18,,18/06/2023,JUNE
+Savings/ Investment ,19,,19/06/2023,JUNE
+Savings/ Investment ,20,,20/06/2023,JUNE
+Savings/ Investment ,21,,21/06/2023,JUNE
+Savings/ Investment ,22,,22/06/2023,JUNE
+Savings/ Investment ,23,,23/06/2023,JUNE
+Savings/ Investment ,24,,24/06/2023,JUNE
+Savings/ Investment ,25,,25/06/2023,JUNE
+Savings/ Investment ,26,,26/06/2023,JUNE
+Savings/ Investment ,27,350,27/06/2023,JUNE
+Savings/ Investment ,28,,28/06/2023,JUNE
+Savings/ Investment ,29,,29/06/2023,JUNE
+Savings/ Investment ,30,,30/06/2023,JUNE
+Food,1,13,01/06/2023,JUNE
+Food,2,172,02/06/2023,JUNE
+Food,3,23,03/06/2023,JUNE
+Food,4,11.5,04/06/2023,JUNE
+Food,5,8,05/06/2023,JUNE
+Food,6,24,06/06/2023,JUNE
+Food,7,7,07/06/2023,JUNE
+Food,8,12,08/06/2023,JUNE
+Food,9,17,09/06/2023,JUNE
+Food,10,37,10/06/2023,JUNE
+Food,11,,11/06/2023,JUNE
+Food,12,7,12/06/2023,JUNE
+Food,13,57,13/06/2023,JUNE
+Food,14,7,14/06/2023,JUNE
+Food,15,8,15/06/2023,JUNE
+Food,16,9,16/06/2023,JUNE
+Food,17,80,17/06/2023,JUNE
+Food,18,,18/06/2023,JUNE
+Food,19,,19/06/2023,JUNE
+Food,20,17,20/06/2023,JUNE
+Food,21,24,21/06/2023,JUNE
+Food,22,24,22/06/2023,JUNE
+Food,23,,23/06/2023,JUNE
+Food,24,,24/06/2023,JUNE
+Food,25,10,25/06/2023,JUNE
+Food,26,,26/06/2023,JUNE
+Food,27,13,27/06/2023,JUNE
+Food,28,22,28/06/2023,JUNE
+Food,29,7,29/06/2023,JUNE
+Food,30,34,30/06/2023,JUNE
+Healthcare,3,,03/06/2023,JUNE
+Healthcare,4,,04/06/2023,JUNE
+Healthcare,5,20,05/06/2023,JUNE
+Healthcare,6,,06/06/2023,JUNE
+Healthcare,7,,07/06/2023,JUNE
+Healthcare,8,,08/06/2023,JUNE
+Healthcare,9,,09/06/2023,JUNE
+Healthcare,10,,10/06/2023,JUNE
+Healthcare,11,,11/06/2023,JUNE
+Healthcare,12,,12/06/2023,JUNE
+Healthcare,13,,13/06/2023,JUNE
+Healthcare,14,,14/06/2023,JUNE
+Healthcare,15,,15/06/2023,JUNE
+Healthcare,16,,16/06/2023,JUNE
+Healthcare,17,,17/06/2023,JUNE
+Healthcare,18,,18/06/2023,JUNE
+Healthcare,19,,19/06/2023,JUNE
+Healthcare,20,,20/06/2023,JUNE
+Healthcare,21,,21/06/2023,JUNE
+Healthcare,22,15.5,22/06/2023,JUNE
+Healthcare,23,,23/06/2023,JUNE
+Healthcare,24,40,24/06/2023,JUNE
+Healthcare,25,,25/06/2023,JUNE
+Healthcare,26,,26/06/2023,JUNE
+Healthcare,27,,27/06/2023,JUNE
+Healthcare,28,,28/06/2023,JUNE
+Healthcare,29,,29/06/2023,JUNE
+Healthcare,30,,30/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,1,,01/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,2,,02/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,3,,03/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,4,,04/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,5,,05/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,6,,06/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,7,,07/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,8,,08/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,9,,09/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,10,,10/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,11,,11/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,12,,12/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,13,,13/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,14,,14/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,15,,15/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,16,,16/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,17,,17/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,18,,18/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,19,,19/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,20,,20/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,21,,21/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,22,,22/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,23,,23/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,24,,24/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,25,,25/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,26,,26/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,27,,27/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,28,,28/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,29,,29/06/2023,JUNE
+Clothes/ Shoes/ Jewelry ,30,,30/06/2023,JUNE
+Outings,1,,01/06/2023,JUNE
+Outings,2,,02/06/2023,JUNE
+Outings,3,,03/06/2023,JUNE
+Outings,4,,04/06/2023,JUNE
+Outings,5,,05/06/2023,JUNE
+Outings,6,,06/06/2023,JUNE
+Outings,7,,07/06/2023,JUNE
+Outings,8,,08/06/2023,JUNE
+Outings,9,,09/06/2023,JUNE
+Outings,10,,10/06/2023,JUNE
+Outings,11,,11/06/2023,JUNE
+Outings,12,,12/06/2023,JUNE
+Outings,13,,13/06/2023,JUNE
+Outings,14,,14/06/2023,JUNE
+Outings,15,,15/06/2023,JUNE
+Outings,16,,16/06/2023,JUNE
+Outings,17,,17/06/2023,JUNE
+Outings,18,,18/06/2023,JUNE
+Outings,19,,19/06/2023,JUNE
+Outings,20,,20/06/2023,JUNE
+Outings,21,,21/06/2023,JUNE
+Outings,22,,22/06/2023,JUNE
+Outings,23,100,23/06/2023,JUNE
+Outings,24,,24/06/2023,JUNE
+Outings,25,,25/06/2023,JUNE
+Outings,26,,26/06/2023,JUNE
+Outings,27,,27/06/2023,JUNE
+Outings,28,,28/06/2023,JUNE
+Outings,29,,29/06/2023,JUNE
+Outings,30,,30/06/2023,JUNE
+Toiletries/Groceries,1,107.96,01/06/2023,JUNE
+Toiletries/Groceries,2,,02/06/2023,JUNE
+Toiletries/Groceries,3,,03/06/2023,JUNE
+Toiletries/Groceries,4,,04/06/2023,JUNE
+Toiletries/Groceries,5,,05/06/2023,JUNE
+Toiletries/Groceries,6,,06/06/2023,JUNE
+Toiletries/Groceries,7,,07/06/2023,JUNE
+Toiletries/Groceries,8,,08/06/2023,JUNE
+Toiletries/Groceries,9,,09/06/2023,JUNE
+Toiletries/Groceries,10,,10/06/2023,JUNE
+Toiletries/Groceries,11,,11/06/2023,JUNE
+Toiletries/Groceries,12,,12/06/2023,JUNE
+Toiletries/Groceries,13,,13/06/2023,JUNE
+Toiletries/Groceries,14,,14/06/2023,JUNE
+Toiletries/Groceries,15,23,15/06/2023,JUNE
+Toiletries/Groceries,16,,16/06/2023,JUNE
+Toiletries/Groceries,17,,17/06/2023,JUNE
+Toiletries/Groceries,18,,18/06/2023,JUNE
+Toiletries/Groceries,19,,19/06/2023,JUNE
+Toiletries/Groceries,20,,20/06/2023,JUNE
+Toiletries/Groceries,21,,21/06/2023,JUNE
+Toiletries/Groceries,22,40,22/06/2023,JUNE
+Toiletries/Groceries,23,,23/06/2023,JUNE
+Toiletries/Groceries,24,575.45,24/06/2023,JUNE
+Toiletries/Groceries,25,,25/06/2023,JUNE
+Toiletries/Groceries,26,,26/06/2023,JUNE
+Toiletries/Groceries,27,,27/06/2023,JUNE
+Toiletries/Groceries,28,,28/06/2023,JUNE
+Toiletries/Groceries,29,,29/06/2023,JUNE
+Toiletries/Groceries,30,,30/06/2023,JUNE
+Transportation ,1,3,01/06/2023,JUNE
+Transportation ,2,110,02/06/2023,JUNE
+Transportation ,3,,03/06/2023,JUNE
+Transportation ,4,,04/06/2023,JUNE
+Transportation ,5,,05/06/2023,JUNE
+Transportation ,6,,06/06/2023,JUNE
+Transportation ,7,,07/06/2023,JUNE
+Transportation ,8,,08/06/2023,JUNE
+Transportation ,9,78,09/06/2023,JUNE
+Transportation ,10,,10/06/2023,JUNE
+Transportation ,11,,11/06/2023,JUNE
+Transportation ,12,,12/06/2023,JUNE
+Transportation ,13,,13/06/2023,JUNE
+Transportation ,14,12.5,14/06/2023,JUNE
+Transportation ,15,,15/06/2023,JUNE
+Transportation ,16,55,16/06/2023,JUNE
+Transportation ,17,35,17/06/2023,JUNE
+Transportation ,18,20,18/06/2023,JUNE
+Transportation ,19,97,19/06/2023,JUNE
+Transportation ,20,12.5,20/06/2023,JUNE
+Transportation ,21,90,21/06/2023,JUNE
+Transportation ,22,11.5,22/06/2023,JUNE
+Transportation ,23,79,23/06/2023,JUNE
+Transportation ,24,16,24/06/2023,JUNE
+Transportation ,25,,25/06/2023,JUNE
+Transportation ,26,59.5,26/06/2023,JUNE
+Transportation ,27,25,27/06/2023,JUNE
+Transportation ,28,11.5,28/06/2023,JUNE
+Transportation ,29,54.5,29/06/2023,JUNE
+Transportation ,30,73,30/06/2023,JUNE
+Miscellaneous,1,,01/06/2023,JUNE
+Miscellaneous,2,,02/06/2023,JUNE
+Miscellaneous,3,,03/06/2023,JUNE
+Miscellaneous,4,,04/06/2023,JUNE
+Miscellaneous,5,30,05/06/2023,JUNE
+Miscellaneous,6,,06/06/2023,JUNE
+Miscellaneous,7,,07/06/2023,JUNE
+Miscellaneous,8,,08/06/2023,JUNE
+Miscellaneous,9,,09/06/2023,JUNE
+Miscellaneous,10,,10/06/2023,JUNE
+Miscellaneous,11,,11/06/2023,JUNE
+Miscellaneous,12,,12/06/2023,JUNE
+Miscellaneous,13,,13/06/2023,JUNE
+Miscellaneous,14,20,14/06/2023,JUNE
+Miscellaneous,15,,15/06/2023,JUNE
+Miscellaneous,16,14,16/06/2023,JUNE
+Miscellaneous,17,39,17/06/2023,JUNE
+Miscellaneous,18,,18/06/2023,JUNE
+Miscellaneous,19,,19/06/2023,JUNE
+Miscellaneous,20,,20/06/2023,JUNE
+Miscellaneous,21,,21/06/2023,JUNE
+Miscellaneous,22,5,22/06/2023,JUNE
+Miscellaneous,23,,23/06/2023,JUNE
+Miscellaneous,24,,24/06/2023,JUNE
+Miscellaneous,25,31,25/06/2023,JUNE
+Miscellaneous,26,,26/06/2023,JUNE
+Miscellaneous,27,,27/06/2023,JUNE
+Miscellaneous,28,,28/06/2023,JUNE
+Miscellaneous,29,600,29/06/2023,JUNE
+Miscellaneous,30,,30/06/2023,JUNE
+Apple Subscriptions,1,,01/06/2023,JUNE
+Apple Subscriptions,2,,02/06/2023,JUNE
+Apple Subscriptions,3,,03/06/2023,JUNE
+Apple Subscriptions,4,,04/06/2023,JUNE
+Apple Subscriptions,5,,05/06/2023,JUNE
+Apple Subscriptions,6,,06/06/2023,JUNE
+Apple Subscriptions,7,,07/06/2023,JUNE
+Apple Subscriptions,8,,08/06/2023,JUNE
+Apple Subscriptions,9,,09/06/2023,JUNE
+Apple Subscriptions,10,,10/06/2023,JUNE
+Apple Subscriptions,11,,11/06/2023,JUNE
+Apple Subscriptions,12,,12/06/2023,JUNE
+Apple Subscriptions,13,,13/06/2023,JUNE
+Apple Subscriptions,14,,14/06/2023,JUNE
+Apple Subscriptions,15,,15/06/2023,JUNE
+Apple Subscriptions,16,,16/06/2023,JUNE
+Apple Subscriptions,17,,17/06/2023,JUNE
+Apple Subscriptions,18,,18/06/2023,JUNE
+Apple Subscriptions,19,,19/06/2023,JUNE
+Apple Subscriptions,20,,20/06/2023,JUNE
+Apple Subscriptions,21,,21/06/2023,JUNE
+Apple Subscriptions,22,,22/06/2023,JUNE
+Apple Subscriptions,23,,23/06/2023,JUNE
+Apple Subscriptions,24,,24/06/2023,JUNE
+Apple Subscriptions,25,,25/06/2023,JUNE
+Apple Subscriptions,26,,26/06/2023,JUNE
+Apple Subscriptions,27,12.55,27/06/2023,JUNE
+Apple Subscriptions,28,,28/06/2023,JUNE
+Apple Subscriptions,29,,29/06/2023,JUNE
+Apple Subscriptions,30,,30/06/2023,JUNE
+Netflix,1,,01/06/2023,JUNE
+Netflix,2,,02/06/2023,JUNE
+Netflix,3,,03/06/2023,JUNE
+Netflix,4,,04/06/2023,JUNE
+Netflix,5,,05/06/2023,JUNE
+Netflix,6,,06/06/2023,JUNE
+Netflix,7,,07/06/2023,JUNE
+Netflix,8,,08/06/2023,JUNE
+Netflix,9,,09/06/2023,JUNE
+Netflix,10,,10/06/2023,JUNE
+Netflix,11,,11/06/2023,JUNE
+Netflix,12,,12/06/2023,JUNE
+Netflix,13,,13/06/2023,JUNE
+Netflix,14,,14/06/2023,JUNE
+Netflix,15,,15/06/2023,JUNE
+Netflix,16,,16/06/2023,JUNE
+Netflix,17,,17/06/2023,JUNE
+Netflix,18,,18/06/2023,JUNE
+Netflix,19,100.02,19/06/2023,JUNE
+Netflix,20,,20/06/2023,JUNE
+Netflix,21,,21/06/2023,JUNE
+Netflix,22,,22/06/2023,JUNE
+Netflix,23,,23/06/2023,JUNE
+Netflix,24,,24/06/2023,JUNE
+Netflix,25,,25/06/2023,JUNE
+Netflix,26,,26/06/2023,JUNE
+Netflix,27,,27/06/2023,JUNE
+Netflix,28,,28/06/2023,JUNE
+Netflix,29,,29/06/2023,JUNE
+Netflix,30,,30/06/2023,JUNE
+Account Charges,1,,01/06/2023,JUNE
+Account Charges,2,,02/06/2023,JUNE
+Account Charges,3,,03/06/2023,JUNE
+Account Charges,4,,04/06/2023,JUNE
+Account Charges,5,,05/06/2023,JUNE
+Account Charges,6,,06/06/2023,JUNE
+Account Charges,7,,07/06/2023,JUNE
+Account Charges,8,,08/06/2023,JUNE
+Account Charges,9,,09/06/2023,JUNE
+Account Charges,10,,10/06/2023,JUNE
+Account Charges,11,,11/06/2023,JUNE
+Account Charges,12,,12/06/2023,JUNE
+Account Charges,13,,13/06/2023,JUNE
+Account Charges,14,,14/06/2023,JUNE
+Account Charges,15,,15/06/2023,JUNE
+Account Charges,16,,16/06/2023,JUNE
+Account Charges,17,,17/06/2023,JUNE
+Account Charges,18,,18/06/2023,JUNE
+Account Charges,19,,19/06/2023,JUNE
+Account Charges,20,,20/06/2023,JUNE
+Account Charges,21,,21/06/2023,JUNE
+Account Charges,22,,22/06/2023,JUNE
+Account Charges,23,,23/06/2023,JUNE
+Account Charges,24,,24/06/2023,JUNE
+Account Charges,25,3,25/06/2023,JUNE
+Account Charges,26,,26/06/2023,JUNE
+Account Charges,27,8.5,27/06/2023,JUNE
+Account Charges,28,,28/06/2023,JUNE
+Account Charges,29,,29/06/2023,JUNE
+Account Charges,30,5,30/06/2023,JUNE
+Data,1,,01/07/2023,JULY
+Data,2,,02/07/2023,JULY
+Data,3,,03/07/2023,JULY
+Data,4,300,04/07/2023,JULY
+Data,5,,05/07/2023,JULY
+Data,6,,06/07/2023,JULY
+Data,7,,07/07/2023,JULY
+Data,8,,08/07/2023,JULY
+Data,9,,09/07/2023,JULY
+Data,10,,10/07/2023,JULY
+Data,11,,11/07/2023,JULY
+Data,12,,12/07/2023,JULY
+Data,13,,13/07/2023,JULY
+Data,14,,14/07/2023,JULY
+Data,15,,15/07/2023,JULY
+Data,16,,16/07/2023,JULY
+Data,17,,17/07/2023,JULY
+Data,18,,18/07/2023,JULY
+Data,19,,19/07/2023,JULY
+Data,20,,20/07/2023,JULY
+Data,21,,21/07/2023,JULY
+Data,22,,22/07/2023,JULY
+Data,23,,23/07/2023,JULY
+Data,24,,24/07/2023,JULY
+Data,25,,25/07/2023,JULY
+Data,26,,26/07/2023,JULY
+Data,27,,27/07/2023,JULY
+Data,28,,28/07/2023,JULY
+Data,29,,29/07/2023,JULY
+Data,30,,30/07/2023,JULY
+Data,31,,31/07/2023,JULY
+Savings/ Investment ,1,,01/07/2023,JULY
+Savings/ Investment ,2,,02/07/2023,JULY
+Savings/ Investment ,3,,03/07/2023,JULY
+Savings/ Investment ,4,,04/07/2023,JULY
+Savings/ Investment ,5,,05/07/2023,JULY
+Savings/ Investment ,6,,06/07/2023,JULY
+Savings/ Investment ,7,,07/07/2023,JULY
+Savings/ Investment ,8,,08/07/2023,JULY
+Savings/ Investment ,9,,09/07/2023,JULY
+Savings/ Investment ,10,,10/07/2023,JULY
+Savings/ Investment ,11,,11/07/2023,JULY
+Savings/ Investment ,12,,12/07/2023,JULY
+Savings/ Investment ,13,,13/07/2023,JULY
+Savings/ Investment ,14,,14/07/2023,JULY
+Savings/ Investment ,15,,15/07/2023,JULY
+Savings/ Investment ,16,,16/07/2023,JULY
+Savings/ Investment ,17,,17/07/2023,JULY
+Savings/ Investment ,18,,18/07/2023,JULY
+Savings/ Investment ,19,,19/07/2023,JULY
+Savings/ Investment ,20,,20/07/2023,JULY
+Savings/ Investment ,21,,21/07/2023,JULY
+Savings/ Investment ,22,,22/07/2023,JULY
+Savings/ Investment ,23,,23/07/2023,JULY
+Savings/ Investment ,24,,24/07/2023,JULY
+Savings/ Investment ,25,,25/07/2023,JULY
+Savings/ Investment ,26,,26/07/2023,JULY
+Savings/ Investment ,27,,27/07/2023,JULY
+Savings/ Investment ,28,,28/07/2023,JULY
+Savings/ Investment ,29,750,29/07/2023,JULY
+Savings/ Investment ,30,,30/07/2023,JULY
+Savings/ Investment ,31,,31/07/2023,JULY
+Hair / Gym,1,,01/07/2023,JULY
+Hair / Gym,2,,02/07/2023,JULY
+Hair / Gym,3,,03/07/2023,JULY
+Hair / Gym,4,,04/07/2023,JULY
+Hair / Gym,5,,05/07/2023,JULY
+Hair / Gym,6,,06/07/2023,JULY
+Hair / Gym,7,,07/07/2023,JULY
+Hair / Gym,8,,08/07/2023,JULY
+Hair / Gym,9,,09/07/2023,JULY
+Hair / Gym,10,,10/07/2023,JULY
+Hair / Gym,11,,11/07/2023,JULY
+Hair / Gym,12,,12/07/2023,JULY
+Hair / Gym,13,,13/07/2023,JULY
+Hair / Gym,14,,14/07/2023,JULY
+Hair / Gym,15,,15/07/2023,JULY
+Hair / Gym,16,,16/07/2023,JULY
+Hair / Gym,17,,17/07/2023,JULY
+Hair / Gym,18,,18/07/2023,JULY
+Hair / Gym,19,,19/07/2023,JULY
+Hair / Gym,20,20,20/07/2023,JULY
+Hair / Gym,21,,21/07/2023,JULY
+Hair / Gym,22,,22/07/2023,JULY
+Hair / Gym,23,,23/07/2023,JULY
+Hair / Gym,24,,24/07/2023,JULY
+Hair / Gym,25,,25/07/2023,JULY
+Hair / Gym,26,,26/07/2023,JULY
+Hair / Gym,27,,27/07/2023,JULY
+Hair / Gym,28,,28/07/2023,JULY
+Hair / Gym,29,,29/07/2023,JULY
+Hair / Gym,30,,30/07/2023,JULY
+Hair / Gym,31,,31/07/2023,JULY
+Food,1,39,01/07/2023,JULY
+Food,2,70,02/07/2023,JULY
+Food,3,39,03/07/2023,JULY
+Food,4,9,04/07/2023,JULY
+Food,5,5,05/07/2023,JULY
+Food,6,8,06/07/2023,JULY
+Food,7,39.5,07/07/2023,JULY
+Food,8,150,08/07/2023,JULY
+Food,9,,09/07/2023,JULY
+Food,10,7,10/07/2023,JULY
+Food,11,8.5,11/07/2023,JULY
+Food,12,8,12/07/2023,JULY
+Food,13,8,13/07/2023,JULY
+Food,14,87.7,14/07/2023,JULY
+Food,15,,15/07/2023,JULY
+Food,16,,16/07/2023,JULY
+Food,17,7,17/07/2023,JULY
+Food,18,16.5,18/07/2023,JULY
+Food,19,14,19/07/2023,JULY
+Food,20,18,20/07/2023,JULY
+Food,21,,21/07/2023,JULY
+Food,22,11,22/07/2023,JULY
+Food,23,,23/07/2023,JULY
+Food,24,,24/07/2023,JULY
+Food,25,14,25/07/2023,JULY
+Food,26,116.47,26/07/2023,JULY
+Food,27,10,27/07/2023,JULY
+Food,28,81,28/07/2023,JULY
+Food,29,85,29/07/2023,JULY
+Food,30,,30/07/2023,JULY
+Food,31,27,31/07/2023,JULY
+Healthcare,1,,01/07/2023,JULY
+Healthcare,2,,02/07/2023,JULY
+Healthcare,3,,03/07/2023,JULY
+Healthcare,4,,04/07/2023,JULY
+Healthcare,5,,05/07/2023,JULY
+Healthcare,6,,06/07/2023,JULY
+Healthcare,7,,07/07/2023,JULY
+Healthcare,8,31,08/07/2023,JULY
+Healthcare,9,,09/07/2023,JULY
+Healthcare,10,22,10/07/2023,JULY
+Healthcare,11,,11/07/2023,JULY
+Healthcare,12,,12/07/2023,JULY
+Healthcare,13,,13/07/2023,JULY
+Healthcare,14,,14/07/2023,JULY
+Healthcare,15,,15/07/2023,JULY
+Healthcare,16,,16/07/2023,JULY
+Healthcare,17,,17/07/2023,JULY
+Healthcare,18,,18/07/2023,JULY
+Healthcare,19,,19/07/2023,JULY
+Healthcare,20,,20/07/2023,JULY
+Healthcare,21,,21/07/2023,JULY
+Healthcare,22,,22/07/2023,JULY
+Healthcare,23,,23/07/2023,JULY
+Healthcare,24,,24/07/2023,JULY
+Healthcare,25,,25/07/2023,JULY
+Healthcare,26,,26/07/2023,JULY
+Healthcare,27,,27/07/2023,JULY
+Healthcare,28,,28/07/2023,JULY
+Healthcare,29,,29/07/2023,JULY
+Healthcare,30,,30/07/2023,JULY
+Healthcare,31,,31/07/2023,JULY
+Toiletries/Groceries,1,,01/07/2023,JULY
+Toiletries/Groceries,2,,02/07/2023,JULY
+Toiletries/Groceries,3,,03/07/2023,JULY
+Toiletries/Groceries,4,,04/07/2023,JULY
+Toiletries/Groceries,5,,05/07/2023,JULY
+Toiletries/Groceries,6,,06/07/2023,JULY
+Toiletries/Groceries,7,,07/07/2023,JULY
+Toiletries/Groceries,8,,08/07/2023,JULY
+Toiletries/Groceries,9,,09/07/2023,JULY
+Toiletries/Groceries,10,,10/07/2023,JULY
+Toiletries/Groceries,11,,11/07/2023,JULY
+Toiletries/Groceries,12,,12/07/2023,JULY
+Toiletries/Groceries,13,,13/07/2023,JULY
+Toiletries/Groceries,14,,14/07/2023,JULY
+Toiletries/Groceries,15,,15/07/2023,JULY
+Toiletries/Groceries,16,,16/07/2023,JULY
+Toiletries/Groceries,17,,17/07/2023,JULY
+Toiletries/Groceries,18,,18/07/2023,JULY
+Toiletries/Groceries,19,,19/07/2023,JULY
+Toiletries/Groceries,20,28,20/07/2023,JULY
+Toiletries/Groceries,21,,21/07/2023,JULY
+Toiletries/Groceries,22,597.91,22/07/2023,JULY
+Toiletries/Groceries,23,120,23/07/2023,JULY
+Toiletries/Groceries,24,,24/07/2023,JULY
+Toiletries/Groceries,25,,25/07/2023,JULY
+Toiletries/Groceries,26,,26/07/2023,JULY
+Toiletries/Groceries,27,,27/07/2023,JULY
+Toiletries/Groceries,28,38,28/07/2023,JULY
+Toiletries/Groceries,29,90,29/07/2023,JULY
+Toiletries/Groceries,30,,30/07/2023,JULY
+Toiletries/Groceries,31,,31/07/2023,JULY
+Transportation ,1,,01/07/2023,JULY
+Transportation ,2,35,02/07/2023,JULY
+Transportation ,3,70.5,03/07/2023,JULY
+Transportation ,4,25,04/07/2023,JULY
+Transportation ,5,27.5,05/07/2023,JULY
+Transportation ,6,45,06/07/2023,JULY
+Transportation ,7,85.25,07/07/2023,JULY
+Transportation ,8,39,08/07/2023,JULY
+Transportation ,9,,09/07/2023,JULY
+Transportation ,10,82,10/07/2023,JULY
+Transportation ,11,,11/07/2023,JULY
+Transportation ,12,,12/07/2023,JULY
+Transportation ,13,,13/07/2023,JULY
+Transportation ,14,47,14/07/2023,JULY
+Transportation ,15,,15/07/2023,JULY
+Transportation ,16,,16/07/2023,JULY
+Transportation ,17,56,17/07/2023,JULY
+Transportation ,18,,18/07/2023,JULY
+Transportation ,19,,19/07/2023,JULY
+Transportation ,20,,20/07/2023,JULY
+Transportation ,21,82,21/07/2023,JULY
+Transportation ,22,69,22/07/2023,JULY
+Transportation ,23,55,23/07/2023,JULY
+Transportation ,24,51,24/07/2023,JULY
+Transportation ,25,60.5,25/07/2023,JULY
+Transportation ,26,16,26/07/2023,JULY
+Transportation ,27,,27/07/2023,JULY
+Transportation ,28,98,28/07/2023,JULY
+Transportation ,29,50,29/07/2023,JULY
+Transportation ,30,18,30/07/2023,JULY
+Transportation ,31,,31/07/2023,JULY
+Miscellaneous,1,,01/07/2023,JULY
+Miscellaneous,2,,02/07/2023,JULY
+Miscellaneous,3,,03/07/2023,JULY
+Miscellaneous,4,,04/07/2023,JULY
+Miscellaneous,5,,05/07/2023,JULY
+Miscellaneous,6,,06/07/2023,JULY
+Miscellaneous,7,364.6,07/07/2023,JULY
+Miscellaneous,8,,08/07/2023,JULY
+Miscellaneous,9,,09/07/2023,JULY
+Miscellaneous,10,,10/07/2023,JULY
+Miscellaneous,11,,11/07/2023,JULY
+Miscellaneous,12,28,12/07/2023,JULY
+Miscellaneous,13,36,13/07/2023,JULY
+Miscellaneous,14,,14/07/2023,JULY
+Miscellaneous,15,,15/07/2023,JULY
+Miscellaneous,16,,16/07/2023,JULY
+Miscellaneous,17,,17/07/2023,JULY
+Miscellaneous,18,,18/07/2023,JULY
+Miscellaneous,19,,19/07/2023,JULY
+Miscellaneous,20,,20/07/2023,JULY
+Miscellaneous,21,,21/07/2023,JULY
+Miscellaneous,22,24,22/07/2023,JULY
+Miscellaneous,23,205,23/07/2023,JULY
+Miscellaneous,24,,24/07/2023,JULY
+Miscellaneous,25,,25/07/2023,JULY
+Miscellaneous,26,,26/07/2023,JULY
+Miscellaneous,27,,27/07/2023,JULY
+Miscellaneous,28,,28/07/2023,JULY
+Miscellaneous,29,50,29/07/2023,JULY
+Miscellaneous,30,,30/07/2023,JULY
+Miscellaneous,31,,31/07/2023,JULY
+Apple Subscriptions,1,,01/07/2023,JULY
+Apple Subscriptions,2,,02/07/2023,JULY
+Apple Subscriptions,3,,03/07/2023,JULY
+Apple Subscriptions,4,,04/07/2023,JULY
+Apple Subscriptions,5,,05/07/2023,JULY
+Apple Subscriptions,6,,06/07/2023,JULY
+Apple Subscriptions,7,,07/07/2023,JULY
+Apple Subscriptions,8,,08/07/2023,JULY
+Apple Subscriptions,9,,09/07/2023,JULY
+Apple Subscriptions,10,,10/07/2023,JULY
+Apple Subscriptions,11,,11/07/2023,JULY
+Apple Subscriptions,12,,12/07/2023,JULY
+Apple Subscriptions,13,,13/07/2023,JULY
+Apple Subscriptions,14,,14/07/2023,JULY
+Apple Subscriptions,15,,15/07/2023,JULY
+Apple Subscriptions,16,,16/07/2023,JULY
+Apple Subscriptions,17,,17/07/2023,JULY
+Apple Subscriptions,18,,18/07/2023,JULY
+Apple Subscriptions,19,,19/07/2023,JULY
+Apple Subscriptions,20,,20/07/2023,JULY
+Apple Subscriptions,21,,21/07/2023,JULY
+Apple Subscriptions,22,,22/07/2023,JULY
+Apple Subscriptions,23,,23/07/2023,JULY
+Apple Subscriptions,24,,24/07/2023,JULY
+Apple Subscriptions,25,,25/07/2023,JULY
+Apple Subscriptions,26,12.31,26/07/2023,JULY
+Apple Subscriptions,27,,27/07/2023,JULY
+Apple Subscriptions,28,,28/07/2023,JULY
+Apple Subscriptions,29,,29/07/2023,JULY
+Apple Subscriptions,30,,30/07/2023,JULY
+Apple Subscriptions,31,,31/07/2023,JULY
+Netflix,1,,01/07/2023,JULY
+Netflix,2,,02/07/2023,JULY
+Netflix,3,,03/07/2023,JULY
+Netflix,4,,04/07/2023,JULY
+Netflix,5,,05/07/2023,JULY
+Netflix,6,,06/07/2023,JULY
+Netflix,7,,07/07/2023,JULY
+Netflix,8,,08/07/2023,JULY
+Netflix,9,,09/07/2023,JULY
+Netflix,10,,10/07/2023,JULY
+Netflix,11,,11/07/2023,JULY
+Netflix,12,,12/07/2023,JULY
+Netflix,13,,13/07/2023,JULY
+Netflix,14,,14/07/2023,JULY
+Netflix,15,,15/07/2023,JULY
+Netflix,16,,16/07/2023,JULY
+Netflix,17,,17/07/2023,JULY
+Netflix,18,,18/07/2023,JULY
+Netflix,19,,19/07/2023,JULY
+Netflix,20,,20/07/2023,JULY
+Netflix,21,99.6,21/07/2023,JULY
+Netflix,22,,22/07/2023,JULY
+Netflix,23,,23/07/2023,JULY
+Netflix,24,,24/07/2023,JULY
+Netflix,25,,25/07/2023,JULY
+Netflix,26,,26/07/2023,JULY
+Netflix,27,,27/07/2023,JULY
+Netflix,28,,28/07/2023,JULY
+Netflix,29,,29/07/2023,JULY
+Netflix,30,,30/07/2023,JULY
+Netflix,31,,31/07/2023,JULY
+Account Charges,1,,01/07/2023,JULY
+Account Charges,2,1,02/07/2023,JULY
+Account Charges,3,,03/07/2023,JULY
+Account Charges,4,,04/07/2023,JULY
+Account Charges,5,,05/07/2023,JULY
+Account Charges,6,,06/07/2023,JULY
+Account Charges,7,,07/07/2023,JULY
+Account Charges,8,,08/07/2023,JULY
+Account Charges,9,,09/07/2023,JULY
+Account Charges,10,,10/07/2023,JULY
+Account Charges,11,,11/07/2023,JULY
+Account Charges,12,,12/07/2023,JULY
+Account Charges,13,,13/07/2023,JULY
+Account Charges,14,,14/07/2023,JULY
+Account Charges,15,,15/07/2023,JULY
+Account Charges,16,,16/07/2023,JULY
+Account Charges,17,,17/07/2023,JULY
+Account Charges,18,,18/07/2023,JULY
+Account Charges,19,,19/07/2023,JULY
+Account Charges,20,,20/07/2023,JULY
+Account Charges,21,7,21/07/2023,JULY
+Account Charges,22,,22/07/2023,JULY
+Account Charges,23,3.55,23/07/2023,JULY
+Account Charges,24,,24/07/2023,JULY
+Account Charges,25,,25/07/2023,JULY
+Account Charges,26,,26/07/2023,JULY
+Account Charges,27,,27/07/2023,JULY
+Account Charges,28,,28/07/2023,JULY
+Account Charges,29,8.5,29/07/2023,JULY
+Account Charges,30,,30/07/2023,JULY
+Account Charges,31,,31/07/2023,JULY
+Savings/ Investment ,1,,01/08/2023,AUG
+Savings/ Investment ,2,,02/08/2023,AUG
+Savings/ Investment ,3,,03/08/2023,AUG
+Savings/ Investment ,4,,04/08/2023,AUG
+Savings/ Investment ,5,,05/08/2023,AUG
+Savings/ Investment ,6,,06/08/2023,AUG
+Savings/ Investment ,7,,07/08/2023,AUG
+Savings/ Investment ,8,,08/08/2023,AUG
+Savings/ Investment ,9,,09/08/2023,AUG
+Savings/ Investment ,10,,10/08/2023,AUG
+Savings/ Investment ,11,,11/08/2023,AUG
+Savings/ Investment ,12,,12/08/2023,AUG
+Savings/ Investment ,13,,13/08/2023,AUG
+Savings/ Investment ,14,,14/08/2023,AUG
+Savings/ Investment ,15,,15/08/2023,AUG
+Savings/ Investment ,16,,16/08/2023,AUG
+Savings/ Investment ,17,,17/08/2023,AUG
+Savings/ Investment ,18,,18/08/2023,AUG
+Savings/ Investment ,19,,19/08/2023,AUG
+Savings/ Investment ,20,,20/08/2023,AUG
+Savings/ Investment ,21,,21/08/2023,AUG
+Savings/ Investment ,22,,22/08/2023,AUG
+Savings/ Investment ,23,1000,23/08/2023,AUG
+Savings/ Investment ,24,,24/08/2023,AUG
+Savings/ Investment ,25,,25/08/2023,AUG
+Savings/ Investment ,26,,26/08/2023,AUG
+Savings/ Investment ,27,,27/08/2023,AUG
+Savings/ Investment ,28,,28/08/2023,AUG
+Savings/ Investment ,29,,29/08/2023,AUG
+Savings/ Investment ,30,,30/08/2023,AUG
+Savings/ Investment ,31,,31/08/2023,AUG
+Food,1,113.99,01/08/2023,AUG
+Food,2,47,02/08/2023,AUG
+Food,3,10,03/08/2023,AUG
+Food,4,111,04/08/2023,AUG
+Food,5,18.5,05/08/2023,AUG
+Food,6,,06/08/2023,AUG
+Food,7,5,07/08/2023,AUG
+Food,8,6,08/08/2023,AUG
+Food,9,7.5,09/08/2023,AUG
+Food,10,4,10/08/2023,AUG
+Food,11,4,11/08/2023,AUG
+Food,12,,12/08/2023,AUG
+Food,13,,13/08/2023,AUG
+Food,14,11,14/08/2023,AUG
+Food,15,,15/08/2023,AUG
+Food,16,2,16/08/2023,AUG
+Food,17,2,17/08/2023,AUG
+Food,18,4,18/08/2023,AUG
+Food,19,32,19/08/2023,AUG
+Food,20,,20/08/2023,AUG
+Food,21,,21/08/2023,AUG
+Food,22,,22/08/2023,AUG
+Food,23,4,23/08/2023,AUG
+Food,24,5,24/08/2023,AUG
+Food,25,47,25/08/2023,AUG
+Food,26,100,26/08/2023,AUG
+Food,27,,27/08/2023,AUG
+Food,28,8,28/08/2023,AUG
+Food,29,22,29/08/2023,AUG
+Food,30,18,30/08/2023,AUG
+Food,31,14,31/08/2023,AUG
+Healthcare,3,,03/08/2023,AUG
+Healthcare,4,,04/08/2023,AUG
+Healthcare,5,12,05/08/2023,AUG
+Healthcare,6,,06/08/2023,AUG
+Healthcare,7,,07/08/2023,AUG
+Healthcare,8,,08/08/2023,AUG
+Healthcare,9,,09/08/2023,AUG
+Healthcare,10,,10/08/2023,AUG
+Healthcare,11,,11/08/2023,AUG
+Healthcare,12,,12/08/2023,AUG
+Healthcare,13,,13/08/2023,AUG
+Healthcare,14,,14/08/2023,AUG
+Healthcare,15,,15/08/2023,AUG
+Healthcare,16,,16/08/2023,AUG
+Healthcare,17,,17/08/2023,AUG
+Healthcare,18,,18/08/2023,AUG
+Healthcare,19,,19/08/2023,AUG
+Healthcare,20,,20/08/2023,AUG
+Healthcare,21,,21/08/2023,AUG
+Healthcare,22,,22/08/2023,AUG
+Healthcare,23,,23/08/2023,AUG
+Healthcare,24,,24/08/2023,AUG
+Healthcare,25,,25/08/2023,AUG
+Healthcare,26,,26/08/2023,AUG
+Healthcare,27,,27/08/2023,AUG
+Healthcare,28,,28/08/2023,AUG
+Healthcare,29,40,29/08/2023,AUG
+Healthcare,30,,30/08/2023,AUG
+Healthcare,31,,31/08/2023,AUG
+Toiletries/Groceries,1,,01/08/2023,AUG
+Toiletries/Groceries,2,,02/08/2023,AUG
+Toiletries/Groceries,3,,03/08/2023,AUG
+Toiletries/Groceries,4,,04/08/2023,AUG
+Toiletries/Groceries,5,,05/08/2023,AUG
+Toiletries/Groceries,6,,06/08/2023,AUG
+Toiletries/Groceries,7,,07/08/2023,AUG
+Toiletries/Groceries,8,,08/08/2023,AUG
+Toiletries/Groceries,9,,09/08/2023,AUG
+Toiletries/Groceries,10,,10/08/2023,AUG
+Toiletries/Groceries,11,,11/08/2023,AUG
+Toiletries/Groceries,12,,12/08/2023,AUG
+Toiletries/Groceries,13,,13/08/2023,AUG
+Toiletries/Groceries,14,,14/08/2023,AUG
+Toiletries/Groceries,15,,15/08/2023,AUG
+Toiletries/Groceries,16,,16/08/2023,AUG
+Toiletries/Groceries,17,,17/08/2023,AUG
+Toiletries/Groceries,18,,18/08/2023,AUG
+Toiletries/Groceries,19,544.2,19/08/2023,AUG
+Toiletries/Groceries,20,,20/08/2023,AUG
+Toiletries/Groceries,21,,21/08/2023,AUG
+Toiletries/Groceries,22,,22/08/2023,AUG
+Toiletries/Groceries,23,,23/08/2023,AUG
+Toiletries/Groceries,24,,24/08/2023,AUG
+Toiletries/Groceries,25,158,25/08/2023,AUG
+Toiletries/Groceries,26,,26/08/2023,AUG
+Toiletries/Groceries,27,,27/08/2023,AUG
+Toiletries/Groceries,28,,28/08/2023,AUG
+Toiletries/Groceries,29,,29/08/2023,AUG
+Toiletries/Groceries,30,,30/08/2023,AUG
+Toiletries/Groceries,31,,31/08/2023,AUG
+Transportation ,1,,01/08/2023,AUG
+Transportation ,2,,02/08/2023,AUG
+Transportation ,3,,03/08/2023,AUG
+Transportation ,4,66,04/08/2023,AUG
+Transportation ,5,37,05/08/2023,AUG
+Transportation ,6,60,06/08/2023,AUG
+Transportation ,7,109,07/08/2023,AUG
+Transportation ,8,,08/08/2023,AUG
+Transportation ,9,,09/08/2023,AUG
+Transportation ,10,10,10/08/2023,AUG
+Transportation ,11,20,11/08/2023,AUG
+Transportation ,12,,12/08/2023,AUG
+Transportation ,13,,13/08/2023,AUG
+Transportation ,14,172,14/08/2023,AUG
+Transportation ,15,48,15/08/2023,AUG
+Transportation ,16,12,16/08/2023,AUG
+Transportation ,17,,17/08/2023,AUG
+Transportation ,18,61,18/08/2023,AUG
+Transportation ,19,22,19/08/2023,AUG
+Transportation ,20,,20/08/2023,AUG
+Transportation ,21,50,21/08/2023,AUG
+Transportation ,22,,22/08/2023,AUG
+Transportation ,23,,23/08/2023,AUG
+Transportation ,24,4.5,24/08/2023,AUG
+Transportation ,25,86,25/08/2023,AUG
+Transportation ,26,,26/08/2023,AUG
+Transportation ,27,13,27/08/2023,AUG
+Transportation ,28,92,28/08/2023,AUG
+Transportation ,29,,29/08/2023,AUG
+Transportation ,30,,30/08/2023,AUG
+Transportation ,31,,31/08/2023,AUG
+Miscellaneous,3,10.5,03/08/2023,AUG
+Miscellaneous,4,,04/08/2023,AUG
+Miscellaneous,5,25,05/08/2023,AUG
+Miscellaneous,6,,06/08/2023,AUG
+Miscellaneous,7,,07/08/2023,AUG
+Miscellaneous,8,,08/08/2023,AUG
+Miscellaneous,9,31,09/08/2023,AUG
+Miscellaneous,10,50,10/08/2023,AUG
+Miscellaneous,11,,11/08/2023,AUG
+Miscellaneous,12,,12/08/2023,AUG
+Miscellaneous,13,,13/08/2023,AUG
+Miscellaneous,14,50,14/08/2023,AUG
+Miscellaneous,15,,15/08/2023,AUG
+Miscellaneous,16,,16/08/2023,AUG
+Miscellaneous,17,,17/08/2023,AUG
+Miscellaneous,18,,18/08/2023,AUG
+Miscellaneous,19,,19/08/2023,AUG
+Miscellaneous,20,,20/08/2023,AUG
+Miscellaneous,21,,21/08/2023,AUG
+Miscellaneous,22,,22/08/2023,AUG
+Miscellaneous,23,,23/08/2023,AUG
+Miscellaneous,24,15,24/08/2023,AUG
+Miscellaneous,25,,25/08/2023,AUG
+Miscellaneous,26,,26/08/2023,AUG
+Miscellaneous,27,,27/08/2023,AUG
+Miscellaneous,29,,29/08/2023,AUG
+Miscellaneous,30,,30/08/2023,AUG
+Miscellaneous,31,,31/08/2023,AUG
+Apple Subscriptions,1,,01/08/2023,AUG
+Apple Subscriptions,2,,02/08/2023,AUG
+Apple Subscriptions,3,,03/08/2023,AUG
+Apple Subscriptions,4,,04/08/2023,AUG
+Apple Subscriptions,5,,05/08/2023,AUG
+Apple Subscriptions,6,,06/08/2023,AUG
+Apple Subscriptions,7,,07/08/2023,AUG
+Apple Subscriptions,8,,08/08/2023,AUG
+Apple Subscriptions,9,,09/08/2023,AUG
+Apple Subscriptions,10,,10/08/2023,AUG
+Apple Subscriptions,11,,11/08/2023,AUG
+Apple Subscriptions,12,,12/08/2023,AUG
+Apple Subscriptions,13,,13/08/2023,AUG
+Apple Subscriptions,14,,14/08/2023,AUG
+Apple Subscriptions,15,,15/08/2023,AUG
+Apple Subscriptions,16,,16/08/2023,AUG
+Apple Subscriptions,17,,17/08/2023,AUG
+Apple Subscriptions,18,,18/08/2023,AUG
+Apple Subscriptions,19,,19/08/2023,AUG
+Apple Subscriptions,20,,20/08/2023,AUG
+Apple Subscriptions,21,,21/08/2023,AUG
+Apple Subscriptions,22,,22/08/2023,AUG
+Apple Subscriptions,23,,23/08/2023,AUG
+Apple Subscriptions,24,,24/08/2023,AUG
+Apple Subscriptions,25,,25/08/2023,AUG
+Apple Subscriptions,26,12.13,26/08/2023,AUG
+Apple Subscriptions,27,,27/08/2023,AUG
+Apple Subscriptions,28,,28/08/2023,AUG
+Apple Subscriptions,29,,29/08/2023,AUG
+Apple Subscriptions,30,,30/08/2023,AUG
+Apple Subscriptions,31,,31/08/2023,AUG
+Netflix,1,,01/08/2023,AUG
+Netflix,2,,02/08/2023,AUG
+Netflix,3,,03/08/2023,AUG
+Netflix,4,,04/08/2023,AUG
+Netflix,5,,05/08/2023,AUG
+Netflix,6,,06/08/2023,AUG
+Netflix,7,,07/08/2023,AUG
+Netflix,8,,08/08/2023,AUG
+Netflix,9,,09/08/2023,AUG
+Netflix,10,,10/08/2023,AUG
+Netflix,11,,11/08/2023,AUG
+Netflix,12,,12/08/2023,AUG
+Netflix,13,,13/08/2023,AUG
+Netflix,14,,14/08/2023,AUG
+Netflix,15,,15/08/2023,AUG
+Netflix,16,,16/08/2023,AUG
+Netflix,17,,17/08/2023,AUG
+Netflix,18,,18/08/2023,AUG
+Netflix,19,,19/08/2023,AUG
+Netflix,20,,20/08/2023,AUG
+Netflix,21,,21/08/2023,AUG
+Netflix,22,,22/08/2023,AUG
+Netflix,23,97.44,23/08/2023,AUG
+Netflix,24,,24/08/2023,AUG
+Netflix,25,,25/08/2023,AUG
+Netflix,26,,26/08/2023,AUG
+Netflix,27,,27/08/2023,AUG
+Netflix,28,,28/08/2023,AUG
+Netflix,29,,29/08/2023,AUG
+Netflix,30,,30/08/2023,AUG
+Netflix,31,,31/08/2023,AUG
+Account Charges,1,,01/08/2023,AUG
+Account Charges,2,,02/08/2023,AUG
+Account Charges,3,,03/08/2023,AUG
+Account Charges,4,,04/08/2023,AUG
+Account Charges,5,,05/08/2023,AUG
+Account Charges,6,,06/08/2023,AUG
+Account Charges,7,,07/08/2023,AUG
+Account Charges,8,,08/08/2023,AUG
+Account Charges,9,,09/08/2023,AUG
+Account Charges,10,,10/08/2023,AUG
+Account Charges,11,,11/08/2023,AUG
+Account Charges,12,,12/08/2023,AUG
+Account Charges,13,,13/08/2023,AUG
+Account Charges,14,,14/08/2023,AUG
+Account Charges,15,,15/08/2023,AUG
+Account Charges,16,,16/08/2023,AUG
+Account Charges,17,,17/08/2023,AUG
+Account Charges,18,,18/08/2023,AUG
+Account Charges,19,,19/08/2023,AUG
+Account Charges,20,,20/08/2023,AUG
+Account Charges,21,,21/08/2023,AUG
+Account Charges,22,,22/08/2023,AUG
+Account Charges,23,5,23/08/2023,AUG
+Account Charges,24,1,24/08/2023,AUG
+Account Charges,25,1.72,25/08/2023,AUG
+Account Charges,26,,26/08/2023,AUG
+Account Charges,27,,27/08/2023,AUG
+Account Charges,28,,28/08/2023,AUG
+Account Charges,29,3,29/08/2023,AUG
+Account Charges,30,,30/08/2023,AUG
+Account Charges,31,,31/08/2023,AUG
+Rent,1,,01/10/2023,OCTOBER
+Rent,2,,02/10/2023,OCTOBER
+Rent,3,,03/10/2023,OCTOBER
+Rent,4,,04/10/2023,OCTOBER
+Rent,5,6000,05/10/2023,OCTOBER
+Rent,6,,06/10/2023,OCTOBER
+Rent,7,,07/10/2023,OCTOBER
+Rent,8,,08/10/2023,OCTOBER
+Rent,9,,09/10/2023,OCTOBER
+Rent,10,,10/10/2023,OCTOBER
+Rent,11,,11/10/2023,OCTOBER
+Rent,12,,12/10/2023,OCTOBER
+Rent,13,,13/10/2023,OCTOBER
+Rent,14,,14/10/2023,OCTOBER
+Rent,15,,15/10/2023,OCTOBER
+Rent,16,,16/10/2023,OCTOBER
+Rent,17,,17/10/2023,OCTOBER
+Rent,18,,18/10/2023,OCTOBER
+Rent,19,,19/10/2023,OCTOBER
+Rent,20,,20/10/2023,OCTOBER
+Rent,21,,21/10/2023,OCTOBER
+Rent,22,,22/10/2023,OCTOBER
+Rent,23,,23/10/2023,OCTOBER
+Rent,24,,24/10/2023,OCTOBER
+Rent,25,,25/10/2023,OCTOBER
+Rent,26,,26/10/2023,OCTOBER
+Rent,27,,27/10/2023,OCTOBER
+Rent,28,,28/10/2023,OCTOBER
+Rent,29,,29/10/2023,OCTOBER
+Rent,30,,30/10/2023,OCTOBER
+Rent,31,,31/10/2023,OCTOBER
+Data,1,,01/10/2023,OCTOBER
+Data,2,,02/10/2023,OCTOBER
+Data,3,,03/10/2023,OCTOBER
+Data,4,,04/10/2023,OCTOBER
+Data,5,,05/10/2023,OCTOBER
+Data,6,,06/10/2023,OCTOBER
+Data,7,,07/10/2023,OCTOBER
+Data,8,,08/10/2023,OCTOBER
+Data,9,,09/10/2023,OCTOBER
+Data,10,,10/10/2023,OCTOBER
+Data,11,,11/10/2023,OCTOBER
+Data,12,,12/10/2023,OCTOBER
+Data,13,,13/10/2023,OCTOBER
+Data,14,,14/10/2023,OCTOBER
+Data,15,330,15/10/2023,OCTOBER
+Data,16,,16/10/2023,OCTOBER
+Data,17,,17/10/2023,OCTOBER
+Data,18,,18/10/2023,OCTOBER
+Data,19,,19/10/2023,OCTOBER
+Data,20,,20/10/2023,OCTOBER
+Data,21,,21/10/2023,OCTOBER
+Data,22,,22/10/2023,OCTOBER
+Data,23,,23/10/2023,OCTOBER
+Data,24,,24/10/2023,OCTOBER
+Data,25,,25/10/2023,OCTOBER
+Data,26,,26/10/2023,OCTOBER
+Data,27,,27/10/2023,OCTOBER
+Data,28,,28/10/2023,OCTOBER
+Data,29,,29/10/2023,OCTOBER
+Data,30,,30/10/2023,OCTOBER
+Data,31,,31/10/2023,OCTOBER
+Savings/ Investment ,1,,01/10/2023,OCTOBER
+Savings/ Investment ,2,,02/10/2023,OCTOBER
+Savings/ Investment ,3,,03/10/2023,OCTOBER
+Savings/ Investment ,4,,04/10/2023,OCTOBER
+Savings/ Investment ,5,,05/10/2023,OCTOBER
+Savings/ Investment ,6,,06/10/2023,OCTOBER
+Savings/ Investment ,7,,07/10/2023,OCTOBER
+Savings/ Investment ,8,,08/10/2023,OCTOBER
+Savings/ Investment ,9,,09/10/2023,OCTOBER
+Savings/ Investment ,10,,10/10/2023,OCTOBER
+Savings/ Investment ,11,,11/10/2023,OCTOBER
+Savings/ Investment ,12,,12/10/2023,OCTOBER
+Savings/ Investment ,13,,13/10/2023,OCTOBER
+Savings/ Investment ,14,,14/10/2023,OCTOBER
+Savings/ Investment ,15,,15/10/2023,OCTOBER
+Savings/ Investment ,16,,16/10/2023,OCTOBER
+Savings/ Investment ,17,,17/10/2023,OCTOBER
+Savings/ Investment ,18,,18/10/2023,OCTOBER
+Savings/ Investment ,19,,19/10/2023,OCTOBER
+Savings/ Investment ,20,,20/10/2023,OCTOBER
+Savings/ Investment ,21,,21/10/2023,OCTOBER
+Savings/ Investment ,22,,22/10/2023,OCTOBER
+Savings/ Investment ,23,,23/10/2023,OCTOBER
+Savings/ Investment ,24,,24/10/2023,OCTOBER
+Savings/ Investment ,25,250,25/10/2023,OCTOBER
+Savings/ Investment ,26,,26/10/2023,OCTOBER
+Savings/ Investment ,27,,27/10/2023,OCTOBER
+Savings/ Investment ,28,,28/10/2023,OCTOBER
+Savings/ Investment ,29,,29/10/2023,OCTOBER
+Savings/ Investment ,30,,30/10/2023,OCTOBER
+Savings/ Investment ,31,,31/10/2023,OCTOBER
+Food,1,,01/10/2023,OCTOBER
+Food,2,8,02/10/2023,OCTOBER
+Food,3,7,03/10/2023,OCTOBER
+Food,4,30,04/10/2023,OCTOBER
+Food,5,8,05/10/2023,OCTOBER
+Food,6,17,06/10/2023,OCTOBER
+Food,7,50,07/10/2023,OCTOBER
+Food,8,91,08/10/2023,OCTOBER
+Food,9,,09/10/2023,OCTOBER
+Food,10,8,10/10/2023,OCTOBER
+Food,11,22,11/10/2023,OCTOBER
+Food,12,25,12/10/2023,OCTOBER
+Food,13,,13/10/2023,OCTOBER
+Food,14,23,14/10/2023,OCTOBER
+Food,15,13,15/10/2023,OCTOBER
+Food,16,,16/10/2023,OCTOBER
+Food,17,32,17/10/2023,OCTOBER
+Food,18,8,18/10/2023,OCTOBER
+Food,19,,19/10/2023,OCTOBER
+Food,20,,20/10/2023,OCTOBER
+Food,21,32,21/10/2023,OCTOBER
+Food,22,,22/10/2023,OCTOBER
+Food,23,53,23/10/2023,OCTOBER
+Food,24,27.49,24/10/2023,OCTOBER
+Food,25,11,25/10/2023,OCTOBER
+Food,26,,26/10/2023,OCTOBER
+Food,27,304,27/10/2023,OCTOBER
+Food,28,73,28/10/2023,OCTOBER
+Food,29,,29/10/2023,OCTOBER
+Food,30,40,30/10/2023,OCTOBER
+Food,31,10,31/10/2023,OCTOBER
+Healthcare,1,,01/10/2023,OCTOBER
+Healthcare,2,,02/10/2023,OCTOBER
+Healthcare,3,,03/10/2023,OCTOBER
+Healthcare,4,,04/10/2023,OCTOBER
+Healthcare,5,,05/10/2023,OCTOBER
+Healthcare,6,,06/10/2023,OCTOBER
+Healthcare,7,,07/10/2023,OCTOBER
+Healthcare,8,,08/10/2023,OCTOBER
+Healthcare,9,,09/10/2023,OCTOBER
+Healthcare,10,,10/10/2023,OCTOBER
+Healthcare,11,,11/10/2023,OCTOBER
+Healthcare,12,,12/10/2023,OCTOBER
+Healthcare,13,,13/10/2023,OCTOBER
+Healthcare,14,,14/10/2023,OCTOBER
+Healthcare,15,,15/10/2023,OCTOBER
+Healthcare,16,,16/10/2023,OCTOBER
+Healthcare,17,,17/10/2023,OCTOBER
+Healthcare,18,,18/10/2023,OCTOBER
+Healthcare,19,,19/10/2023,OCTOBER
+Healthcare,20,,20/10/2023,OCTOBER
+Healthcare,21,,21/10/2023,OCTOBER
+Healthcare,22,,22/10/2023,OCTOBER
+Healthcare,23,,23/10/2023,OCTOBER
+Healthcare,24,,24/10/2023,OCTOBER
+Healthcare,25,,25/10/2023,OCTOBER
+Healthcare,26,,26/10/2023,OCTOBER
+Healthcare,27,,27/10/2023,OCTOBER
+Healthcare,28,,28/10/2023,OCTOBER
+Healthcare,29,,29/10/2023,OCTOBER
+Healthcare,30,,30/10/2023,OCTOBER
+Healthcare,31,,31/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,1,,01/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,2,,02/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,3,,03/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,4,,04/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,5,,05/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,6,,06/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,7,,07/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,8,,08/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,9,,09/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,10,,10/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,11,,11/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,12,,12/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,13,,13/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,14,,14/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,15,,15/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,16,,16/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,17,,17/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,18,,18/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,19,,19/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,20,,20/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,21,,21/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,22,,22/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,23,,23/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,24,,24/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,25,380,25/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,26,,26/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,27,,27/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,28,,28/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,29,,29/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,30,,30/10/2023,OCTOBER
+Clothes/ Shoes/ Jewelry ,31,,31/10/2023,OCTOBER
+Toiletries/Groceries,1,,01/10/2023,OCTOBER
+Toiletries/Groceries,2,,02/10/2023,OCTOBER
+Toiletries/Groceries,3,4,03/10/2023,OCTOBER
+Toiletries/Groceries,4,,04/10/2023,OCTOBER
+Toiletries/Groceries,5,,05/10/2023,OCTOBER
+Toiletries/Groceries,6,,06/10/2023,OCTOBER
+Toiletries/Groceries,7,,07/10/2023,OCTOBER
+Toiletries/Groceries,8,,08/10/2023,OCTOBER
+Toiletries/Groceries,9,,09/10/2023,OCTOBER
+Toiletries/Groceries,10,,10/10/2023,OCTOBER
+Toiletries/Groceries,11,,11/10/2023,OCTOBER
+Toiletries/Groceries,12,,12/10/2023,OCTOBER
+Toiletries/Groceries,13,,13/10/2023,OCTOBER
+Toiletries/Groceries,14,30,14/10/2023,OCTOBER
+Toiletries/Groceries,15,37.8,15/10/2023,OCTOBER
+Toiletries/Groceries,16,,16/10/2023,OCTOBER
+Toiletries/Groceries,17,10.8,17/10/2023,OCTOBER
+Toiletries/Groceries,18,,18/10/2023,OCTOBER
+Toiletries/Groceries,19,,19/10/2023,OCTOBER
+Toiletries/Groceries,20,,20/10/2023,OCTOBER
+Toiletries/Groceries,21,,21/10/2023,OCTOBER
+Toiletries/Groceries,22,569.34,22/10/2023,OCTOBER
+Toiletries/Groceries,23,,23/10/2023,OCTOBER
+Toiletries/Groceries,24,,24/10/2023,OCTOBER
+Toiletries/Groceries,25,,25/10/2023,OCTOBER
+Toiletries/Groceries,26,,26/10/2023,OCTOBER
+Toiletries/Groceries,27,,27/10/2023,OCTOBER
+Toiletries/Groceries,28,,28/10/2023,OCTOBER
+Toiletries/Groceries,29,,29/10/2023,OCTOBER
+Toiletries/Groceries,30,,30/10/2023,OCTOBER
+Toiletries/Groceries,31,,31/10/2023,OCTOBER
+Transportation ,1,,01/10/2023,OCTOBER
+Transportation ,2,37,02/10/2023,OCTOBER
+Transportation ,3,,03/10/2023,OCTOBER
+Transportation ,4,51,04/10/2023,OCTOBER
+Transportation ,5,38,05/10/2023,OCTOBER
+Transportation ,6,86,06/10/2023,OCTOBER
+Transportation ,7,,07/10/2023,OCTOBER
+Transportation ,8,14,08/10/2023,OCTOBER
+Transportation ,9,86,09/10/2023,OCTOBER
+Transportation ,10,18,10/10/2023,OCTOBER
+Transportation ,11,,11/10/2023,OCTOBER
+Transportation ,12,14,12/10/2023,OCTOBER
+Transportation ,13,79,13/10/2023,OCTOBER
+Transportation ,14,26,14/10/2023,OCTOBER
+Transportation ,15,,15/10/2023,OCTOBER
+Transportation ,16,35,16/10/2023,OCTOBER
+Transportation ,17,,17/10/2023,OCTOBER
+Transportation ,18,80,18/10/2023,OCTOBER
+Transportation ,19,,19/10/2023,OCTOBER
+Transportation ,20,59,20/10/2023,OCTOBER
+Transportation ,21,41,21/10/2023,OCTOBER
+Transportation ,22,98,22/10/2023,OCTOBER
+Transportation ,23,,23/10/2023,OCTOBER
+Transportation ,24,49,24/10/2023,OCTOBER
+Transportation ,25,,25/10/2023,OCTOBER
+Transportation ,26,,26/10/2023,OCTOBER
+Transportation ,27,63,27/10/2023,OCTOBER
+Transportation ,28,,28/10/2023,OCTOBER
+Transportation ,29,40,29/10/2023,OCTOBER
+Transportation ,30,94,30/10/2023,OCTOBER
+Transportation ,31,,31/10/2023,OCTOBER
+Miscellaneous,1,,01/10/2023,OCTOBER
+Miscellaneous,2,,02/10/2023,OCTOBER
+Miscellaneous,3,,03/10/2023,OCTOBER
+Miscellaneous,4,,04/10/2023,OCTOBER
+Miscellaneous,5,121,05/10/2023,OCTOBER
+Miscellaneous,6,,06/10/2023,OCTOBER
+Miscellaneous,7,40,07/10/2023,OCTOBER
+Miscellaneous,8,,08/10/2023,OCTOBER
+Miscellaneous,9,80,09/10/2023,OCTOBER
+Miscellaneous,10,,10/10/2023,OCTOBER
+Miscellaneous,11,,11/10/2023,OCTOBER
+Miscellaneous,12,,12/10/2023,OCTOBER
+Miscellaneous,13,,13/10/2023,OCTOBER
+Miscellaneous,14,,14/10/2023,OCTOBER
+Miscellaneous,15,101,15/10/2023,OCTOBER
+Miscellaneous,16,51,16/10/2023,OCTOBER
+Miscellaneous,17,,17/10/2023,OCTOBER
+Miscellaneous,18,100,18/10/2023,OCTOBER
+Miscellaneous,19,,19/10/2023,OCTOBER
+Miscellaneous,20,100,20/10/2023,OCTOBER
+Miscellaneous,21,2.5,21/10/2023,OCTOBER
+Miscellaneous,22,,22/10/2023,OCTOBER
+Miscellaneous,23,20,23/10/2023,OCTOBER
+Miscellaneous,24,,24/10/2023,OCTOBER
+Miscellaneous,25,,25/10/2023,OCTOBER
+Miscellaneous,26,,26/10/2023,OCTOBER
+Miscellaneous,27,,27/10/2023,OCTOBER
+Miscellaneous,28,,28/10/2023,OCTOBER
+Miscellaneous,29,,29/10/2023,OCTOBER
+Miscellaneous,30,,30/10/2023,OCTOBER
+Miscellaneous,31,100,31/10/2023,OCTOBER
+Apple Subscriptions,1,,01/10/2023,OCTOBER
+Apple Subscriptions,2,,02/10/2023,OCTOBER
+Apple Subscriptions,3,,03/10/2023,OCTOBER
+Apple Subscriptions,4,,04/10/2023,OCTOBER
+Apple Subscriptions,5,,05/10/2023,OCTOBER
+Apple Subscriptions,6,,06/10/2023,OCTOBER
+Apple Subscriptions,7,,07/10/2023,OCTOBER
+Apple Subscriptions,8,,08/10/2023,OCTOBER
+Apple Subscriptions,9,,09/10/2023,OCTOBER
+Apple Subscriptions,10,,10/10/2023,OCTOBER
+Apple Subscriptions,11,,11/10/2023,OCTOBER
+Apple Subscriptions,12,,12/10/2023,OCTOBER
+Apple Subscriptions,13,,13/10/2023,OCTOBER
+Apple Subscriptions,14,,14/10/2023,OCTOBER
+Apple Subscriptions,15,,15/10/2023,OCTOBER
+Apple Subscriptions,16,,16/10/2023,OCTOBER
+Apple Subscriptions,17,,17/10/2023,OCTOBER
+Apple Subscriptions,18,,18/10/2023,OCTOBER
+Apple Subscriptions,19,,19/10/2023,OCTOBER
+Apple Subscriptions,20,,20/10/2023,OCTOBER
+Apple Subscriptions,21,,21/10/2023,OCTOBER
+Apple Subscriptions,22,,22/10/2023,OCTOBER
+Apple Subscriptions,23,,23/10/2023,OCTOBER
+Apple Subscriptions,24,,24/10/2023,OCTOBER
+Apple Subscriptions,25,,25/10/2023,OCTOBER
+Apple Subscriptions,26,,26/10/2023,OCTOBER
+Apple Subscriptions,27,12.57,27/10/2023,OCTOBER
+Apple Subscriptions,28,,28/10/2023,OCTOBER
+Apple Subscriptions,29,,29/10/2023,OCTOBER
+Apple Subscriptions,30,,30/10/2023,OCTOBER
+Apple Subscriptions,31,,31/10/2023,OCTOBER
+Netflix,1,,01/10/2023,OCTOBER
+Netflix,2,,02/10/2023,OCTOBER
+Netflix,3,,03/10/2023,OCTOBER
+Netflix,4,,04/10/2023,OCTOBER
+Netflix,5,,05/10/2023,OCTOBER
+Netflix,6,,06/10/2023,OCTOBER
+Netflix,7,,07/10/2023,OCTOBER
+Netflix,8,,08/10/2023,OCTOBER
+Netflix,9,,09/10/2023,OCTOBER
+Netflix,10,,10/10/2023,OCTOBER
+Netflix,11,,11/10/2023,OCTOBER
+Netflix,12,,12/10/2023,OCTOBER
+Netflix,13,,13/10/2023,OCTOBER
+Netflix,14,,14/10/2023,OCTOBER
+Netflix,15,,15/10/2023,OCTOBER
+Netflix,16,,16/10/2023,OCTOBER
+Netflix,17,,17/10/2023,OCTOBER
+Netflix,18,100.84,18/10/2023,OCTOBER
+Netflix,19,,19/10/2023,OCTOBER
+Netflix,20,,20/10/2023,OCTOBER
+Netflix,21,,21/10/2023,OCTOBER
+Netflix,22,,22/10/2023,OCTOBER
+Netflix,23,,23/10/2023,OCTOBER
+Netflix,24,,24/10/2023,OCTOBER
+Netflix,25,,25/10/2023,OCTOBER
+Netflix,26,,26/10/2023,OCTOBER
+Netflix,27,,27/10/2023,OCTOBER
+Netflix,28,,28/10/2023,OCTOBER
+Netflix,29,,29/10/2023,OCTOBER
+Netflix,30,,30/10/2023,OCTOBER
+Netflix,31,,31/10/2023,OCTOBER
+Account Charges,1,,01/10/2023,OCTOBER
+Account Charges,2,,02/10/2023,OCTOBER
+Account Charges,3,,03/10/2023,OCTOBER
+Account Charges,4,,04/10/2023,OCTOBER
+Account Charges,5,,05/10/2023,OCTOBER
+Account Charges,6,,06/10/2023,OCTOBER
+Account Charges,7,,07/10/2023,OCTOBER
+Account Charges,8,,08/10/2023,OCTOBER
+Account Charges,9,,09/10/2023,OCTOBER
+Account Charges,10,,10/10/2023,OCTOBER
+Account Charges,11,,11/10/2023,OCTOBER
+Account Charges,12,,12/10/2023,OCTOBER
+Account Charges,13,,13/10/2023,OCTOBER
+Account Charges,14,,14/10/2023,OCTOBER
+Account Charges,15,,15/10/2023,OCTOBER
+Account Charges,16,,16/10/2023,OCTOBER
+Account Charges,17,,17/10/2023,OCTOBER
+Account Charges,18,,18/10/2023,OCTOBER
+Account Charges,19,,19/10/2023,OCTOBER
+Account Charges,20,10,20/10/2023,OCTOBER
+Account Charges,21,,21/10/2023,OCTOBER
+Account Charges,22,,22/10/2023,OCTOBER
+Account Charges,23,,23/10/2023,OCTOBER
+Account Charges,24,,24/10/2023,OCTOBER
+Account Charges,25,8.2,25/10/2023,OCTOBER
+Account Charges,26,,26/10/2023,OCTOBER
+Account Charges,27,,27/10/2023,OCTOBER
+Account Charges,28,,28/10/2023,OCTOBER
+Account Charges,29,,29/10/2023,OCTOBER
+Account Charges,30,,30/10/2023,OCTOBER
+Account Charges,31,,31/10/2023,OCTOBER
+Data,1,,01/11/2023,NOV 
+Data,2,,02/11/2023,NOV 
+Data,3,,03/11/2023,NOV 
+Data,4,,04/11/2023,NOV 
+Data,5,,05/11/2023,NOV 
+Data,6,,06/11/2023,NOV 
+Data,7,,07/11/2023,NOV 
+Data,8,,08/11/2023,NOV 
+Data,9,,09/11/2023,NOV 
+Data,10,,10/11/2023,NOV 
+Data,11,,11/11/2023,NOV 
+Data,12,,12/11/2023,NOV 
+Data,13,,13/11/2023,NOV 
+Data,14,,14/11/2023,NOV 
+Data,15,,15/11/2023,NOV 
+Data,16,330,16/11/2023,NOV 
+Data,17,,17/11/2023,NOV 
+Data,18,,18/11/2023,NOV 
+Data,19,,19/11/2023,NOV 
+Data,20,,20/11/2023,NOV 
+Data,21,,21/11/2023,NOV 
+Data,22,,22/11/2023,NOV 
+Data,23,,23/11/2023,NOV 
+Data,24,,24/11/2023,NOV 
+Data,25,,25/11/2023,NOV 
+Data,26,,26/11/2023,NOV 
+Data,27,,27/11/2023,NOV 
+Data,28,,28/11/2023,NOV 
+Data,29,,29/11/2023,NOV 
+Data,30,,30/11/2023,NOV 
+Food,1,100,01/11/2023,NOV 
+Food,2,,02/11/2023,NOV 
+Food,3,,03/11/2023,NOV 
+Food,4,28,04/11/2023,NOV 
+Food,5,,05/11/2023,NOV 
+Food,6,16,06/11/2023,NOV 
+Food,7,18,07/11/2023,NOV 
+Food,8,,08/11/2023,NOV 
+Food,9,10,09/11/2023,NOV 
+Food,10,43,10/11/2023,NOV 
+Food,11,113,11/11/2023,NOV 
+Food,12,,12/11/2023,NOV 
+Food,13,5,13/11/2023,NOV 
+Food,14,10,14/11/2023,NOV 
+Food,15,,15/11/2023,NOV 
+Food,16,10,16/11/2023,NOV 
+Food,17,35,17/11/2023,NOV 
+Food,18,145,18/11/2023,NOV 
+Food,19,,19/11/2023,NOV 
+Food,20,10,20/11/2023,NOV 
+Food,21,,21/11/2023,NOV 
+Food,22,16,22/11/2023,NOV 
+Food,23,10,23/11/2023,NOV 
+Food,24,21,24/11/2023,NOV 
+Food,25,120,25/11/2023,NOV 
+Food,26,,26/11/2023,NOV 
+Food,27,93,27/11/2023,NOV 
+Food,28,,28/11/2023,NOV 
+Food,29,,29/11/2023,NOV 
+Food,30,50,30/11/2023,NOV 
+Healthcare,1,,01/11/2023,NOV 
+Healthcare,2,,02/11/2023,NOV 
+Healthcare,3,,03/11/2023,NOV 
+Healthcare,4,48.5,04/11/2023,NOV 
+Healthcare,5,,05/11/2023,NOV 
+Healthcare,6,2,06/11/2023,NOV 
+Healthcare,7,,07/11/2023,NOV 
+Healthcare,8,23.3,08/11/2023,NOV 
+Healthcare,9,,09/11/2023,NOV 
+Healthcare,10,,10/11/2023,NOV 
+Healthcare,11,,11/11/2023,NOV 
+Healthcare,12,,12/11/2023,NOV 
+Healthcare,13,,13/11/2023,NOV 
+Healthcare,14,,14/11/2023,NOV 
+Healthcare,15,,15/11/2023,NOV 
+Healthcare,16,,16/11/2023,NOV 
+Healthcare,17,17,17/11/2023,NOV 
+Healthcare,18,,18/11/2023,NOV 
+Healthcare,19,,19/11/2023,NOV 
+Healthcare,20,,20/11/2023,NOV 
+Healthcare,21,,21/11/2023,NOV 
+Healthcare,22,,22/11/2023,NOV 
+Healthcare,23,,23/11/2023,NOV 
+Healthcare,24,,24/11/2023,NOV 
+Healthcare,25,,25/11/2023,NOV 
+Healthcare,26,,26/11/2023,NOV 
+Healthcare,27,46,27/11/2023,NOV 
+Healthcare,28,,28/11/2023,NOV 
+Healthcare,29,,29/11/2023,NOV 
+Healthcare,30,15,30/11/2023,NOV 
+Toiletries/Groceries,1,120,01/11/2023,NOV 
+Toiletries/Groceries,2,,02/11/2023,NOV 
+Toiletries/Groceries,3,,03/11/2023,NOV 
+Toiletries/Groceries,4,,04/11/2023,NOV 
+Toiletries/Groceries,5,,05/11/2023,NOV 
+Toiletries/Groceries,6,,06/11/2023,NOV 
+Toiletries/Groceries,7,,07/11/2023,NOV 
+Toiletries/Groceries,8,,08/11/2023,NOV 
+Toiletries/Groceries,9,,09/11/2023,NOV 
+Toiletries/Groceries,10,,10/11/2023,NOV 
+Toiletries/Groceries,11,,11/11/2023,NOV 
+Toiletries/Groceries,12,,12/11/2023,NOV 
+Toiletries/Groceries,13,,13/11/2023,NOV 
+Toiletries/Groceries,14,,14/11/2023,NOV 
+Toiletries/Groceries,15,,15/11/2023,NOV 
+Toiletries/Groceries,16,,16/11/2023,NOV 
+Toiletries/Groceries,17,50,17/11/2023,NOV 
+Toiletries/Groceries,18,1047.6,18/11/2023,NOV 
+Toiletries/Groceries,19,133.37,19/11/2023,NOV 
+Toiletries/Groceries,20,,20/11/2023,NOV 
+Toiletries/Groceries,21,,21/11/2023,NOV 
+Toiletries/Groceries,22,,22/11/2023,NOV 
+Toiletries/Groceries,23,,23/11/2023,NOV 
+Toiletries/Groceries,24,,24/11/2023,NOV 
+Toiletries/Groceries,25,198,25/11/2023,NOV 
+Toiletries/Groceries,26,,26/11/2023,NOV 
+Toiletries/Groceries,27,,27/11/2023,NOV 
+Toiletries/Groceries,28,10,28/11/2023,NOV 
+Toiletries/Groceries,29,,29/11/2023,NOV 
+Toiletries/Groceries,30,,30/11/2023,NOV 
+Transportation ,1,14,01/11/2023,NOV 
+Transportation ,2,84,02/11/2023,NOV 
+Transportation ,3,117,03/11/2023,NOV 
+Transportation ,4,,04/11/2023,NOV 
+Transportation ,5,,05/11/2023,NOV 
+Transportation ,6,,06/11/2023,NOV 
+Transportation ,7,,07/11/2023,NOV 
+Transportation ,8,36,08/11/2023,NOV 
+Transportation ,9,41.5,09/11/2023,NOV 
+Transportation ,10,92,10/11/2023,NOV 
+Transportation ,11,,11/11/2023,NOV 
+Transportation ,12,,12/11/2023,NOV 
+Transportation ,13,50,13/11/2023,NOV 
+Transportation ,14,18,14/11/2023,NOV 
+Transportation ,15,45,15/11/2023,NOV 
+Transportation ,16,67,16/11/2023,NOV 
+Transportation ,17,120,17/11/2023,NOV 
+Transportation ,18,81,18/11/2023,NOV 
+Transportation ,19,40,19/11/2023,NOV 
+Transportation ,20,63,20/11/2023,NOV 
+Transportation ,21,4,21/11/2023,NOV 
+Transportation ,22,4.5,22/11/2023,NOV 
+Transportation ,23,,23/11/2023,NOV 
+Transportation ,24,144,24/11/2023,NOV 
+Transportation ,25,54,25/11/2023,NOV 
+Transportation ,26,65,26/11/2023,NOV 
+Transportation ,27,9.5,27/11/2023,NOV 
+Transportation ,28,5.5,28/11/2023,NOV 
+Transportation ,29,77.5,29/11/2023,NOV 
+Transportation ,30,103,30/11/2023,NOV 
+Miscellaneous,1,,01/11/2023,NOV 
+Miscellaneous,2,,02/11/2023,NOV 
+Miscellaneous,3,65,03/11/2023,NOV 
+Miscellaneous,4,22,04/11/2023,NOV 
+Miscellaneous,5,,05/11/2023,NOV 
+Miscellaneous,6,,06/11/2023,NOV 
+Miscellaneous,7,,07/11/2023,NOV 
+Miscellaneous,8,50,08/11/2023,NOV 
+Miscellaneous,9,,09/11/2023,NOV 
+Miscellaneous,10,,10/11/2023,NOV 
+Miscellaneous,11,,11/11/2023,NOV 
+Miscellaneous,12,,12/11/2023,NOV 
+Miscellaneous,13,30,13/11/2023,NOV 
+Miscellaneous,14,,14/11/2023,NOV 
+Miscellaneous,15,28,15/11/2023,NOV 
+Miscellaneous,16,,16/11/2023,NOV 
+Miscellaneous,17,,17/11/2023,NOV 
+Miscellaneous,18,3,18/11/2023,NOV 
+Miscellaneous,19,,19/11/2023,NOV 
+Miscellaneous,20,150,20/11/2023,NOV 
+Miscellaneous,21,,21/11/2023,NOV 
+Miscellaneous,22,,22/11/2023,NOV 
+Miscellaneous,23,65,23/11/2023,NOV 
+Miscellaneous,24,,24/11/2023,NOV 
+Miscellaneous,25,400,25/11/2023,NOV 
+Miscellaneous,26,,26/11/2023,NOV 
+Miscellaneous,27,3,27/11/2023,NOV 
+Miscellaneous,28,,28/11/2023,NOV 
+Miscellaneous,29,600,29/11/2023,NOV 
+Miscellaneous,30,100,30/11/2023,NOV 
+Apple Subscriptions,1,,01/11/2023,NOV 
+Apple Subscriptions,2,,02/11/2023,NOV 
+Apple Subscriptions,3,,03/11/2023,NOV 
+Apple Subscriptions,4,,04/11/2023,NOV 
+Apple Subscriptions,5,,05/11/2023,NOV 
+Apple Subscriptions,6,,06/11/2023,NOV 
+Apple Subscriptions,7,,07/11/2023,NOV 
+Apple Subscriptions,8,,08/11/2023,NOV 
+Apple Subscriptions,9,,09/11/2023,NOV 
+Apple Subscriptions,10,,10/11/2023,NOV 
+Apple Subscriptions,11,,11/11/2023,NOV 
+Apple Subscriptions,12,,12/11/2023,NOV 
+Apple Subscriptions,13,,13/11/2023,NOV 
+Apple Subscriptions,14,,14/11/2023,NOV 
+Apple Subscriptions,15,,15/11/2023,NOV 
+Apple Subscriptions,16,,16/11/2023,NOV 
+Apple Subscriptions,17,,17/11/2023,NOV 
+Apple Subscriptions,18,,18/11/2023,NOV 
+Apple Subscriptions,19,,19/11/2023,NOV 
+Apple Subscriptions,20,,20/11/2023,NOV 
+Apple Subscriptions,21,,21/11/2023,NOV 
+Apple Subscriptions,22,,22/11/2023,NOV 
+Apple Subscriptions,23,,23/11/2023,NOV 
+Apple Subscriptions,24,,24/11/2023,NOV 
+Apple Subscriptions,25,,25/11/2023,NOV 
+Apple Subscriptions,26,12.74,26/11/2023,NOV 
+Apple Subscriptions,27,,27/11/2023,NOV 
+Apple Subscriptions,28,,28/11/2023,NOV 
+Apple Subscriptions,29,,29/11/2023,NOV 
+Apple Subscriptions,30,,30/11/2023,NOV 
+Netflix,1,,01/11/2023,NOV 
+Netflix,2,,02/11/2023,NOV 
+Netflix,3,,03/11/2023,NOV 
+Netflix,4,,04/11/2023,NOV 
+Netflix,5,,05/11/2023,NOV 
+Netflix,6,,06/11/2023,NOV 
+Netflix,7,,07/11/2023,NOV 
+Netflix,8,,08/11/2023,NOV 
+Netflix,9,,09/11/2023,NOV 
+Netflix,10,,10/11/2023,NOV 
+Netflix,11,,11/11/2023,NOV 
+Netflix,12,,12/11/2023,NOV 
+Netflix,13,,13/11/2023,NOV 
+Netflix,14,,14/11/2023,NOV 
+Netflix,15,,15/11/2023,NOV 
+Netflix,16,,16/11/2023,NOV 
+Netflix,17,,17/11/2023,NOV 
+Netflix,18,,18/11/2023,NOV 
+Netflix,19,102.58,19/11/2023,NOV 
+Netflix,20,,20/11/2023,NOV 
+Netflix,21,,21/11/2023,NOV 
+Netflix,22,,22/11/2023,NOV 
+Netflix,23,,23/11/2023,NOV 
+Netflix,24,,24/11/2023,NOV 
+Netflix,25,,25/11/2023,NOV 
+Netflix,26,,26/11/2023,NOV 
+Netflix,27,,27/11/2023,NOV 
+Netflix,28,,28/11/2023,NOV 
+Netflix,29,,29/11/2023,NOV 
+Netflix,30,,30/11/2023,NOV 
+electricity,1,,01/11/2023,NOV 
+electricity,2,,02/11/2023,NOV 
+electricity,3,,03/11/2023,NOV 
+electricity,4,,04/11/2023,NOV 
+electricity,5,,05/11/2023,NOV 
+electricity,6,,06/11/2023,NOV 
+electricity,7,,07/11/2023,NOV 
+electricity,8,,08/11/2023,NOV 
+electricity,9,,09/11/2023,NOV 
+electricity,10,,10/11/2023,NOV 
+electricity,11,,11/11/2023,NOV 
+electricity,12,,12/11/2023,NOV 
+electricity,13,,13/11/2023,NOV 
+electricity,14,,14/11/2023,NOV 
+electricity,15,,15/11/2023,NOV 
+electricity,16,,16/11/2023,NOV 
+electricity,17,,17/11/2023,NOV 
+electricity,18,,18/11/2023,NOV 
+electricity,19,,19/11/2023,NOV 
+electricity,20,,20/11/2023,NOV 
+electricity,21,,21/11/2023,NOV 
+electricity,22,,22/11/2023,NOV 
+electricity,23,,23/11/2023,NOV 
+electricity,24,,24/11/2023,NOV 
+electricity,25,,25/11/2023,NOV 
+electricity,26,,26/11/2023,NOV 
+electricity,27,70,27/11/2023,NOV 
+electricity,28,,28/11/2023,NOV 
+electricity,29,,29/11/2023,NOV 
+electricity,30,,30/11/2023,NOV 
+Account Charges,1,2.9,01/11/2023,NOV 
+Account Charges,2,,02/11/2023,NOV 
+Account Charges,3,,03/11/2023,NOV 
+Account Charges,4,,04/11/2023,NOV 
+Account Charges,5,,05/11/2023,NOV 
+Account Charges,6,,06/11/2023,NOV 
+Account Charges,7,,07/11/2023,NOV 
+Account Charges,8,,08/11/2023,NOV 
+Account Charges,9,,09/11/2023,NOV 
+Account Charges,10,,10/11/2023,NOV 
+Account Charges,11,,11/11/2023,NOV 
+Account Charges,12,,12/11/2023,NOV 
+Account Charges,13,,13/11/2023,NOV 
+Account Charges,14,,14/11/2023,NOV 
+Account Charges,15,,15/11/2023,NOV 
+Account Charges,16,,16/11/2023,NOV 
+Account Charges,17,,17/11/2023,NOV 
+Account Charges,18,,18/11/2023,NOV 
+Account Charges,19,,19/11/2023,NOV 
+Account Charges,20,,20/11/2023,NOV 
+Account Charges,21,,21/11/2023,NOV 
+Account Charges,22,10,22/11/2023,NOV 
+Account Charges,23,,23/11/2023,NOV 
+Account Charges,24,,24/11/2023,NOV 
+Account Charges,25,8,25/11/2023,NOV 
+Account Charges,26,,26/11/2023,NOV 
+Account Charges,27,,27/11/2023,NOV 
+Account Charges,28,,28/11/2023,NOV 
+Account Charges,29,,29/11/2023,NOV 
+Account Charges,30,,30/11/2023,NOV 
+Rent,3,,03/12/2023,DEC
+Rent,4,,04/12/2023,DEC
+Rent,5,,05/12/2023,DEC
+Rent,6,,06/12/2023,DEC
+Rent,7,,07/12/2023,DEC
+Rent,8,,08/12/2023,DEC
+Rent,9,,09/12/2023,DEC
+Rent,10,,10/12/2023,DEC
+Rent,11,,11/12/2023,DEC
+Rent,12,,12/12/2023,DEC
+Rent,13,,13/12/2023,DEC
+Rent,14,,14/12/2023,DEC
+Rent,15,,15/12/2023,DEC
+Rent,16,,16/12/2023,DEC
+Rent,17,,17/12/2023,DEC
+Rent,18,,18/12/2023,DEC
+Rent,19,,19/12/2023,DEC
+Rent,20,,20/12/2023,DEC
+Rent,21,,21/12/2023,DEC
+Rent,22,,22/12/2023,DEC
+Rent,23,,23/12/2023,DEC
+Rent,24,,24/12/2023,DEC
+Rent,25,,25/12/2023,DEC
+Rent,26,,26/12/2023,DEC
+Rent,27,,27/12/2023,DEC
+Rent,28,,28/12/2023,DEC
+Rent,29,,29/12/2023,DEC
+Rent,30,,30/12/2023,DEC
+Rent,31,1000,31/12/2023,DEC
+Data,3,,03/12/2023,DEC
+Data,4,,04/12/2023,DEC
+Data,5,,05/12/2023,DEC
+Data,6,,06/12/2023,DEC
+Data,7,5,07/12/2023,DEC
+Data,8,,08/12/2023,DEC
+Data,9,,09/12/2023,DEC
+Data,10,,10/12/2023,DEC
+Data,11,,11/12/2023,DEC
+Data,12,,12/12/2023,DEC
+Data,13,,13/12/2023,DEC
+Data,14,,14/12/2023,DEC
+Data,15,,15/12/2023,DEC
+Data,16,450,16/12/2023,DEC
+Data,17,,17/12/2023,DEC
+Data,18,,18/12/2023,DEC
+Data,19,,19/12/2023,DEC
+Data,20,,20/12/2023,DEC
+Data,21,,21/12/2023,DEC
+Data,22,,22/12/2023,DEC
+Data,23,,23/12/2023,DEC
+Data,24,,24/12/2023,DEC
+Data,25,,25/12/2023,DEC
+Data,26,,26/12/2023,DEC
+Data,27,,27/12/2023,DEC
+Data,28,,28/12/2023,DEC
+Data,29,,29/12/2023,DEC
+Data,30,,30/12/2023,DEC
+Data,31,,31/12/2023,DEC
+Food,2,3,02/12/2023,DEC
+Food,3,,03/12/2023,DEC
+Food,4,10,04/12/2023,DEC
+Food,5,62,05/12/2023,DEC
+Food,6,10,06/12/2023,DEC
+Food,7,85,07/12/2023,DEC
+Food,8,17,08/12/2023,DEC
+Food,9,35,09/12/2023,DEC
+Food,10,,10/12/2023,DEC
+Food,11,120,11/12/2023,DEC
+Food,12,20,12/12/2023,DEC
+Food,13,20,13/12/2023,DEC
+Food,14,105,14/12/2023,DEC
+Food,15,30,15/12/2023,DEC
+Food,16,98.1,16/12/2023,DEC
+Food,17,,17/12/2023,DEC
+Food,18,20,18/12/2023,DEC
+Food,19,23,19/12/2023,DEC
+Food,20,,20/12/2023,DEC
+Food,21,6,21/12/2023,DEC
+Food,22,58,22/12/2023,DEC
+Food,23,207,23/12/2023,DEC
+Food,24,,24/12/2023,DEC
+Food,25,,25/12/2023,DEC
+Food,26,184,26/12/2023,DEC
+Food,27,,27/12/2023,DEC
+Food,28,,28/12/2023,DEC
+Food,29,134.8,29/12/2023,DEC
+Food,30,,30/12/2023,DEC
+Food,31,475,31/12/2023,DEC
+Healthcare,1,,01/12/2023,DEC
+Healthcare,2,,02/12/2023,DEC
+Healthcare,3,,03/12/2023,DEC
+Healthcare,4,,04/12/2023,DEC
+Healthcare,5,,05/12/2023,DEC
+Healthcare,6,,06/12/2023,DEC
+Healthcare,7,22,07/12/2023,DEC
+Healthcare,8,,08/12/2023,DEC
+Healthcare,9,,09/12/2023,DEC
+Healthcare,10,,10/12/2023,DEC
+Healthcare,11,,11/12/2023,DEC
+Healthcare,12,,12/12/2023,DEC
+Healthcare,13,,13/12/2023,DEC
+Healthcare,14,,14/12/2023,DEC
+Healthcare,15,,15/12/2023,DEC
+Healthcare,16,18,16/12/2023,DEC
+Healthcare,17,,17/12/2023,DEC
+Healthcare,18,,18/12/2023,DEC
+Healthcare,19,,19/12/2023,DEC
+Healthcare,20,,20/12/2023,DEC
+Healthcare,21,,21/12/2023,DEC
+Healthcare,22,,22/12/2023,DEC
+Healthcare,23,,23/12/2023,DEC
+Healthcare,24,,24/12/2023,DEC
+Healthcare,25,,25/12/2023,DEC
+Healthcare,26,16,26/12/2023,DEC
+Healthcare,27,,27/12/2023,DEC
+Healthcare,28,,28/12/2023,DEC
+Healthcare,29,,29/12/2023,DEC
+Healthcare,30,,30/12/2023,DEC
+Healthcare,31,,31/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,1,,01/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,2,120,02/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,3,,03/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,4,,04/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,5,,05/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,6,,06/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,7,,07/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,8,,08/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,9,,09/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,10,,10/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,11,,11/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,12,,12/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,13,,13/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,14,,14/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,15,,15/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,16,,16/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,17,,17/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,18,,18/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,19,,19/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,20,,20/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,21,,21/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,22,,22/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,23,,23/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,24,,24/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,25,,25/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,26,,26/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,27,,27/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,28,,28/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,29,,29/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,30,,30/12/2023,DEC
+Clothes/ Shoes/ Jewelry ,31,,31/12/2023,DEC
+Toiletries/Groceries,3,,03/12/2023,DEC
+Toiletries/Groceries,4,,04/12/2023,DEC
+Toiletries/Groceries,5,,05/12/2023,DEC
+Toiletries/Groceries,6,,06/12/2023,DEC
+Toiletries/Groceries,7,,07/12/2023,DEC
+Toiletries/Groceries,8,,08/12/2023,DEC
+Toiletries/Groceries,9,,09/12/2023,DEC
+Toiletries/Groceries,10,,10/12/2023,DEC
+Toiletries/Groceries,11,,11/12/2023,DEC
+Toiletries/Groceries,12,,12/12/2023,DEC
+Toiletries/Groceries,13,,13/12/2023,DEC
+Toiletries/Groceries,14,,14/12/2023,DEC
+Toiletries/Groceries,15,,15/12/2023,DEC
+Toiletries/Groceries,16,,16/12/2023,DEC
+Toiletries/Groceries,17,,17/12/2023,DEC
+Toiletries/Groceries,18,,18/12/2023,DEC
+Toiletries/Groceries,19,,19/12/2023,DEC
+Toiletries/Groceries,20,,20/12/2023,DEC
+Toiletries/Groceries,21,,21/12/2023,DEC
+Toiletries/Groceries,22,,22/12/2023,DEC
+Toiletries/Groceries,23,313,23/12/2023,DEC
+Toiletries/Groceries,24,1179.81,24/12/2023,DEC
+Toiletries/Groceries,25,,25/12/2023,DEC
+Toiletries/Groceries,26,47,26/12/2023,DEC
+Toiletries/Groceries,27,,27/12/2023,DEC
+Toiletries/Groceries,28,,28/12/2023,DEC
+Toiletries/Groceries,29,,29/12/2023,DEC
+Toiletries/Groceries,30,,30/12/2023,DEC
+Toiletries/Groceries,31,,31/12/2023,DEC
+Transportation ,1,29,01/12/2023,DEC
+Transportation ,2,,02/12/2023,DEC
+Transportation ,3,21,03/12/2023,DEC
+Transportation ,4,123,04/12/2023,DEC
+Transportation ,5,24,05/12/2023,DEC
+Transportation ,6,75,06/12/2023,DEC
+Transportation ,7,59,07/12/2023,DEC
+Transportation ,8,116,08/12/2023,DEC
+Transportation ,9,108,09/12/2023,DEC
+Transportation ,10,,10/12/2023,DEC
+Transportation ,11,,11/12/2023,DEC
+Transportation ,12,,12/12/2023,DEC
+Transportation ,13,15.5,13/12/2023,DEC
+Transportation ,14,30,14/12/2023,DEC
+Transportation ,15,108,15/12/2023,DEC
+Transportation ,16,,16/12/2023,DEC
+Transportation ,17,188,17/12/2023,DEC
+Transportation ,18,,18/12/2023,DEC
+Transportation ,19,12.5,19/12/2023,DEC
+Transportation ,20,74.5,20/12/2023,DEC
+Transportation ,21,37.5,21/12/2023,DEC
+Transportation ,22,110.5,22/12/2023,DEC
+Transportation ,23,129,23/12/2023,DEC
+Transportation ,24,57,24/12/2023,DEC
+Transportation ,25,76,25/12/2023,DEC
+Transportation ,26,35,26/12/2023,DEC
+Transportation ,27,19,27/12/2023,DEC
+Transportation ,28,,28/12/2023,DEC
+Transportation ,29,18,29/12/2023,DEC
+Transportation ,30,,30/12/2023,DEC
+Transportation ,31,40,31/12/2023,DEC
+Miscellaneous,1,,01/12/2023,DEC
+Miscellaneous,2,,02/12/2023,DEC
+Miscellaneous,3,,03/12/2023,DEC
+Miscellaneous,4,111,04/12/2023,DEC
+Miscellaneous,5,,05/12/2023,DEC
+Miscellaneous,6,,06/12/2023,DEC
+Miscellaneous,7,50,07/12/2023,DEC
+Miscellaneous,8,,08/12/2023,DEC
+Miscellaneous,9,,09/12/2023,DEC
+Miscellaneous,10,650,10/12/2023,DEC
+Miscellaneous,11,,11/12/2023,DEC
+Miscellaneous,12,50,12/12/2023,DEC
+Miscellaneous,13,,13/12/2023,DEC
+Miscellaneous,14,50,14/12/2023,DEC
+Miscellaneous,15,60,15/12/2023,DEC
+Miscellaneous,16,,16/12/2023,DEC
+Miscellaneous,17,,17/12/2023,DEC
+Miscellaneous,18,100,18/12/2023,DEC
+Miscellaneous,19,,19/12/2023,DEC
+Miscellaneous,20,,20/12/2023,DEC
+Miscellaneous,21,,21/12/2023,DEC
+Miscellaneous,22,,22/12/2023,DEC
+Miscellaneous,23,50,23/12/2023,DEC
+Miscellaneous,24,,24/12/2023,DEC
+Miscellaneous,25,,25/12/2023,DEC
+Miscellaneous,26,,26/12/2023,DEC
+Miscellaneous,27,,27/12/2023,DEC
+Miscellaneous,28,21,28/12/2023,DEC
+Miscellaneous,29,,29/12/2023,DEC
+Miscellaneous,30,,30/12/2023,DEC
+Miscellaneous,31,,31/12/2023,DEC
+Apple Subscriptions,1,,01/12/2023,DEC
+Apple Subscriptions,2,,02/12/2023,DEC
+Apple Subscriptions,3,,03/12/2023,DEC
+Apple Subscriptions,4,,04/12/2023,DEC
+Apple Subscriptions,5,,05/12/2023,DEC
+Apple Subscriptions,6,,06/12/2023,DEC
+Apple Subscriptions,7,,07/12/2023,DEC
+Apple Subscriptions,8,,08/12/2023,DEC
+Apple Subscriptions,9,,09/12/2023,DEC
+Apple Subscriptions,10,,10/12/2023,DEC
+Apple Subscriptions,11,,11/12/2023,DEC
+Apple Subscriptions,12,,12/12/2023,DEC
+Apple Subscriptions,13,,13/12/2023,DEC
+Apple Subscriptions,14,,14/12/2023,DEC
+Apple Subscriptions,15,,15/12/2023,DEC
+Apple Subscriptions,16,,16/12/2023,DEC
+Apple Subscriptions,17,,17/12/2023,DEC
+Apple Subscriptions,18,,18/12/2023,DEC
+Apple Subscriptions,19,,19/12/2023,DEC
+Apple Subscriptions,20,,20/12/2023,DEC
+Apple Subscriptions,21,,21/12/2023,DEC
+Apple Subscriptions,22,,22/12/2023,DEC
+Apple Subscriptions,23,,23/12/2023,DEC
+Apple Subscriptions,24,,24/12/2023,DEC
+Apple Subscriptions,25,,25/12/2023,DEC
+Apple Subscriptions,26,,26/12/2023,DEC
+Apple Subscriptions,27,12.77,27/12/2023,DEC
+Apple Subscriptions,28,,28/12/2023,DEC
+Apple Subscriptions,29,,29/12/2023,DEC
+Apple Subscriptions,30,,30/12/2023,DEC
+Apple Subscriptions,31,,31/12/2023,DEC
+Google 1,1,,01/12/2023,DEC
+Google 1,2,,02/12/2023,DEC
+Google 1,3,,03/12/2023,DEC
+Google 1,4,,04/12/2023,DEC
+Google 1,5,,05/12/2023,DEC
+Google 1,6,,06/12/2023,DEC
+Google 1,7,,07/12/2023,DEC
+Google 1,8,,08/12/2023,DEC
+Google 1,9,,09/12/2023,DEC
+Google 1,10,,10/12/2023,DEC
+Google 1,11,9,11/12/2023,DEC
+Google 1,12,,12/12/2023,DEC
+Google 1,13,,13/12/2023,DEC
+Google 1,14,,14/12/2023,DEC
+Google 1,15,,15/12/2023,DEC
+Google 1,16,,16/12/2023,DEC
+Google 1,17,,17/12/2023,DEC
+Google 1,18,,18/12/2023,DEC
+Google 1,19,,19/12/2023,DEC
+Google 1,20,,20/12/2023,DEC
+Google 1,21,,21/12/2023,DEC
+Google 1,22,,22/12/2023,DEC
+Google 1,23,,23/12/2023,DEC
+Google 1,24,,24/12/2023,DEC
+Google 1,25,,25/12/2023,DEC
+Google 1,26,,26/12/2023,DEC
+Google 1,27,,27/12/2023,DEC
+Google 1,28,,28/12/2023,DEC
+Google 1,29,,29/12/2023,DEC
+Google 1,30,,30/12/2023,DEC
+Google 1,31,,31/12/2023,DEC
+Netflix,1,,01/12/2023,DEC
+Netflix,2,,02/12/2023,DEC
+Netflix,3,,03/12/2023,DEC
+Netflix,4,,04/12/2023,DEC
+Netflix,5,,05/12/2023,DEC
+Netflix,6,,06/12/2023,DEC
+Netflix,7,,07/12/2023,DEC
+Netflix,8,,08/12/2023,DEC
+Netflix,9,,09/12/2023,DEC
+Netflix,10,,10/12/2023,DEC
+Netflix,11,,11/12/2023,DEC
+Netflix,12,,12/12/2023,DEC
+Netflix,13,,13/12/2023,DEC
+Netflix,14,,14/12/2023,DEC
+Netflix,15,,15/12/2023,DEC
+Netflix,16,,16/12/2023,DEC
+Netflix,17,,17/12/2023,DEC
+Netflix,18,,18/12/2023,DEC
+Netflix,19,,19/12/2023,DEC
+Netflix,20,,20/12/2023,DEC
+Netflix,21,,21/12/2023,DEC
+Netflix,22,,22/12/2023,DEC
+Netflix,23,103.02,23/12/2023,DEC
+Netflix,24,,24/12/2023,DEC
+Netflix,25,,25/12/2023,DEC
+Netflix,26,,26/12/2023,DEC
+Netflix,27,,27/12/2023,DEC
+Netflix,28,,28/12/2023,DEC
+Netflix,29,,29/12/2023,DEC
+Netflix,30,,30/12/2023,DEC
+Netflix,31,,31/12/2023,DEC
+electricity,3,,03/12/2023,DEC
+electricity,4,,04/12/2023,DEC
+electricity,5,,05/12/2023,DEC
+electricity,6,,06/12/2023,DEC
+electricity,7,,07/12/2023,DEC
+electricity,8,,08/12/2023,DEC
+electricity,9,,09/12/2023,DEC
+electricity,10,,10/12/2023,DEC
+electricity,11,,11/12/2023,DEC
+electricity,12,,12/12/2023,DEC
+electricity,13,,13/12/2023,DEC
+electricity,14,,14/12/2023,DEC
+electricity,15,,15/12/2023,DEC
+electricity,16,,16/12/2023,DEC
+electricity,17,,17/12/2023,DEC
+electricity,18,,18/12/2023,DEC
+electricity,19,,19/12/2023,DEC
+electricity,20,,20/12/2023,DEC
+electricity,21,,21/12/2023,DEC
+electricity,22,,22/12/2023,DEC
+electricity,23,,23/12/2023,DEC
+electricity,24,,24/12/2023,DEC
+electricity,25,,25/12/2023,DEC
+electricity,26,,26/12/2023,DEC
+electricity,27,,27/12/2023,DEC
+electricity,28,,28/12/2023,DEC
+electricity,29,,29/12/2023,DEC
+electricity,30,,30/12/2023,DEC
+electricity,31,,31/12/2023,DEC
+Account Charges,1,,01/12/2023,DEC
+Account Charges,2,1.2,02/12/2023,DEC
+Account Charges,3,,03/12/2023,DEC
+Account Charges,4,,04/12/2023,DEC
+Account Charges,5,,05/12/2023,DEC
+Account Charges,6,,06/12/2023,DEC
+Account Charges,7,,07/12/2023,DEC
+Account Charges,8,,08/12/2023,DEC
+Account Charges,9,,09/12/2023,DEC
+Account Charges,10,6.5,10/12/2023,DEC
+Account Charges,11,,11/12/2023,DEC
+Account Charges,12,7,12/12/2023,DEC
+Account Charges,13,3,13/12/2023,DEC
+Account Charges,14,,14/12/2023,DEC
+Account Charges,15,,15/12/2023,DEC
+Account Charges,16,,16/12/2023,DEC
+Account Charges,17,,17/12/2023,DEC
+Account Charges,18,,18/12/2023,DEC
+Account Charges,19,,19/12/2023,DEC
+Account Charges,20,,20/12/2023,DEC
+Account Charges,21,,21/12/2023,DEC
+Account Charges,22,,22/12/2023,DEC
+Account Charges,23,,23/12/2023,DEC
+Account Charges,24,,24/12/2023,DEC
+Account Charges,25,,25/12/2023,DEC
+Account Charges,26,,26/12/2023,DEC
+Account Charges,27,,27/12/2023,DEC
+Account Charges,28,,28/12/2023,DEC
+Account Charges,29,,29/12/2023,DEC
+Account Charges,30,,30/12/2023,DEC
+Account Charges,31,10,31/12/2023,DEC

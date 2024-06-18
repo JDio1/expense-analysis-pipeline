@@ -1,0 +1,699 @@
+Date,Month_name,Category,Amount
+2023-01-23,Jan,Rent,1205.0
+2023-01-16,Jan,Food,5.0
+2023-01-18,Jan,Food,48.0
+2023-01-19,Jan,Food,15.0
+2023-01-20,Jan,Food,104.31
+2023-01-21,Jan,Food,76.0
+2023-01-22,Jan,Food,46.0
+2023-01-23,Jan,Food,16.0
+2023-01-24,Jan,Food,15.0
+2023-01-25,Jan,Food,66.21
+2023-01-26,Jan,Food,8.0
+2023-01-27,Jan,Food,35.5
+2023-01-29,Jan,Food,35.0
+2023-01-16,Jan,Healthcare,25.0
+2023-01-28,Jan,Clothes/ Shoes/ Jewelry ,230.0
+2023-01-17,Jan,Outings,50.0
+2023-01-18,Jan,Outings,7.0
+2023-01-20,Jan,Toiletries/Groceries,5.0
+2023-01-26,Jan,Toiletries/Groceries,24.0
+2023-01-28,Jan,Toiletries/Groceries,733.0
+2023-07-01,Jul,Transportation ,23.0
+2023-10-01,Oct,Transportation ,63.0
+2023-01-19,Jan,Transportation ,63.0
+2023-01-20,Jan,Transportation ,73.0
+2023-01-23,Jan,Transportation ,48.0
+2023-01-24,Jan,Transportation ,7.0
+2023-01-25,Jan,Transportation ,12.5
+2023-01-26,Jan,Transportation ,15.0
+2023-01-27,Jan,Transportation ,40.0
+2023-01-28,Jan,Transportation ,22.0
+2023-01-29,Jan,Transportation ,86.0
+2023-01-31,Jan,Transportation ,39.0
+2023-01-01,Jan,Miscellaneous,55.0
+2023-03-01,Mar,Miscellaneous,600.0
+2023-08-01,Aug,Miscellaneous,61.0
+2023-01-13,Jan,Miscellaneous,100.0
+2023-01-14,Jan,Miscellaneous,51.0
+2023-01-28,Jan,Miscellaneous,128.25
+2023-01-19,Jan,Apple Subscriptions,45.06
+2023-01-27,Jan,Apple Subscriptions,13.56
+2023-10-01,Oct,Google 1,9.0
+2023-01-19,Jan,Netflix,133.62
+2023-01-20,Jan,electricity,101.0
+2023-01-21,Jan,Account Charges,10.0
+2023-01-02,Jan,Data,300.0
+2023-02-23,Feb,Savings/ Investment ,200.0
+2023-02-28,Feb,Hair / Gym,20.0
+2023-01-02,Jan,Food,10.0
+2023-02-02,Feb,Food,15.0
+2023-04-02,Apr,Food,112.0
+2023-06-02,Jun,Food,10.0
+2023-07-02,Jul,Food,60.0
+2023-08-02,Aug,Food,10.0
+2023-09-02,Sep,Food,36.5
+2023-12-02,Dec,Food,10.0
+2023-02-14,Feb,Food,128.0
+2023-02-15,Feb,Food,15.0
+2023-02-18,Feb,Food,10.0
+2023-02-21,Feb,Food,40.0
+2023-02-22,Feb,Food,38.0
+2023-02-23,Feb,Food,10.0
+2023-02-24,Feb,Food,75.0
+2023-02-28,Feb,Food,30.0
+2023-04-02,Apr,Healthcare,52.0
+2023-02-16,Feb,Healthcare,13.5
+2023-02-23,Feb,Healthcare,13.5
+2023-02-27,Feb,Healthcare,17.0
+2023-02-22,Feb,Clothes/ Shoes/ Jewelry ,100.0
+2023-09-02,Sep,Toiletries/Groceries,150.0
+2023-02-28,Feb,Toiletries/Groceries,122.0
+2023-01-02,Jan,Transportation ,19.0
+2023-03-02,Mar,Transportation ,2.5
+2023-04-02,Apr,Transportation ,38.0
+2023-10-02,Oct,Transportation ,9.5
+2023-12-02,Dec,Transportation ,58.0
+2023-02-14,Feb,Transportation ,113.0
+2023-02-15,Feb,Transportation ,12.0
+2023-02-21,Feb,Transportation ,98.0
+2023-02-22,Feb,Transportation ,50.0
+2023-02-23,Feb,Transportation ,14.0
+2023-02-24,Feb,Transportation ,1.0
+2023-02-25,Feb,Transportation ,55.0
+2023-02-26,Feb,Transportation ,50.0
+2023-02-28,Feb,Transportation ,20.0
+2023-09-02,Sep,Miscellaneous,63.0
+2023-12-02,Dec,Miscellaneous,50.0
+2023-02-26,Feb,Apple Subscriptions,14.0
+2023-02-22,Feb,Netflix,140.0
+2023-02-23,Feb,Account Charges,10.0
+2023-03-22,Mar,Rent,1400.0
+2023-04-03,Apr,Data,300.0
+2023-08-03,Aug,Data,6.0
+2023-03-23,Mar,Savings/ Investment ,350.0
+2023-03-27,Mar,Hair / Gym,500.0
+2023-01-03,Jan,Food,10.0
+2023-02-03,Feb,Food,11.0
+2023-03-03,Mar,Food,106.0
+2023-04-03,Apr,Food,124.0
+2023-05-03,May,Food,146.9
+2023-06-03,Jun,Food,40.0
+2023-07-03,Jul,Food,41.0
+2023-09-03,Sep,Food,9.0
+2023-10-03,Oct,Food,163.0
+2023-11-03,Nov,Food,10.0
+2023-12-03,Dec,Food,10.0
+2023-03-13,Mar,Food,2.0
+2023-03-14,Mar,Food,19.0
+2023-03-15,Mar,Food,5.5
+2023-03-16,Mar,Food,10.0
+2023-03-17,Mar,Food,120.5
+2023-03-18,Mar,Food,72.4
+2023-03-19,Mar,Food,115.0
+2023-03-20,Mar,Food,4.0
+2023-03-21,Mar,Food,85.0
+2023-03-22,Mar,Food,7.0
+2023-03-23,Mar,Food,6.0
+2023-03-24,Mar,Food,4.0
+2023-03-25,Mar,Food,56.0
+2023-03-26,Mar,Food,10.0
+2023-03-27,Mar,Food,8.0
+2023-03-28,Mar,Food,4.5
+2023-03-29,Mar,Food,21.0
+2023-03-30,Mar,Food,11.5
+2023-03-31,Mar,Food,20.5
+2023-03-15,Mar,Healthcare,245.0
+2023-09-03,Sep,Clothes/ Shoes/ Jewelry ,14.0
+2023-03-22,Mar,Clothes/ Shoes/ Jewelry ,40.0
+2023-03-23,Mar,Clothes/ Shoes/ Jewelry ,200.0
+2023-03-27,Mar,Clothes/ Shoes/ Jewelry ,10.0
+2023-03-16,Mar,Outings,200.0
+2023-03-03,Mar,Toiletries/Groceries,30.0
+2023-06-03,Jun,Toiletries/Groceries,39.0
+2023-03-24,Mar,Toiletries/Groceries,48.48
+2023-01-03,Jan,Transportation ,38.0
+2023-02-03,Feb,Transportation ,38.0
+2023-03-03,Mar,Transportation ,29.0
+2023-04-03,Apr,Transportation ,8.0
+2023-07-03,Jul,Transportation ,14.0
+2023-09-03,Sep,Transportation ,4.5
+2023-10-03,Oct,Transportation ,56.0
+2023-03-14,Mar,Transportation ,21.0
+2023-03-15,Mar,Transportation ,13.0
+2023-03-17,Mar,Transportation ,10.0
+2023-03-20,Mar,Transportation ,22.5
+2023-03-21,Mar,Transportation ,33.0
+2023-03-22,Mar,Transportation ,25.5
+2023-03-23,Mar,Transportation ,5.5
+2023-03-24,Mar,Transportation ,62.0
+2023-03-25,Mar,Transportation ,89.0
+2023-03-27,Mar,Transportation ,25.5
+2023-03-28,Mar,Transportation ,26.0
+2023-03-29,Mar,Transportation ,27.0
+2023-03-30,Mar,Transportation ,26.0
+2023-03-31,Mar,Transportation ,70.5
+2023-07-03,Jul,Miscellaneous,95.0
+2023-10-03,Oct,Miscellaneous,50.0
+2023-11-03,Nov,Miscellaneous,65.0
+2023-03-14,Mar,Miscellaneous,2.0
+2023-03-26,Mar,Apple Subscriptions,13.25
+2023-10-03,Oct,Google 1,9.0
+2023-03-19,Mar,Netflix,108.57
+2023-03-21,Mar,Account Charges,10.0
+2023-03-22,Mar,Account Charges,14.0
+2023-03-23,Mar,Account Charges,4.0
+2023-04-23,Apr,Tithe,385.0
+2023-06-04,Jun,Data,300.0
+2023-04-20,Apr,Savings/ Investment ,500.0
+2023-04-20,Apr,Hair / Gym,20.0
+2023-01-04,Jan,Food,108.35
+2023-03-04,Mar,Food,21.0
+2023-04-04,Apr,Food,7.5
+2023-05-04,May,Food,20.0
+2023-07-04,Jul,Food,17.0
+2023-10-04,Oct,Food,20.0
+2023-12-04,Dec,Food,20.0
+2023-04-13,Apr,Food,8.0
+2023-04-14,Apr,Food,15.0
+2023-04-16,Apr,Food,32.5
+2023-04-19,Apr,Food,40.0
+2023-04-20,Apr,Food,13.0
+2023-04-21,Apr,Food,101.0
+2023-04-22,Apr,Food,231.0
+2023-04-23,Apr,Food,12.0
+2023-04-24,Apr,Food,48.0
+2023-04-25,Apr,Food,14.0
+2023-04-26,Apr,Food,5.0
+2023-04-27,Apr,Food,20.0
+2023-04-28,Apr,Food,97.0
+2023-04-18,Apr,Healthcare,17.0
+2023-04-20,Apr,Clothes/ Shoes/ Jewelry ,470.0
+2023-04-04,Apr,Outings,100.0
+2023-02-04,Feb,Toiletries/Groceries,136.92
+2023-03-04,Mar,Toiletries/Groceries,39.0
+2023-09-04,Sep,Toiletries/Groceries,4.0
+2023-10-04,Oct,Toiletries/Groceries,4.5
+2023-04-22,Apr,Toiletries/Groceries,95.97
+2023-04-24,Apr,Toiletries/Groceries,72.5
+2023-02-04,Feb,Transportation ,62.0
+2023-04-04,Apr,Transportation ,17.0
+2023-05-04,May,Transportation ,20.0
+2023-06-04,Jun,Transportation ,13.0
+2023-07-04,Jul,Transportation ,13.0
+2023-09-04,Sep,Transportation ,45.0
+2023-10-04,Oct,Transportation ,32.0
+2023-04-14,Apr,Transportation ,14.0
+2023-04-15,Apr,Transportation ,50.0
+2023-04-16,Apr,Transportation ,49.0
+2023-04-19,Apr,Transportation ,30.0
+2023-04-21,Apr,Transportation ,53.0
+2023-04-22,Apr,Transportation ,16.0
+2023-04-23,Apr,Transportation ,40.0
+2023-04-28,Apr,Transportation ,6.0
+2023-05-04,May,Miscellaneous,5.0
+2023-07-04,Jul,Miscellaneous,208.0
+2023-09-04,Sep,Miscellaneous,100.0
+2023-10-04,Oct,Miscellaneous,35.0
+2023-04-17,Apr,Miscellaneous,50.0
+2023-04-20,Apr,Miscellaneous,15.0
+2023-04-28,Apr,Miscellaneous,150.0
+2023-04-26,Apr,Apple Subscriptions,12.82
+2023-10-04,Oct,Google 1,9.0
+2023-04-22,Apr,Netflix,101.74
+2023-04-20,Apr,Account Charges,5.0
+2023-04-23,Apr,Account Charges,3.0
+2023-04-28,Apr,Account Charges,6.0
+2023-06-05,Jun,Data,300.0
+2023-01-05,Jan,Food,40.0
+2023-02-05,Feb,Food,8.0
+2023-03-05,Mar,Food,100.0
+2023-04-05,Apr,Food,5.0
+2023-05-05,May,Food,5.0
+2023-06-05,Jun,Food,141.0
+2023-07-05,Jul,Food,10.0
+2023-08-05,Aug,Food,5.0
+2023-09-05,Sep,Food,22.0
+2023-10-05,Oct,Food,7.0
+2023-11-05,Nov,Food,7.0
+2023-12-05,Dec,Food,8.5
+2023-05-13,May,Food,34.0
+2023-05-14,May,Food,16.0
+2023-05-15,May,Food,7.0
+2023-05-16,May,Food,8.0
+2023-05-17,May,Food,18.0
+2023-05-18,May,Food,7.0
+2023-05-19,May,Food,140.0
+2023-05-20,May,Food,50.0
+2023-05-21,May,Food,125.0
+2023-05-22,May,Food,165.0
+2023-05-23,May,Food,9.0
+2023-05-24,May,Food,16.0
+2023-05-25,May,Food,17.0
+2023-05-26,May,Food,20.0
+2023-05-27,May,Food,89.0
+2023-05-28,May,Food,10.0
+2023-05-29,May,Food,5.0
+2023-05-30,May,Food,10.0
+2023-05-31,May,Food,8.0
+2023-06-05,Jun,Healthcare,52.0
+2023-05-29,May,Clothes/ Shoes/ Jewelry ,290.0
+2023-05-27,May,Outings,100.0
+2023-02-05,Feb,Toiletries/Groceries,39.0
+2023-04-05,Apr,Toiletries/Groceries,137.95
+2023-06-05,Jun,Toiletries/Groceries,50.49
+2023-07-05,Jul,Toiletries/Groceries,23.0
+2023-05-15,May,Toiletries/Groceries,16.0
+2023-05-16,May,Toiletries/Groceries,91.0
+2023-05-17,May,Toiletries/Groceries,13.0
+2023-05-18,May,Toiletries/Groceries,36.0
+2023-05-19,May,Toiletries/Groceries,57.0
+2023-05-22,May,Toiletries/Groceries,250.0
+2023-02-05,Feb,Transportation ,70.0
+2023-04-05,Apr,Transportation ,63.0
+2023-05-05,May,Transportation ,209.0
+2023-06-05,Jun,Transportation ,4.5
+2023-07-05,Jul,Transportation ,34.0
+2023-09-05,Sep,Transportation ,52.0
+2023-12-05,Dec,Transportation ,44.0
+2023-05-13,May,Transportation ,24.5
+2023-05-15,May,Transportation ,56.0
+2023-05-16,May,Transportation ,12.5
+2023-05-17,May,Transportation ,3.0
+2023-05-18,May,Transportation ,55.0
+2023-05-19,May,Transportation ,27.0
+2023-05-21,May,Transportation ,47.0
+2023-05-22,May,Transportation ,54.0
+2023-05-23,May,Transportation ,107.0
+2023-05-25,May,Transportation ,5.0
+2023-05-26,May,Transportation ,40.0
+2023-05-27,May,Transportation ,22.0
+2023-05-29,May,Transportation ,123.0
+2023-05-31,May,Transportation ,54.0
+2023-02-05,Feb,Miscellaneous,260.0
+2023-06-05,Jun,Miscellaneous,20.0
+2023-05-24,May,Miscellaneous,20.0
+2023-05-27,May,Miscellaneous,20.0
+2023-05-31,May,Miscellaneous,750.0
+2023-05-26,May,Apple Subscriptions,12.19
+2023-05-23,May,Netflix,93.61
+2023-02-05,Feb,Account Charges,3.55
+2023-03-05,Mar,Account Charges,1.0
+2023-06-05,Jun,Account Charges,5.0
+2023-09-05,Sep,Account Charges,1.0
+2023-05-29,May,Account Charges,1.0
+2023-05-31,May,Account Charges,5.0
+2023-06-27,Jun,Rent,500.0
+2023-05-06,May,Data,300.0
+2023-06-27,Jun,Savings/ Investment ,350.0
+2023-01-06,Jan,Food,13.0
+2023-02-06,Feb,Food,172.0
+2023-03-06,Mar,Food,23.0
+2023-04-06,Apr,Food,11.5
+2023-05-06,May,Food,8.0
+2023-06-06,Jun,Food,24.0
+2023-07-06,Jul,Food,7.0
+2023-08-06,Aug,Food,12.0
+2023-09-06,Sep,Food,17.0
+2023-10-06,Oct,Food,37.0
+2023-12-06,Dec,Food,7.0
+2023-06-13,Jun,Food,57.0
+2023-06-14,Jun,Food,7.0
+2023-06-15,Jun,Food,8.0
+2023-06-16,Jun,Food,9.0
+2023-06-17,Jun,Food,80.0
+2023-06-20,Jun,Food,17.0
+2023-06-21,Jun,Food,24.0
+2023-06-22,Jun,Food,24.0
+2023-06-25,Jun,Food,10.0
+2023-06-27,Jun,Food,13.0
+2023-06-28,Jun,Food,22.0
+2023-06-29,Jun,Food,7.0
+2023-06-30,Jun,Food,34.0
+2023-05-06,May,Healthcare,20.0
+2023-06-22,Jun,Healthcare,15.5
+2023-06-24,Jun,Healthcare,40.0
+2023-06-23,Jun,Outings,100.0
+2023-01-06,Jan,Toiletries/Groceries,107.96
+2023-06-15,Jun,Toiletries/Groceries,23.0
+2023-06-22,Jun,Toiletries/Groceries,40.0
+2023-06-24,Jun,Toiletries/Groceries,575.45
+2023-01-06,Jan,Transportation ,3.0
+2023-02-06,Feb,Transportation ,110.0
+2023-09-06,Sep,Transportation ,78.0
+2023-06-14,Jun,Transportation ,12.5
+2023-06-16,Jun,Transportation ,55.0
+2023-06-17,Jun,Transportation ,35.0
+2023-06-18,Jun,Transportation ,20.0
+2023-06-19,Jun,Transportation ,97.0
+2023-06-20,Jun,Transportation ,12.5
+2023-06-21,Jun,Transportation ,90.0
+2023-06-22,Jun,Transportation ,11.5
+2023-06-23,Jun,Transportation ,79.0
+2023-06-24,Jun,Transportation ,16.0
+2023-06-26,Jun,Transportation ,59.5
+2023-06-27,Jun,Transportation ,25.0
+2023-06-28,Jun,Transportation ,11.5
+2023-06-29,Jun,Transportation ,54.5
+2023-06-30,Jun,Transportation ,73.0
+2023-05-06,May,Miscellaneous,30.0
+2023-06-14,Jun,Miscellaneous,20.0
+2023-06-16,Jun,Miscellaneous,14.0
+2023-06-17,Jun,Miscellaneous,39.0
+2023-06-22,Jun,Miscellaneous,5.0
+2023-06-25,Jun,Miscellaneous,31.0
+2023-06-29,Jun,Miscellaneous,600.0
+2023-06-27,Jun,Apple Subscriptions,12.55
+2023-06-19,Jun,Netflix,100.02
+2023-06-25,Jun,Account Charges,3.0
+2023-06-27,Jun,Account Charges,8.5
+2023-06-30,Jun,Account Charges,5.0
+2023-04-07,Apr,Data,300.0
+2023-07-29,Jul,Savings/ Investment ,750.0
+2023-07-20,Jul,Hair / Gym,20.0
+2023-01-07,Jan,Food,39.0
+2023-02-07,Feb,Food,70.0
+2023-03-07,Mar,Food,39.0
+2023-04-07,Apr,Food,9.0
+2023-05-07,May,Food,5.0
+2023-06-07,Jun,Food,8.0
+2023-07-07,Jul,Food,39.5
+2023-08-07,Aug,Food,150.0
+2023-10-07,Oct,Food,7.0
+2023-11-07,Nov,Food,8.5
+2023-12-07,Dec,Food,8.0
+2023-07-13,Jul,Food,8.0
+2023-07-14,Jul,Food,87.7
+2023-07-17,Jul,Food,7.0
+2023-07-18,Jul,Food,16.5
+2023-07-19,Jul,Food,14.0
+2023-07-20,Jul,Food,18.0
+2023-07-22,Jul,Food,11.0
+2023-07-25,Jul,Food,14.0
+2023-07-26,Jul,Food,116.47
+2023-07-27,Jul,Food,10.0
+2023-07-28,Jul,Food,81.0
+2023-07-29,Jul,Food,85.0
+2023-07-31,Jul,Food,27.0
+2023-08-07,Aug,Healthcare,31.0
+2023-10-07,Oct,Healthcare,22.0
+2023-07-20,Jul,Toiletries/Groceries,28.0
+2023-07-22,Jul,Toiletries/Groceries,597.91
+2023-07-23,Jul,Toiletries/Groceries,120.0
+2023-07-28,Jul,Toiletries/Groceries,38.0
+2023-07-29,Jul,Toiletries/Groceries,90.0
+2023-02-07,Feb,Transportation ,35.0
+2023-03-07,Mar,Transportation ,70.5
+2023-04-07,Apr,Transportation ,25.0
+2023-05-07,May,Transportation ,27.5
+2023-06-07,Jun,Transportation ,45.0
+2023-07-07,Jul,Transportation ,85.25
+2023-08-07,Aug,Transportation ,39.0
+2023-10-07,Oct,Transportation ,82.0
+2023-07-14,Jul,Transportation ,47.0
+2023-07-17,Jul,Transportation ,56.0
+2023-07-21,Jul,Transportation ,82.0
+2023-07-22,Jul,Transportation ,69.0
+2023-07-23,Jul,Transportation ,55.0
+2023-07-24,Jul,Transportation ,51.0
+2023-07-25,Jul,Transportation ,60.5
+2023-07-26,Jul,Transportation ,16.0
+2023-07-28,Jul,Transportation ,98.0
+2023-07-29,Jul,Transportation ,50.0
+2023-07-30,Jul,Transportation ,18.0
+2023-07-07,Jul,Miscellaneous,364.6
+2023-12-07,Dec,Miscellaneous,28.0
+2023-07-13,Jul,Miscellaneous,36.0
+2023-07-22,Jul,Miscellaneous,24.0
+2023-07-23,Jul,Miscellaneous,205.0
+2023-07-29,Jul,Miscellaneous,50.0
+2023-07-26,Jul,Apple Subscriptions,12.31
+2023-07-21,Jul,Netflix,99.6
+2023-02-07,Feb,Account Charges,1.0
+2023-07-21,Jul,Account Charges,7.0
+2023-07-23,Jul,Account Charges,3.55
+2023-07-29,Jul,Account Charges,8.5
+2023-08-23,Aug,Savings/ Investment ,1000.0
+2023-01-08,Jan,Food,113.99
+2023-02-08,Feb,Food,47.0
+2023-03-08,Mar,Food,10.0
+2023-04-08,Apr,Food,111.0
+2023-05-08,May,Food,18.5
+2023-07-08,Jul,Food,5.0
+2023-08-08,Aug,Food,6.0
+2023-09-08,Sep,Food,7.5
+2023-10-08,Oct,Food,4.0
+2023-11-08,Nov,Food,4.0
+2023-08-14,Aug,Food,11.0
+2023-08-16,Aug,Food,2.0
+2023-08-17,Aug,Food,2.0
+2023-08-18,Aug,Food,4.0
+2023-08-19,Aug,Food,32.0
+2023-08-23,Aug,Food,4.0
+2023-08-24,Aug,Food,5.0
+2023-08-25,Aug,Food,47.0
+2023-08-26,Aug,Food,100.0
+2023-08-28,Aug,Food,8.0
+2023-08-29,Aug,Food,22.0
+2023-08-30,Aug,Food,18.0
+2023-08-31,Aug,Food,14.0
+2023-05-08,May,Healthcare,12.0
+2023-08-29,Aug,Healthcare,40.0
+2023-08-19,Aug,Toiletries/Groceries,544.2
+2023-08-25,Aug,Toiletries/Groceries,158.0
+2023-04-08,Apr,Transportation ,66.0
+2023-05-08,May,Transportation ,37.0
+2023-06-08,Jun,Transportation ,60.0
+2023-07-08,Jul,Transportation ,109.0
+2023-10-08,Oct,Transportation ,10.0
+2023-11-08,Nov,Transportation ,20.0
+2023-08-14,Aug,Transportation ,172.0
+2023-08-15,Aug,Transportation ,48.0
+2023-08-16,Aug,Transportation ,12.0
+2023-08-18,Aug,Transportation ,61.0
+2023-08-19,Aug,Transportation ,22.0
+2023-08-21,Aug,Transportation ,50.0
+2023-08-24,Aug,Transportation ,4.5
+2023-08-25,Aug,Transportation ,86.0
+2023-08-27,Aug,Transportation ,13.0
+2023-08-28,Aug,Transportation ,92.0
+2023-03-08,Mar,Miscellaneous,10.5
+2023-05-08,May,Miscellaneous,25.0
+2023-09-08,Sep,Miscellaneous,31.0
+2023-10-08,Oct,Miscellaneous,50.0
+2023-08-14,Aug,Miscellaneous,50.0
+2023-08-24,Aug,Miscellaneous,15.0
+2023-08-26,Aug,Apple Subscriptions,12.13
+2023-08-23,Aug,Netflix,97.44
+2023-08-23,Aug,Account Charges,5.0
+2023-08-24,Aug,Account Charges,1.0
+2023-08-25,Aug,Account Charges,1.72
+2023-08-29,Aug,Account Charges,3.0
+2023-05-10,May,Rent,6000.0
+2023-10-15,Oct,Data,330.0
+2023-10-25,Oct,Savings/ Investment ,250.0
+2023-02-10,Feb,Food,8.0
+2023-03-10,Mar,Food,7.0
+2023-04-10,Apr,Food,30.0
+2023-05-10,May,Food,8.0
+2023-06-10,Jun,Food,17.0
+2023-07-10,Jul,Food,50.0
+2023-08-10,Aug,Food,91.0
+2023-10-10,Oct,Food,8.0
+2023-11-10,Nov,Food,22.0
+2023-12-10,Dec,Food,25.0
+2023-10-14,Oct,Food,23.0
+2023-10-15,Oct,Food,13.0
+2023-10-17,Oct,Food,32.0
+2023-10-18,Oct,Food,8.0
+2023-10-21,Oct,Food,32.0
+2023-10-23,Oct,Food,53.0
+2023-10-24,Oct,Food,27.49
+2023-10-25,Oct,Food,11.0
+2023-10-27,Oct,Food,304.0
+2023-10-28,Oct,Food,73.0
+2023-10-30,Oct,Food,40.0
+2023-10-31,Oct,Food,10.0
+2023-10-25,Oct,Clothes/ Shoes/ Jewelry ,380.0
+2023-03-10,Mar,Toiletries/Groceries,4.0
+2023-10-14,Oct,Toiletries/Groceries,30.0
+2023-10-15,Oct,Toiletries/Groceries,37.8
+2023-10-17,Oct,Toiletries/Groceries,10.8
+2023-10-22,Oct,Toiletries/Groceries,569.34
+2023-02-10,Feb,Transportation ,37.0
+2023-04-10,Apr,Transportation ,51.0
+2023-05-10,May,Transportation ,38.0
+2023-06-10,Jun,Transportation ,86.0
+2023-08-10,Aug,Transportation ,14.0
+2023-09-10,Sep,Transportation ,86.0
+2023-10-10,Oct,Transportation ,18.0
+2023-12-10,Dec,Transportation ,14.0
+2023-10-13,Oct,Transportation ,79.0
+2023-10-14,Oct,Transportation ,26.0
+2023-10-16,Oct,Transportation ,35.0
+2023-10-18,Oct,Transportation ,80.0
+2023-10-20,Oct,Transportation ,59.0
+2023-10-21,Oct,Transportation ,41.0
+2023-10-22,Oct,Transportation ,98.0
+2023-10-24,Oct,Transportation ,49.0
+2023-10-27,Oct,Transportation ,63.0
+2023-10-29,Oct,Transportation ,40.0
+2023-10-30,Oct,Transportation ,94.0
+2023-05-10,May,Miscellaneous,121.0
+2023-07-10,Jul,Miscellaneous,40.0
+2023-09-10,Sep,Miscellaneous,80.0
+2023-10-15,Oct,Miscellaneous,101.0
+2023-10-16,Oct,Miscellaneous,51.0
+2023-10-18,Oct,Miscellaneous,100.0
+2023-10-20,Oct,Miscellaneous,100.0
+2023-10-21,Oct,Miscellaneous,2.5
+2023-10-23,Oct,Miscellaneous,20.0
+2023-10-31,Oct,Miscellaneous,100.0
+2023-10-27,Oct,Apple Subscriptions,12.57
+2023-10-18,Oct,Netflix,100.84
+2023-10-20,Oct,Account Charges,10.0
+2023-10-25,Oct,Account Charges,8.2
+2023-11-16,Nov,Data,330.0
+2023-01-11,Jan,Food,100.0
+2023-04-11,Apr,Food,28.0
+2023-06-11,Jun,Food,16.0
+2023-07-11,Jul,Food,18.0
+2023-09-11,Sep,Food,10.0
+2023-10-11,Oct,Food,43.0
+2023-11-11,Nov,Food,113.0
+2023-11-13,Nov,Food,5.0
+2023-11-14,Nov,Food,10.0
+2023-11-16,Nov,Food,10.0
+2023-11-17,Nov,Food,35.0
+2023-11-18,Nov,Food,145.0
+2023-11-20,Nov,Food,10.0
+2023-11-22,Nov,Food,16.0
+2023-11-23,Nov,Food,10.0
+2023-11-24,Nov,Food,21.0
+2023-11-25,Nov,Food,120.0
+2023-11-27,Nov,Food,93.0
+2023-11-30,Nov,Food,50.0
+2023-04-11,Apr,Healthcare,48.5
+2023-06-11,Jun,Healthcare,2.0
+2023-08-11,Aug,Healthcare,23.3
+2023-11-17,Nov,Healthcare,17.0
+2023-11-27,Nov,Healthcare,46.0
+2023-11-30,Nov,Healthcare,15.0
+2023-01-11,Jan,Toiletries/Groceries,120.0
+2023-11-17,Nov,Toiletries/Groceries,50.0
+2023-11-18,Nov,Toiletries/Groceries,1047.6
+2023-11-19,Nov,Toiletries/Groceries,133.37
+2023-11-25,Nov,Toiletries/Groceries,198.0
+2023-11-28,Nov,Toiletries/Groceries,10.0
+2023-01-11,Jan,Transportation ,14.0
+2023-02-11,Feb,Transportation ,84.0
+2023-03-11,Mar,Transportation ,117.0
+2023-08-11,Aug,Transportation ,36.0
+2023-09-11,Sep,Transportation ,41.5
+2023-10-11,Oct,Transportation ,92.0
+2023-11-13,Nov,Transportation ,50.0
+2023-11-14,Nov,Transportation ,18.0
+2023-11-15,Nov,Transportation ,45.0
+2023-11-16,Nov,Transportation ,67.0
+2023-11-17,Nov,Transportation ,120.0
+2023-11-18,Nov,Transportation ,81.0
+2023-11-19,Nov,Transportation ,40.0
+2023-11-20,Nov,Transportation ,63.0
+2023-11-21,Nov,Transportation ,4.0
+2023-11-22,Nov,Transportation ,4.5
+2023-11-24,Nov,Transportation ,144.0
+2023-11-25,Nov,Transportation ,54.0
+2023-11-26,Nov,Transportation ,65.0
+2023-11-27,Nov,Transportation ,9.5
+2023-11-28,Nov,Transportation ,5.5
+2023-11-29,Nov,Transportation ,77.5
+2023-11-30,Nov,Transportation ,103.0
+2023-03-11,Mar,Miscellaneous,65.0
+2023-04-11,Apr,Miscellaneous,22.0
+2023-08-11,Aug,Miscellaneous,50.0
+2023-11-13,Nov,Miscellaneous,30.0
+2023-11-15,Nov,Miscellaneous,28.0
+2023-11-18,Nov,Miscellaneous,3.0
+2023-11-20,Nov,Miscellaneous,150.0
+2023-11-23,Nov,Miscellaneous,65.0
+2023-11-25,Nov,Miscellaneous,400.0
+2023-11-27,Nov,Miscellaneous,3.0
+2023-11-29,Nov,Miscellaneous,600.0
+2023-11-30,Nov,Miscellaneous,100.0
+2023-11-26,Nov,Apple Subscriptions,12.74
+2023-11-19,Nov,Netflix,102.58
+2023-11-27,Nov,electricity,70.0
+2023-01-11,Jan,Account Charges,2.9
+2023-11-22,Nov,Account Charges,10.0
+2023-11-25,Nov,Account Charges,8.0
+2023-12-31,Dec,Rent,1000.0
+2023-07-12,Jul,Data,5.0
+2023-12-16,Dec,Data,450.0
+2023-02-12,Feb,Food,3.0
+2023-04-12,Apr,Food,10.0
+2023-05-12,May,Food,62.0
+2023-06-12,Jun,Food,10.0
+2023-07-12,Jul,Food,85.0
+2023-08-12,Aug,Food,17.0
+2023-09-12,Sep,Food,35.0
+2023-11-12,Nov,Food,120.0
+2023-12-12,Dec,Food,20.0
+2023-12-13,Dec,Food,20.0
+2023-12-14,Dec,Food,105.0
+2023-12-15,Dec,Food,30.0
+2023-12-16,Dec,Food,98.1
+2023-12-18,Dec,Food,20.0
+2023-12-19,Dec,Food,23.0
+2023-12-21,Dec,Food,6.0
+2023-12-22,Dec,Food,58.0
+2023-12-23,Dec,Food,207.0
+2023-12-26,Dec,Food,184.0
+2023-12-29,Dec,Food,134.8
+2023-12-31,Dec,Food,475.0
+2023-07-12,Jul,Healthcare,22.0
+2023-12-16,Dec,Healthcare,18.0
+2023-12-26,Dec,Healthcare,16.0
+2023-02-12,Feb,Clothes/ Shoes/ Jewelry ,120.0
+2023-12-23,Dec,Toiletries/Groceries,313.0
+2023-12-24,Dec,Toiletries/Groceries,1179.81
+2023-12-26,Dec,Toiletries/Groceries,47.0
+2023-01-12,Jan,Transportation ,29.0
+2023-03-12,Mar,Transportation ,21.0
+2023-04-12,Apr,Transportation ,123.0
+2023-05-12,May,Transportation ,24.0
+2023-06-12,Jun,Transportation ,75.0
+2023-07-12,Jul,Transportation ,59.0
+2023-08-12,Aug,Transportation ,116.0
+2023-09-12,Sep,Transportation ,108.0
+2023-12-13,Dec,Transportation ,15.5
+2023-12-14,Dec,Transportation ,30.0
+2023-12-15,Dec,Transportation ,108.0
+2023-12-17,Dec,Transportation ,188.0
+2023-12-19,Dec,Transportation ,12.5
+2023-12-20,Dec,Transportation ,74.5
+2023-12-21,Dec,Transportation ,37.5
+2023-12-22,Dec,Transportation ,110.5
+2023-12-23,Dec,Transportation ,129.0
+2023-12-24,Dec,Transportation ,57.0
+2023-12-25,Dec,Transportation ,76.0
+2023-12-26,Dec,Transportation ,35.0
+2023-12-27,Dec,Transportation ,19.0
+2023-12-29,Dec,Transportation ,18.0
+2023-12-31,Dec,Transportation ,40.0
+2023-04-12,Apr,Miscellaneous,111.0
+2023-07-12,Jul,Miscellaneous,50.0
+2023-10-12,Oct,Miscellaneous,650.0
+2023-12-12,Dec,Miscellaneous,50.0
+2023-12-14,Dec,Miscellaneous,50.0
+2023-12-15,Dec,Miscellaneous,60.0
+2023-12-18,Dec,Miscellaneous,100.0
+2023-12-23,Dec,Miscellaneous,50.0
+2023-12-28,Dec,Miscellaneous,21.0
+2023-12-27,Dec,Apple Subscriptions,12.77
+2023-11-12,Nov,Google 1,9.0
+2023-12-23,Dec,Netflix,103.02
+2023-02-12,Feb,Account Charges,1.2
+2023-10-12,Oct,Account Charges,6.5
+2023-12-12,Dec,Account Charges,7.0
+2023-12-13,Dec,Account Charges,3.0
+2023-12-31,Dec,Account Charges,10.0
